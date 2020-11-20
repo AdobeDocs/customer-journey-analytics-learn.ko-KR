@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: fb299e69c1a95322711a8fdd10bb8f96bc466d29
+source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 17%
@@ -31,17 +31,14 @@ Customer Journey Analytics를 사용하면 일반적인 고객 ID로 Analysis Wo
 
 * **[Adobe Analytics 세그먼트를 Customer Journey Analytics으로 이동(비디오)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   <br>
    *Customer Journey Analytics에서 Adobe Analytics 세그먼트를 다시 만드는 방법에 대한 팁*
 
 * **[계산된 지표를 Adobe Analytics에서 Customer Journey Analytics(비디오)로 이동](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   <br>
    *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁 학습*
 
 * **[크로스 채널 필터 만들기(비디오)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   <br>
    *두 개 이상의 데이터 소스 및 두 개 이상의 채널을 사용하는 Customer Journey Analytics에서 필터 만들기*
 
 ## 직원 선택
