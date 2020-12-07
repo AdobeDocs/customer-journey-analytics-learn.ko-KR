@@ -1,5 +1,5 @@
 ---
-title: Customer Journey Analytics 비디오 및 자습서
+title: Customer Journey Analytics 비디오 및 Tutorials
 description: Adobe Customer Journey Analytics을 위한 비디오 및 자습서 모음입니다.
 feature: overview
 topics: null
@@ -11,21 +11,21 @@ translation-type: tm+mt
 source-git-commit: 4ff16ece05eabc3b0d012d0638ddd36d3e08764d
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 17%
+ht-degree: 15%
 
 ---
 
 
 # 개요
 
-Tutorials 사이트에 [!DNL Customer Journey Analytics] 오신 것을 환영합니다.  이러한 자습서와 [설명서를](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) 함께 사용하면 멀티채널 고객 인사이트를 보다 신속하게 얻을 수 있는 방법을 보다 잘 이해할 수 있습니다.  시작하려면 다이내믹 태그 관리 계정에서
+Tutorials 사이트에 [!DNL Customer Journey Analytics] 오신 것을 환영합니다.  이러한 자습서와 [설명서를](https://docs.adobe.com/content/help/ko-KR/analytics-platform/using/cja-landing.html) 함께 사용하면 멀티채널 고객 인사이트를 보다 신속하게 얻을 수 있는 방법을 보다 잘 이해할 수 있습니다.  시작하려면 다이내믹 태그 관리 계정에서
 
 * 최신 자료 **를 보려면 아래의 &quot;새로운** 기능&quot; 섹션을 참조하십시오.
 * **직원 선택** 시 Adobe에서 가장 선호하는 컨텐츠 중 일부를 강조 표시
 * 왼쪽 탐색 창에서 주제 및 하위 주제별 컨텐츠 **살펴보기**
 * 원하는 내용을 알고 있는 경우 페이지 맨 위에 있는 **검색** 필드를 사용합니다
 
-Customer Journey Analytics를 사용하면 일반적인 고객 ID로 Analysis Workspace에서 온라인과 오프라인 데이터를 연결하는 방법을 제어할 수 있으므로 Adobe Analytics의 전체 고객 데이터 세트에 걸쳐 모든 고객 데이터 세트에 걸쳐
+Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일반 고객 ID의 온라인과 오프라인 데이터를 연결하는 방법을 제어할 수 있으며, 이를 통해 최종적으로 속성, 세그멘테이션, 흐름, 폴아웃 등을 수행할 수 있습니다. 모든 고객 데이터 세트에 걸쳐
 
 ## 새로운 기능
 
