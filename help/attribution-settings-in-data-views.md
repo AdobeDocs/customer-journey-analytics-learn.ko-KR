@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analytics의 데이터 보기의 속성 설정
-description: Customer Journey Analytics에서 데이터 보기를 구성할 때 차원 및 지표가 함께 작동하는 방식을 제어하기 위해 속성 설정을 선택할 수 있습니다. 이 비디오에서는 기본값, 옵션, 지표 및 차원 속성 설정이 상호 작용하는 방법을 안내합니다.
+description: Adobe Customer Journey Analytics에서 데이터 보기를 구성할 때 차원 및 지표가 함께 작동하는 방식을 제어하기 위해 속성 설정을 선택할 수 있습니다. 이 비디오에서는 기본값, 옵션, 지표 및 차원 속성 설정이 상호 작용하는 방법을 안내합니다.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
