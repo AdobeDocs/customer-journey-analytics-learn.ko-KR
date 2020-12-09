@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analytics의 데이터 보기에 대한 기본 구성
-description: Customer Journey Analytics에서 Adobe Experience Platform의 데이터 세트에 대한 연결을 만들었으면 해당 연결에 대한 데이터 보기를 만들어 플랫폼에서 Analysis Workspace의 데이터를 사용할 수 있어야 합니다. 이 비디오에서는 데이터 보기의 기본 구성을 안내합니다.
+description: Adobe Customer Journey Analytics에서 Adobe Experience Platform의 데이터 세트에 대한 연결을 만들었다면, 해당 연결에 대한 데이터 보기를 만들어 플랫폼의 Analysis Workspace에서 데이터를 사용할 수 있어야 합니다. 이 비디오에서는 데이터 보기의 기본 구성을 안내합니다.
 feature: customer journey analytics
 topics: null
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30186.jpg
 kt: 3958
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 1%
 
 ---
