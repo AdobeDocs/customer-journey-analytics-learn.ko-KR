@@ -1,18 +1,19 @@
 ---
 title: Customer Journey Analytics에서 데이터 사용
-description: 이 비디오에서는 데이터 집합 스키마가 Customer Journey Analytics(CJA)의 변수로 변환되는 방법뿐만 아니라 CJA가 매우 높은 카디널리티를 처리하는 방법을 알아봅니다.
+description: 이 비디오에서는 데이터 집합 스키마가 Adobe(CJA)의 변수로 변환되는 방법뿐만 아니라 CJA가 매우 높은 카디널리티를 처리하는 방법을 알아봅니다.
 feature: customer journey analytics
 topics: null
 audience: administrator, analyst, marketer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32112.jpg
 kt: 3964
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 40%
+source-wordcount: '87'
+ht-degree: 9%
 
 ---
 
