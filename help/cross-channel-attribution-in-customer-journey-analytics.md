@@ -1,17 +1,18 @@
 ---
 title: Customer Journey Analytics의 크로스채널 어트리뷰션
-description: 이 비디오에서는 시각화를 사용하여 Customer Journey Analytics의 모든 채널에서 기여도(크레디트 제공)를 표시하는 방법을 보여줍니다.
+description: 이 비디오에서는 시각화를 사용하여 Adobe Customer Journey Analytics의 모든 채널에서 기여도(크레디트 제공)를 표시하는 방법을 보여줍니다.
 feature: customer journey analytics
 topics: null
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31772.jpg
 kt: 3963
 translation-type: tm+mt
-source-git-commit: 36de96aa477ee29613cc4db2619c1d8bd1d811d0
+source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '75'
 ht-degree: 10%
 
 ---
