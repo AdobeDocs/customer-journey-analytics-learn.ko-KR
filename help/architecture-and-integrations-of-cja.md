@@ -1,19 +1,21 @@
 ---
 title: Customer Journey Analytics의 건축과 통합
 description: 이 비디오에서는 Adobe Experience Platform과의 연결 및 통합 방법 등 Adobe Customer Journey Analytics의 아키텍처에 대해 연습합니다.
-feature: 고객 여정 분석
+feature: CJA 작업 영역 기본 사항
 topics: null
-audience: developer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32483.jpg
 kt: 4449
+topic: 아키텍처
+role: '"건축가, 데이터 아키텍트"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: 08f06d4703272d5eeab612fe6b2bb6dc4adb9d74
+source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 68%
+source-wordcount: '91'
+ht-degree: 65%
 
 ---
 
