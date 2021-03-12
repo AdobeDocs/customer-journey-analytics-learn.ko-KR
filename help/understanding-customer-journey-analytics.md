@@ -9,13 +9,13 @@ doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
 level: 초급
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 90%
+ht-degree: 97%
 
 ---
 
