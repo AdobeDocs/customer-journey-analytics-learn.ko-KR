@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: 튜토리얼
 translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+source-git-commit: 83f374ef8303144f358221b656fd0480b009559d
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
@@ -30,3 +30,7 @@ ht-degree: 21%
 + [필터 소개](/help/introduction-to-filters-in-cja.md)
 + [크로스 채널 필터 만들기](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Adobe Analytics 세그먼트를 Customer Journey Analytics으로 이동](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ 블루프린트 {#blueprints}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+   + [디지털 행동 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+   + [통화 감소 여정 분석 시나리오](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
