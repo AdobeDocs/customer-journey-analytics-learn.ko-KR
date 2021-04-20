@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics이 ID를 사용하는 방법 이해
 description: 이 비디오는 기술적인 심층 조사가 아니라 방문자 ID를 스티칭하여 가능한 크로스 채널 시각화를 포함하여 ID가 Adobe Customer Journey Analytics의 분석에 어떤 영향을 주는지 실제적으로 살펴봅니다.
-feature: ID
+feature: Identity
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

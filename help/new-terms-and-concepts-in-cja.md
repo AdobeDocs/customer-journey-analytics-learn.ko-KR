@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics의 새로운 용어 및 개념
 description: 이 비디오에서는 Adobe Customer Journey Analytics의 주요 용어 및 개념, Adobe Analytics의 용어 및 개념과 Customer Journey Analytics 인터페이스에서 볼 수 있는 위치에 대해 다룹니다.
-feature: CJA 작업 영역 기본 사항
+feature: CJA Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32113.jpg
 kt: 3960
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

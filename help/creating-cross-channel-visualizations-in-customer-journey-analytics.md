@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics에서 크로스 채널 시각화 만들기
 description: 이 비디오에서 방문자당 데이터 병합을 포함하여 여러 채널에 있는 여러 데이터 세트의 데이터를 포함하는 시각화를 Adobe Customer Journey Analytics에서 만들 수 있는 방법을 알아봅니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31771.jpg
 kt: 3961
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics에서 크로스 채널 필터 만들기
 description: 이 비디오에서는 두 개 이상의 데이터 소스와 두 개 이상의 채널을 사용하는 Adobe Customer Journey Analytics에서 필터를 만드는 방법에 대해 설명합니다. 시각화에서 이러한 필터를 결합하는 방법도 확인할 수 있습니다.
-feature: 필터
+feature: Filters
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

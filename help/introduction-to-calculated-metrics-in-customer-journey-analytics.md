@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics의 계산된 지표 소개
 description: 이 비디오에서는 Adobe Customer Journey Analytics에서 계산된 지표를 만드는 기본 사항을 살펴봅니다.
-feature: 지표
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31787.jpg
 kt: 4448
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

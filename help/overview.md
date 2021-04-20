@@ -5,8 +5,8 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt

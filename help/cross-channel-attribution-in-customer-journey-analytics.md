@@ -1,15 +1,15 @@
 ---
 title: Customer Journey Analytics의 크로스 채널 속성
 description: 이 비디오에서는 시각화를 사용하여 Adobe Customer Journey Analytics의 모든 채널에 기여도(크레디트 제공)를 표시할 수 있는 방법을 보여줍니다.
-feature: 속성
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
 workflow-type: tm+mt
