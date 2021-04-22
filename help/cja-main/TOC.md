@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: dfd17aab3faf67f9d1b1739ed8e1da6809734941
+source-git-commit: 68ca589a18cea7c1ec30c2446491b8e920e2ebc9
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 21%
+source-wordcount: '146'
+ht-degree: 20%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 21%
 + [데이터 보기에 대한 기본 구성](/help/basic-configuration-for-data-views.md)
 + [데이터 보기에서 구성 요소 설정 구성](/help/configuring-component-settings-in-data-views.md)
 + [데이터 보기에서 지표 서식 지정](/help/formatting-metrics-in-data-views.md)
++ [분석을 위해 데이터 보기에서 값 버킷 만들기](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [데이터 보기의 속성 설정](/help/attribution-settings-in-data-views.md)
 + [CJA가 ID를 사용하는 방법 이해](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [기존 연결에 지난 데이터 추가](/help/add-past-data-to-an-existing-connection-in-cja.md)
