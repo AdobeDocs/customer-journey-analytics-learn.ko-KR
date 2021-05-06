@@ -3,10 +3,10 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c40fc8536dd8b8d81946f8e527cbbf2740e6b970
+source-git-commit: a05322bcba636d41f07b909f9673b68c09d499aa
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 17%
 
 ---
 
@@ -21,9 +21,12 @@ ht-degree: 19%
 + [플랫폼에서 데이터 소스에 연결](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [데이터 보기에 대한 기본 구성](/help/basic-configuration-for-data-views.md)
 + [데이터 보기에서 구성 요소 설정 구성](/help/configuring-component-settings-in-data-views.md)
++ [데이터 보기의 구성 요소 유형 설정](/help/component-type-settings-in-data-views.md)
 + [데이터 보기에서 지표 서식 지정](/help/formatting-metrics-in-data-views.md)
++ [데이터 보기에서 지표 값 포함 또는 제외](/help/include-or-exclude-metric-values-in-data-views.md)
 + [분석을 위해 데이터 보기에서 값 버킷 만들기](/help/creating-value-buckets-in-data-views-for-analysis.md)
 + [데이터 보기에서 차원 값 포함 또는 제외](/help/include-or-exclude-dimension-values-in-data-views.md)
++ [데이터 보기에서 값 없음 옵션 구성](/help/configure-no-value-options-in-data-views.md)
 + [데이터 보기의 속성 설정](/help/attribution-settings-in-data-views.md)
 + [CJA가 ID를 사용하는 방법 이해](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [기존 연결에 지난 데이터 추가](/help/add-past-data-to-an-existing-connection-in-cja.md)
