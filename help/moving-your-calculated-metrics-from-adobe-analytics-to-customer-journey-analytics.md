@@ -1,28 +1,27 @@
 ---
 title: 계산된 지표를 Adobe Analytics에서 Customer Journey Analytics으로 이동
-description: 이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁을 찾습니다.
-feature: Metrics
+description: 이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만드는 팁을 찾습니다.
+feature: 지표
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31788.jpg
 kt: 3966
-topic: Migration
-role: Business Practitioner
+topic: 마이그레이션
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
+# [!UICONTROL 계산된 지표]를 Adobe Analytics에서 Customer Journey Analytics으로 이동합니다
 
-# [!UICONTROL 계산된 지표]를 Adobe Analytics에서 Customer Journey Analytics으로 이동
-
-이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics [!UICONTROL 계산된 지표]를 다시 만드는 데 대한 팁을 찾습니다.
+이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics [!UICONTROL 계산된 지표]를 다시 만드는 팁을 찾습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
 
