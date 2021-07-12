@@ -1,23 +1,22 @@
 ---
 title: Customer Journey Analytics의 필터 소개
 description: 이 비디오에서는 Adobe Customer Journey Analytics의 필터 및 필터 빌더를 소개합니다.
-feature: Filters
+feature: 필터
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 13%
+source-wordcount: '64'
+ht-degree: 14%
 
 ---
-
 
 # Customer Journey Analytics의 [!UICONTROL 필터] 소개
 
