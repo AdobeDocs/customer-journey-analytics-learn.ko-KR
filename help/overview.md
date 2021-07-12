@@ -1,45 +1,44 @@
 ---
 title: Customer Journey Analytics 비디오 및 Tutorials
-description: Adobe Customer Journey Analytics에 대한 비디오 및 자습서 모음입니다.
+description: Adobe Customer Journey Analytics을 위한 비디오 및 자습서 모음입니다.
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 32%
+source-wordcount: '297'
+ht-degree: 33%
 
 ---
 
-
 # 개요
 
-[!DNL Customer Journey Analytics] 튜토리얼 사이트에 오신 것을 환영합니다.  이러한 튜토리얼을 [설명서](https://docs.adobe.com/content/help/ko-KR/analytics-platform/using/cja-landing.html)와 함께 사용하면 Adobe Analytics을 사용하여 멀티채널 고객 인사이트를 보다 신속하게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다.  시작하려면,
+[!DNL Customer Journey Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. 이러한 자습서를 [설명서](https://docs.adobe.com/content/help/ko-KR/analytics-platform/using/cja-landing.html)와 함께 사용하면 Adobe Analytics을 사용하여 보다 신속하게 다중 채널 고객 통찰력을 얻는 방법을 보다 효과적으로 이해할 수 있습니다.  시작하려면,
 
 * 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
 * **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
 * 찾고 있는 것을 알고 있는 경우에는 페이지 상단에 있는 **검색** 필드를 사용하십시오.
 
-Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일반 고객 ID의 온라인과 오프라인 데이터를 연결하는 방법을 제어할 수 있으며, 이를 통해 최종적으로 속성, 세그멘테이션, 흐름, 폴아웃 등을 수행할 수 있습니다. 모든 고객 데이터 세트에 걸쳐
+Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일반 고객 ID의 온라인과 오프라인 데이터를 연결하는 방법을 제어할 수 있으며, 이를 통해 최종적으로 속성, 세그멘테이션, 흐름, 폴아웃 등을 수행할 수 있습니다. 기여도 분석, 세분화, 플로우, 폴아웃 등을 수행할 수 있습니다.
 
 ## 새로운 기능
 
 * **[Adobe Analytics 세그먼트를 Customer Journey Analytics(비디오)로 이동](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
-   *Customer Journey Analytics에서 Adobe Analytics 세그먼트를 다시 만드는 방법에 대한 팁*
+   *Customer Journey Analytics에서 Adobe Analytics 세그먼트를 다시 만드는 방법에 대한 팁을 알아봅니다*
 
 * **[계산된 지표를 Adobe Analytics에서 Customer Journey Analytics(비디오)로 이동](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
-   *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁 학습*
+   *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만드는 팁을 알아봅니다*
 
 * **[크로스 채널 필터 만들기(비디오)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-   *둘 이상의 데이터 소스 및 둘 이상의 채널을 사용하는 Customer Journey Analytics에서 필터를 만듭니다.*
+   *두 개 이상의 데이터 소스 및 두 개 이상의 채널을 활용하는 Customer Journey Analytics에서 필터를 만듭니다*
 
 ## 직원 선택
 
@@ -60,15 +59,15 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
   </td>
    <td>
     <a href="/help/architecture-and-integrations-of-cja.md">
-      <img alt="Customer Journey Analytics의 건축과 통합" src="assets/32483.jpg" />
+      <img alt="Customer Journey Analytics 아키텍처 및 통합" src="assets/32483.jpg" />
     </a>
     <div>
       <a href="/help/architecture-and-integrations-of-cja.md">
-    <strong>Customer Journey Analytics의 건축과 통합</strong>
+    <strong>Customer Journey Analytics 아키텍처 및 통합</strong>
     </a>
     </div>
     <p>
-    <em>Adobe Experience Platform와의 통합을 포함하여 Customer Journey Analytics 아키텍처에 대한 연습을 수행합니다.</em>
+    <em>Adobe Experience Platform과의 통합을 포함하여 Customer Journey Analytics 아키텍처에 대해 연습합니다.</em>
     <p>
   </td>
   <td>
@@ -81,7 +80,7 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
     </a>
     </div>
     <p>
-    <em>시각화를 사용하여 모든 채널에 기여도(크레디트 제공)를 표시할 수 있는 방법입니다.</em>
+    <em>시각화를 사용하여 여러 채널에서 속성을 표시(크레딧을 제공)하는 방법.</em>
     <p>
   </td>
 </tr>
