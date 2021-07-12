@@ -1,27 +1,26 @@
 ---
 title: Customer Journey Analytics에서 데이터 작업
-description: 이 비디오에서는 데이터 집합 스키마가 Adobe Customer Journey Analytics(CJA)의 변수로 변환되는 방법뿐만 아니라 CJA가 매우 높은 카디널리티를 처리하는 방법을 알아봅니다.
-feature: Connections
+description: 이 비디오에서는 데이터 세트 스키마가 Adobe Customer Journey Analytics(CJA)의 변수로 변환되는 방법뿐만 아니라 CJA가 매우 높은 카디널리티를 처리하는 방법을 알아봅니다.
+feature: 연결
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 39%
+source-wordcount: '88'
+ht-degree: 42%
 
 ---
 
-
 # Customer Journey Analytics에서 데이터 작업
 
-이 비디오에서는 [!UICONTROL 데이터 세트] [!UICONTROL 스키마]가 Customer Journey Analytics(CJA)의 변수로 변환되는 방법과 CJA가 매우 높은 기수를 처리하는 방법을 알아봅니다.
+이 비디오에서는 [!UICONTROL 데이터 세트] [!UICONTROL 스키마]가 CJA(Customer Journey Analytics)의 변수로 변환되는 방법과 CJA가 매우 높은 카디널리티를 처리하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
 
