@@ -1,27 +1,26 @@
 ---
 title: Customer Journey Analytics이 ID를 사용하는 방법 이해
-description: 이 비디오는 기술적인 심층 조사가 아니라 방문자 ID를 스티칭하여 가능한 크로스 채널 시각화를 포함하여 ID가 Adobe Customer Journey Analytics의 분석에 어떤 영향을 주는지 실제적으로 살펴봅니다.
-feature: Identity
+description: 이 비디오는 방문자 ID를 결합함으로써 가능하게 만들어진 크로스 채널 시각화 보기를 포함하여 ID가 Adobe Customer Journey Analytics의 분석에 어떻게 영향을 주는지에 대한 기술적인 세부 사항 분석이 아닙니다.
+feature: ID
 topics: topics
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 30750.jpg
 kt: 3955
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 14%
+source-wordcount: '100'
+ht-degree: 15%
 
 ---
 
+# Customer Journey Analytics 사용 방법 이해 [!UICONTROL Identity]
 
-# Customer Journey Analytics이 [!UICONTROL Identity]를 사용하는 방법 이해
-
-이 비디오는 기술적인 심층 조사가 아니라 [!UICONTROL identity]가 [!UICONTROL visitor] ID를 스티칭하여 가능하게 한 크로스 채널 [!UICONTROL 시각화]를 포함하여 Customer Journey Analytics의 분석에 어떤 영향을 주는지 실제적으로 살펴봅니다.
+이 비디오는 기술적인 심층 잠수가 아니라 [!UICONTROL identity]이 [!UICONTROL 방문자] ID를 결합함으로써 가능한 크로스 채널 [!UICONTROL 시각화]에 대한 보기를 포함하여 Customer Journey Analytics의 분석에 어떻게 영향을 주는지에 대한 실용적인 보기입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
 
