@@ -1,28 +1,27 @@
 ---
 title: Adobe Analytics 세그먼트를 Customer Journey Analytics으로 이동
-description: 이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics 세그먼트를 "필터"로 다시 만드는 방법에 대한 팁을 알아봅니다.
-feature: Filters
+description: 이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics 세그먼트를 "필터"로 다시 만드는 팁을 알아봅니다.
+feature: 필터
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31982.jpg
 kt: 3967
-topic: Migration
-role: Business Practitioner
+topic: 마이그레이션
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: b359a509-f920-40d2-978f-983f1b555e86
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 12%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
-
 # Adobe Analytics [!UICONTROL 세그먼트]를 Customer Journey Analytics으로 이동
 
-이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics [!UICONTROL 세그먼트]를 &quot;[!UICONTROL filters]&quot;로 다시 만드는 방법에 대한 팁을 알아봅니다.
+이 비디오에서는 Customer Journey Analytics에서 Adobe Analytics [!UICONTROL 세그먼트]를 &quot;[!UICONTROL filters]&quot;로 다시 만드는 팁을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12)
 
