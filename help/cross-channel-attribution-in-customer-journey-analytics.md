@@ -1,27 +1,26 @@
 ---
 title: Customer Journey Analytics의 크로스 채널 속성
-description: 이 비디오에서는 시각화를 사용하여 Adobe Customer Journey Analytics의 모든 채널에 기여도(크레디트 제공)를 표시할 수 있는 방법을 보여줍니다.
-feature: Attribution
+description: 이 비디오에서는 시각화를 사용하여 Adobe Customer Journey Analytics에서 채널 간에 기여도 분석(크레딧을 제공)을 표시하는 방법을 보여줍니다.
+feature: 속성
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31772.jpg
 kt: 3963
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec3697dd60161b59b7f0cd9878f40fd9eeae30e5
+exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
+source-git-commit: dcce691a53200504967926e176b85dbeea667195
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '76'
 ht-degree: 11%
 
 ---
 
-
 # Customer Journey Analytics의 크로스 채널 [!UICONTROL 속성]
 
-이 비디오에서는 [!UICONTROL 시각화]를 사용하여 Customer Journey Analytics의 모든 채널에서 [!UICONTROL 기여도](크레디트 제공)를 표시할 수 있는 방법을 보여줍니다.
+이 비디오에서는 [!UICONTROL 시각화]를 사용하여 Customer Journey Analytics의 채널에서 [!UICONTROL 기여도](크레딧을 제공)를 표시하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
