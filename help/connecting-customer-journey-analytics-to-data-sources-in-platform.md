@@ -1,7 +1,7 @@
 ---
-title: 플랫폼의 데이터 소스에 Customer Journey Analytics 연결
-description: CJA(Adobe Customer Journey Analytics)은 Adobe Experience Platform의 데이터 세트 맨 위에 있는 Analysis Workspace에서 데이터를 크로스채널 분석하도록 합니다. 이 비디오에서는 플랫폼에서 CJA로 진행 중인 데이터를 스트리밍하도록 연결을 설정하는 것을 포함하여 CJA와 플랫폼 데이터 세트 간에 연결하는 방법을 보여줍니다.
-feature: 연결
+title: Customer Journey Analytics를 플랫폼의 데이터 소스에 연결
+description: Adobe Customer Journey Analytics(CJA)는 데이터에 대한 크로스 채널 분석을 수행하기 위해 Adobe Experience Platform의 데이터 세트 상단에 Analysis Workspace를 제공합니다. 이 비디오에서 CJA와 플랫폼 데이터 세트를 연결(연결 설정 포함)하여 CJA에 데이터를 지속적으로 스트림하는 방법을 소개합니다.
+feature: Connections
 topics: null
 activity: setup
 doc-type: feature video
@@ -12,19 +12,19 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
 source-git-commit: dcce691a53200504967926e176b85dbeea667195
-workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+workflow-type: ht
+source-wordcount: '162'
+ht-degree: 100%
 
 ---
 
-# 플랫폼의 데이터 [!UICONTROL 소스]에 Customer Journey Analytics 연결
+# Customer Journey Analytics를 플랫폼의 데이터 [!UICONTROL 소스]에 연결
 
-Customer Journey Analytics(CJA)는 Adobe Experience Platform의 [!UICONTROL 데이터 세트] 맨 위에 Analysis Workspace을 표시하여 데이터를 크로스채널 분석할 수 있도록 합니다. 이 비디오에서는 [!UICONTROL connection]을 설정하여 플랫폼에서 CJA로 진행 중인 데이터를 스트리밍하는 방법을 포함하여 CJA와 플랫폼 [!UICONTROL 데이터 세트] 간에 [!UICONTROL 연결]을 만드는 방법을 보여 줍니다.
+Customer Journey Analytics(CJA)는 데이터에 대한 크로스 채널 분석을 수행하기 위해 Adobe Experience Platform의 [!UICONTROL 데이터 세트] 상단에 Analysis Workspace를 제공합니다. 이 비디오에서 CJA와 플랫폼 [!UICONTROL 데이터 세트]를 [!UICONTROL 연결]([!UICONTROL 연결] 설정 포함)하여 CJA에 데이터를 지속적으로 스트림하는 방법을 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&enable10seconds=on&speedcontrol=on)
 
 ## 추가 리소스
 
-* [Adobe Experience Platform에서 데이터 세트 만들기 및 데이터 수집 - 비디오](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
-* [Customer Journey Analytics 설명서](https://docs.adobe.com/content/help/ko-KR/analytics-platform/using/cja-landing.html)
+* [Adobe Experience Platform - 비디오에서 데이터 세트 만들기 및 데이터 수집](https://docs.adobe.com/content/help/ko/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
+* [Customer Journey Analytics 설명서](https://docs.adobe.com/content/help/ko/analytics-platform/using/cja-landing.html)
