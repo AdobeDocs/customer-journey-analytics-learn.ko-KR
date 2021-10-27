@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Customer Journey Analytics를 플랫폼의 데이터 [!UICONTROL 소스]에 연결
 
-Customer Journey Analytics(CJA)는 데이터에 대한 크로스 채널 분석을 수행하기 위해 Adobe Experience Platform의 [!UICONTROL 데이터 세트] 상단에 Analysis Workspace를 제공합니다. 이 비디오에서 CJA와 플랫폼 [!UICONTROL 데이터 세트]를 [!UICONTROL 연결]([!UICONTROL 연결] 설정 포함)하여 CJA에 데이터를 지속적으로 스트림하는 방법을 소개합니다.
+Customer Journey Analytics(CJA)는 데이터에 대한 크로스 채널 분석을 수행하기 위해 Adobe Experience Platform의 [!UICONTROL 데이터 세트] 상단에 Analysis Workspace를 제공합니다. 이 비디오에서 CJA와 플랫폼 [!UICONTROL 데이터 세트]를 [!UICONTROL 연결] ([!UICONTROL 연결] 설정 포함)하여 CJA에 데이터를 지속적으로 스트림하는 방법을 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&enable10seconds=on&speedcontrol=on)
 
