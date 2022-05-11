@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
+source-git-commit: a5355b403cb353272dd5580adac31d4f4b1f1769
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 100%
@@ -28,15 +28,15 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 
 ## 새로운 기능
 
-* Adobe Analytics **[세그먼트](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**&#x200B;를 Customer Journey Analytics로 이동(비디오)
+* Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**&#x200B;를 Customer Journey Analytics로 이동(비디오)
 
    *Customer Journey Analytics의 Adobe Analytics 세그먼트를 다시 만드는 방법의 팁에 대해 알아봅니다.*
 
-* **[계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동(비디오)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동(비디오)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
    *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁에 대해 알아보기*
 
-* **[크로스 채널 필터 만들기(비디오)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[크로스 채널 필터 만들기(비디오)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
 
@@ -45,11 +45,11 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 <table>
 <tr>
   <td>
-    <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+    <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
       <img alt="CJA에서 ID를 사용하는 방법 이해" src="assets/30750.jpg" />
     </a>
     <div>
-      <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+      <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
     <strong>Customer Journey Analytics에서 ID를 사용하는 방법 이해</strong>
     </a>
     </div>
@@ -58,11 +58,11 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
     <p>
   </td>
    <td>
-    <a href="/help/architecture-and-integrations-of-cja.md">
+    <a href="architecture/architecture-and-integrations-of-cja.md">
       <img alt="Customer Journey Analytics의 아키텍처 및 통합" src="assets/32483.jpg" />
     </a>
     <div>
-      <a href="/help/architecture-and-integrations-of-cja.md">
+      <a href="architecture/architecture-and-integrations-of-cja.md">
     <strong>Customer Journey Analytics의 아키텍처 및 통합</strong>
     </a>
     </div>
@@ -71,11 +71,11 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
     <p>
   </td>
   <td>
-    <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Customer Journey Analytics의 크로스 채널 속성" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Customer Journey Analytics의 크로스 채널 속성</strong>
     </a>
     </div>
