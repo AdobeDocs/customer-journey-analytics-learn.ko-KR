@@ -1,7 +1,7 @@
 ---
 title: Customer Journey Analytics 이해
-description: Adobe Customer Journey Analytics(CJA)는 Adobe Experience Platform을 기반으로 구축된 애플리케이션 서비스입니다. 플랫폼 데이터 세트에 대해 멀티채널 분석을 수행할 수 있도록 Analysis Workspace라는 리치 분석 도구를 플랫폼에 제공합니다.
-landing-page-description: Experience Platform 데이터 세트에서 다중 채널 분석을 수행하는 방법을 알아봅니다.
+description: Adobe의 Customer Journey Analytics(CJA)는 Adobe Experience Platform을 기반으로 구축된 애플리케이션 서비스입니다. 플랫폼 데이터 세트에 대해 멀티채널 분석을 수행할 수 있도록 Analysis Workspace라는 리치 분석 도구를 플랫폼에 제공합니다.
+landing-page-description: Experience Platform 데이터 세트에서 다중 채널 분석을 수행하는 방법에 대해 알아봅니다.
 feature: CJA Workspace Basics
 topics: null
 activity: understand
@@ -13,9 +13,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
