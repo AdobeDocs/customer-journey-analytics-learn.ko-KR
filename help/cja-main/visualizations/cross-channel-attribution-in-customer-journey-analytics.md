@@ -11,10 +11,10 @@ kt: 3963
 role: User
 level: Beginner
 exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
-source-git-commit: 2b5a19397f7c2b2e775fbd5d724205922ad76f15
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
 
-Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://docs.adobe.com/content/help/ko/analytics-platform/using/cja-landing.html)를 참조하십시오.
+Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 참조하십시오.
