@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 81b0cd1dd46f9b5dd10fbe468e9067a6d866be38
+source-git-commit: 24decec83de218dc3564a98b6f9a8e4c1239dae0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 96%
    + [데이터 보기에서 구성 요소 설정 구성](data-views/configuring-component-settings-in-data-views.md)
    + [데이터 보기에서 구성 요소 유형 설정](data-views/component-type-settings-in-data-views.md)
    + [데이터 보기에서 지표 서식 지정](data-views/formatting-metrics-in-data-views.md)
+   + [하위 문자열 구성 요소 설정 구성](data-views/configure-substring-component-settings.md)
    + [데이터 보기에서 지표 값 포함 또는 제외](data-views/include-or-exclude-metric-values-in-data-views.md)
    + [분석을 위해 데이터 보기에서 값 버킷 만들기](data-views/creating-value-buckets-in-data-views-for-analysis.md)
    + [데이터 보기에서 차원 값 포함 또는 제외](data-views/include-or-exclude-dimension-values-in-data-views.md)
