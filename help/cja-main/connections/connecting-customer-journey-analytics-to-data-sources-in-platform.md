@@ -12,7 +12,7 @@ role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
 source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '158'
 ht-degree: 100%
 
@@ -27,4 +27,4 @@ Customer Journey Analytics(CJA)는 데이터에 대한 크로스 채널 분석�
 ## 추가 리소스
 
 * [Adobe Experience Platform - 비디오에서 데이터 세트 만들기 및 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
-* [Customer Journey Analytics 설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)
+* [Customer Journey Analytics 설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)
