@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 217f742a945455eaa80e539a72bcd0f09dcc8c99
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+workflow-type: tm+mt
+source-wordcount: '273'
+ht-degree: 97%
 
 ---
 
@@ -51,8 +51,10 @@ ht-degree: 100%
       + [빠른 필터 만들기](components/filters/create-a-quick-filter.md)
       + [크로스 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-   + 주석 {#annotations}
-      + [주석 만들기](components/create-an-annotation.md)
++ 패널 {#panels}
+   + [다음 및 이전 항목 패널 구성](panels/configure-next-previous-item-panel.md)
++ 주석 {#annotations}
+   + [주석 만들기](components/create-an-annotation.md)
 + 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
    + [경영진이 모바일 스코어카드에 액세스할 수 있도록 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
