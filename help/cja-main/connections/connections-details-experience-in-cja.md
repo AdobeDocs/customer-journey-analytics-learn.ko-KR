@@ -1,6 +1,6 @@
 ---
 title: CJA의 연결 세부 정보 경험
-description: 연결 세부 정보 환경을 시작합니다. 이 경험을 통해 연결의 데이터 세트 상태와 수집 프로세스를 확인할 수 있습니다.
+description: 연결의 데이터 세트 상태와 더불어 수집 프로세스 상태를 점검할 수 있는 연결 세부 정보 경험을 시작합니다.
 feature: Connections
 topic: Administration
 role: Admin
@@ -9,15 +9,15 @@ kt: 10221
 thumbnail: 342097.jpg
 exl-id: 49a902be-bb17-4bcb-b86e-0c7a93b1d580
 source-git-commit: 846dd86b60d456469618d6f6ea9c26a726215687
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 # CJA의 연결 세부 정보 경험
 
-연결의 데이터 세트 상태 및 수집 프로세스를 확인할 수 있는 연결 세부 정보 환경을 시작합니다.
+연결의 데이터 세트 상태 및 수집 프로세스 상태를 점검할 수 있는 연결 세부 정보 경험을 시작합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)
 
