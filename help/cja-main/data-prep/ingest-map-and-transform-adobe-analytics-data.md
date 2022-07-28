@@ -10,9 +10,9 @@ thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
 source-git-commit: a12cb54b55644bfaffb50eb5ca7313050b5db402
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 95%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-자세한 내용은 [Adobe Analytics 소스 커넥터 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) 및 [데이터 준비 기능 설명서](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html)를 참조하십시오.
+자세한 내용은 [Adobe Analytics Source Connector 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) 및 [데이터 준비 기능 설명서](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html)를 참조하십시오.
