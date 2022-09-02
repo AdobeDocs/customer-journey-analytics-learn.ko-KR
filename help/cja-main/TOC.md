@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ba1d644978617364017d655159e9f09d413f9f64
+source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '276'
 ht-degree: 100%
 
 ---
@@ -51,6 +51,11 @@ ht-degree: 100%
       + [빠른 필터 만들기](components/filters/create-a-quick-filter.md)
       + [크로스 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + 계산된 지표 {#calc-metrics}
+      + [Customer Journey Analytics에서 계산된 지표 소개](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+      + [계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
+   + 대상자 {#audiences}
+      + [대상 게시](components/audiences/audience-publishing-for-cja.md)
 + 패널 {#panels}
    + [다음 및 이전 항목 패널 구성](panels/configure-next-previous-item-panel.md)
 + 주석 {#annotations}
@@ -58,9 +63,6 @@ ht-degree: 100%
 + 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
    + [경영진이 모바일 스코어카드에 액세스할 수 있도록 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ 계산된 지표 {#calc-metrics}
-   + [Customer Journey Analytics에서 계산된 지표 소개](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-   + [계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + 내보내기 {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics용 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
