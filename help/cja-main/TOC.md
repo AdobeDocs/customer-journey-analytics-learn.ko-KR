@@ -3,7 +3,7 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '276'
 ht-degree: 100%
 
@@ -55,7 +55,7 @@ ht-degree: 100%
       + [Customer Journey Analytics에서 계산된 지표 소개](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
       + [계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + 대상자 {#audiences}
-      + [대상 게시](components/audiences/audience-publishing-for-cja.md)
+      + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
 + 패널 {#panels}
    + [다음 및 이전 항목 패널 구성](panels/configure-next-previous-item-panel.md)
 + 주석 {#annotations}
