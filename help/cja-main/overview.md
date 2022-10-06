@@ -8,9 +8,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 96611ef3dc511a36b465fabac00723755ab195e4
 workflow-type: ht
-source-wordcount: '298'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 100%
 
 Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일반 고객 ID의 온라인과 오프라인 데이터를 연결하는 방법을 제어할 수 있으며, 이를 통해 전체 고객 데이터 세트에서 최종적으로 속성, 세분화, 흐름, 폴아웃 등을 수행할 수 있습니다.
 
+<div id="whats-new-section">
+
 ## 새로운 기능
 
 * Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**&#x200B;를 Customer Journey Analytics로 이동(비디오)
@@ -39,6 +41,10 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 * **[크로스 채널 필터 만들기 (비디오)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## 직원 선택
 
@@ -85,3 +91,4 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
   </td>
 </tr>
 </table>
+</div>
