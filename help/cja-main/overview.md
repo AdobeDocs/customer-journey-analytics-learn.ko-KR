@@ -8,7 +8,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 96611ef3dc511a36b465fabac00723755ab195e4
+source-git-commit: ff9842fca1ddc90393a7893c92163c71eb444259
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
@@ -41,8 +41,14 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 * **[크로스 채널 필터 만들기 (비디오)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
-
 </div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
 
