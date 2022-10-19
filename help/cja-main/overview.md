@@ -8,10 +8,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: ff9842fca1ddc90393a7893c92163c71eb444259
+source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -30,7 +30,7 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 
 ## 새로운 기능
 
-* Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**&#x200B;를 Customer Journey Analytics로 이동(비디오)
+* Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**를 Customer Journey Analytics로 이동(비디오)
 
    *Customer Journey Analytics의 Adobe Analytics 세그먼트를 다시 만드는 방법의 팁에 대해 알아봅니다.*
 
@@ -41,6 +41,7 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 * **[크로스 채널 필터 만들기 (비디오)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
    *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
+
 </div>
 
 <div id="recs-overview-body-1"></div>
@@ -52,7 +53,7 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 
 <div id="staff-picks-section">
 
-## 직원 선택
+## 직원 추천
 
 <table>
 <tr>
