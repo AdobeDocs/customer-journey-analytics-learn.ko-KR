@@ -9,18 +9,18 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 # Customer Journey Analytics 튜토리얼
 
-[!DNL Customer Journey Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면:
+[!DNL Customer Journey Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko-KR)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면:
 
 * 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
-* **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
+* **직원 추천**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
 * 찾고 있는 것을 알고 있는 경우에는 페이지 상단에 있는 **검색** 필드를 사용하십시오.
 
@@ -30,7 +30,7 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 
 ## 새로운 기능
 
-* Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**를 Customer Journey Analytics로 이동(비디오)
+* Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**를 Customer Journey Analytics로 이동 (비디오)
 
    *Customer Journey Analytics의 Adobe Analytics 세그먼트를 다시 만드는 방법의 팁에 대해 알아봅니다.*
 
