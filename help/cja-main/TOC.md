@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 70696bb3348513222627128a1597d08e127a8a36
+source-git-commit: 143f2dfb69c303e5dbe83a37efc88622ea1ddb21
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 100%
+source-wordcount: '280'
+ht-degree: 98%
 
 ---
 
@@ -58,6 +58,7 @@ ht-degree: 100%
       + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
 + 패널 {#panels}
    + [다음 및 이전 항목 패널 구성](panels/configure-next-previous-item-panel.md)
+   + [실험 패널 사용](panels/use-the-experimentation-panel.md)
 + 주석 {#annotations}
    + [주석 만들기](components/create-an-annotation.md)
 + 대시보드 (스코어카드) {#dashboards}
