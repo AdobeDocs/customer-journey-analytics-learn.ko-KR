@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: 06eb1fea41a95769f2f4499ef2c11e834e211faa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -68,8 +68,8 @@ ht-degree: 95%
    + Report Builder {#report-builder}
       + [Customer Journey Analytics용 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
 + 사용 사례 {#use-cases}
-   + 데이터 보기 활용 사례 {#data-views-use-cases}
-      + [첫 번째 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+   + 데이터 보기 사용 사례 {#data-views-use-cases}
+      + [최초 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [날짜 필드 지원 활용](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + 블루프린트 {#blueprints}
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
