@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 97%
 + 내보내기 {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics용 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
-      + [Report Builder을 사용하여 Customer Journey Analytics 통합 문서 예약](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
+      + [Report Builder를 사용하여 Customer Journey Analytics 통합 문서 예약](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + 사용 사례 {#use-cases}
    + 데이터 보기 사용 사례 {#data-views-use-cases}
       + [최초 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
