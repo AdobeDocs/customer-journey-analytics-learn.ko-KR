@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 35958b61b24b54d5e963b621df980cebf52fcfe1
+source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,9 +23,8 @@ ht-degree: 100%
    + [데이터 작업](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics 데이터 수집, 매핑 및 변형](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + 연결 {#connections}
-   + [플랫폼에서 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-   + [CJA의 연결 세부 정보 경험](connections/connections-details-experience-in-cja.md)
-   + [연결 생성 및 편집 경험](connections/cja-connections-creation-and-edit-experience.md)
+   + [Experience Platform 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+   + [연결 설정 보기, 문제 해결 및 수정](connections/connections-details-experience-in-cja.md)
    + [기존 연결에 지난 데이터 추가](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + 방문자 식별 {#visitor-id}
    + [CJA에서 ID를 사용하는 방법 이해](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
