@@ -12,9 +12,9 @@ kt: 3965
 last-substantial-update: 2023-03-17T00:00:00Z
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 source-git-commit: 308ad876b73b0d8d8e3efc5fafe068630e0a6a1d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Customer Journey Analytics 연결에 다른 채널의 새 데이터를 추가하
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-크로스 채널 분석에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=ko-KR).
+교차 채널 분석에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html?lang=ko-KR)를 참조하십시오.
