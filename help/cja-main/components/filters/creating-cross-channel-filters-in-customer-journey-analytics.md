@@ -11,7 +11,7 @@ kt: 3962
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오를 통해 Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 [!UICONTROL 필터]를 만드는 방법에 대해 설명합니다. 해당 [!UICONTROL 필터]가 [!UICONTROL 시각화]에서 어떻게 결합되는지 살펴볼 수도 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
 
 Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)를 참조하십시오.
