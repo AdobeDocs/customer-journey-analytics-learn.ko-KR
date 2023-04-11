@@ -11,7 +11,7 @@ kt: 3955
 role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
-source-git-commit: 5ca07f3aa1e080e9288b094c4c7921e11cae5d40
+source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
 workflow-type: ht
 source-wordcount: '97'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오를 통해 기술적인 측면이 아니라 Customer Journey Analytics에서 [!UICONTROL ID]가 분석에 미치는 영향([!UICONTROL 방문자] ID 결합을 통해 가능해진 크로스 채널 [!UICONTROL 시각화] 포함)에 대해 실질적으로 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/30750/?quality=12&enable10seconds=on&speedcontrol=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12&enable10seconds=on&speedcontrol=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)를 참조하십시오.
