@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
-workflow-type: ht
-source-wordcount: '310'
-ht-degree: 100%
+source-git-commit: 0a7d2eb934bfde453916a8211f1dc7b717bb5fe5
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 98%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 100%
 + Analysis Workspace {#analysis-workspace}
    + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
+      + [새 프로젝트 작성](analysis-workspace/workspace-projects/build-a-new-project.md)
 + 시각화 {#visualizations}
    + [크로스 채널 시각화 만들기](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [크로스 채널 속성](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -80,3 +81,6 @@ ht-degree: 100%
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
    + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=ko#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
