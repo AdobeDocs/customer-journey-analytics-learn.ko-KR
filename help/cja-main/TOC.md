@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 8508b1e6e392a89a8e033baf06472da8e764e28e
-workflow-type: ht
-source-wordcount: '320'
+source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
+workflow-type: tm+mt
+source-wordcount: '324'
 ht-degree: 100%
 
 ---
@@ -55,6 +55,7 @@ ht-degree: 100%
       + [필터 소개](components/filters/introduction-to-filters-in-cja.md)
       + [빠른 필터 만들기](components/filters/create-a-quick-filter.md)
       + [크로스 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [필터를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 계산된 지표 {#calc-metrics}
       + [Customer Journey Analytics에서 계산된 지표 소개](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
