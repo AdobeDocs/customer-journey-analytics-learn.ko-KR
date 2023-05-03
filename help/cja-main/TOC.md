@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 20114569963ebaf9c1feea4b5a2cc568d66e6985
+source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 100%
    + [크로스 채널 속성](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
-      + [필터 소개](components/filters/introduction-to-filters-in-cja.md)
+      + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
       + [빠른 필터 만들기](components/filters/create-a-quick-filter.md)
       + [크로스 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [필터를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
