@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5b7ce13569961cc78be0e2946e3e9607f5ed9a6b
+source-git-commit: 7b4c5bfd8f3fef5a8b52597958efbfeec98c3b45
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '327'
+ht-degree: 92%
 
 ---
 
@@ -62,6 +62,8 @@ ht-degree: 0%
       + [계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
    + 대상자 {#audiences}
       + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
+   + 데이터 사전 {#data-dictionary}
+      + [데이터 사전 사용](components/data-dictionary/use-data-dictionary.md)
 + 패널 {#panels}
    + [다음 및 이전 항목 패널 구성](panels/configure-next-previous-item-panel.md)
    + [실험 패널 사용](panels/use-the-experimentation-panel.md)
@@ -77,12 +79,9 @@ ht-degree: 0%
 + 사용 사례 {#use-cases}
    + 데이터 보기 사용 사례 {#data-views-use-cases}
       + [최초 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-      + [날짜 필드 지원 활용](use-cases/data-views-use-cases/leverage-date-field-support.md)
+      + [날짜 필드 지원 사용](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + 블루프린트 {#blueprints}
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=ko#customer-journey-analytics)
+   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
