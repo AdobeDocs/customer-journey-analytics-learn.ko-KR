@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
+source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 79%
+source-wordcount: '388'
+ht-degree: 77%
 
 ---
 
@@ -48,23 +48,30 @@ ht-degree: 79%
    + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [새 프로젝트 빌드](analysis-workspace/workspace-projects/build-a-new-project.md)
+   + 패널 {#panels}
+      + [다음 및 이전 항목 패널 구성](analysis-workspace/panels/configure-next-previous-item-panel.md)
+      + [실험 패널 사용](analysis-workspace/panels/use-the-experimentation-panel.md)
+   + 시각화 {#visualizations}
+      + [크로스 채널 시각화 만들기](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [크로스 채널 속성](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [지능형 캡션 만들기](analysis-workspace/visualizations/intelligent-captions.md)
+      + [영역 시각화 추가](analysis-workspace/visualizations/add-area-visualizations.md)
+      + [바 시각화 추가](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [글머리 기호 그래프 시각화 추가](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
+      + [도넛 시각화 추가](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [선 시각화 추가](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [맵 시각화 사용](analysis-workspace/visualizations/use-map-visualization.md)
+      + [요약 시각화 사용](analysis-workspace/visualizations/use-summary-visualizations.md)
+      + [텍스트 시각화 추가](analysis-workspace/visualizations/add-text-visualizations.md)
+      + [산포도 시각화 사용](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+      + [트리 맵 시각화 추가](analysis-workspace/visualizations/add-treemap-visualizations.md)
+      + [완전히 스택된 시각화 만들기](analysis-workspace/visualizations/create-stacked-visualizations.md)
+   + 주석 {#annotations}
+      + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
    + 조정 및 공유{#curate-and-share}를 참조하십시오 
       + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+ 시각화 {#visualizations}
-   + [크로스 채널 시각화 만들기](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-   + [크로스 채널 속성](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [지능형 캡션 만들기](visualizations/intelligent-captions.md)
-   + [영역 시각화 추가](visualizations/add-area-visualizations.md)
-   + [바 시각화 추가](visualizations/add-bar-visualizations.md)
-   + [글머리 기호 그래프 시각화 추가](visualizations/add-bullet-graph-visualizations.md)
-   + [도넛 시각화 추가](visualizations/add-donut-visualizations.md)
-   + [선 시각화 추가](visualizations/add-line-visualizations.md)
-   + [맵 시각화 사용](visualizations/use-map-visualization.md)
-   + [요약 시각화 사용](visualizations/use-summary-visualizations.md)
-   + [텍스트 시각화 추가](visualizations/add-text-visualizations.md)
-   + [산포도 시각화 사용](visualizations/use-scatterplot-visualizations.md)
-   + [트리 맵 시각화 추가](visualizations/add-treemap-visualizations.md)
-   + [완전히 스택된 시각화 만들기](visualizations/create-stacked-visualizations.md)
+   + 팁과 트릭 {#tips-and-tricks}
+      + [동적 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
@@ -79,11 +86,6 @@ ht-degree: 79%
       + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
    + 데이터 사전 {#data-dictionary}
       + [데이터 사전 사용](components/data-dictionary/use-data-dictionary.md)
-+ 패널 {#panels}
-   + [다음 및 이전 항목 패널 구성](panels/configure-next-previous-item-panel.md)
-   + [실험 패널 사용](panels/use-the-experimentation-panel.md)
-+ 주석 {#annotations}
-   + [주석 만들기](components/create-an-annotation.md)
 + 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
    + [경영진의 모바일 스코어카드 액세스 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)

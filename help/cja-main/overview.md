@@ -8,8 +8,8 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: 4c6b2cad13a20c04c40e937275a2c22c21fc3463
-workflow-type: ht
+source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 100%
 
@@ -31,16 +31,13 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
 ## 새로운 기능
 
 * Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**를 Customer Journey Analytics로 이동 (비디오)
-
-   *Customer Journey Analytics의 Adobe Analytics 세그먼트를 다시 만드는 방법의 팁에 대해 알아봅니다.*
+  *Customer Journey Analytics의 Adobe Analytics 세그먼트를 다시 만드는 방법의 팁에 대해 알아봅니다.*
 
 * **[계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동 (비디오)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-
-   *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁에 대해 알아보기*
+  *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁에 대해 알아보기*
 
 * **[크로스 채널 필터 만들기 (비디오)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-
-   *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
+  *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
 
 </div>
 
@@ -84,11 +81,11 @@ Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일�
     <p>
   </td>
   <td>
-    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Customer Journey Analytics의 크로스 채널 속성" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Customer Journey Analytics의 크로스 채널 속성</strong>
     </a>
     </div>
