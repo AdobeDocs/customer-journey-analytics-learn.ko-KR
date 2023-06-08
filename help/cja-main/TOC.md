@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a7c99a0fefe5996978da6d9bc2564fe9341f2617
+source-git-commit: 3de00071ff6c8efa5c500ab9bb8692a375779825
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 90%
+source-wordcount: '381'
+ht-degree: 79%
 
 ---
 
@@ -53,7 +53,18 @@ ht-degree: 90%
 + 시각화 {#visualizations}
    + [크로스 채널 시각화 만들기](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
    + [크로스 채널 속성](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-   + [지능형 캡션](visualizations/intelligent-captions.md)
+   + [지능형 캡션 만들기](visualizations/intelligent-captions.md)
+   + [영역 시각화 추가](visualizations/add-area-visualizations.md)
+   + [바 시각화 추가](visualizations/add-bar-visualizations.md)
+   + [글머리 기호 그래프 시각화 추가](visualizations/add-bullet-graph-visualizations.md)
+   + [도넛 시각화 추가](visualizations/add-donut-visualizations.md)
+   + [선 시각화 추가](visualizations/add-line-visualizations.md)
+   + [맵 시각화 사용](visualizations/use-map-visualization.md)
+   + [요약 시각화 사용](visualizations/use-summary-visualizations.md)
+   + [텍스트 시각화 추가](visualizations/add-text-visualizations.md)
+   + [산포도 시각화 사용](visualizations/use-scatterplot-visualizations.md)
+   + [트리 맵 시각화 추가](visualizations/add-treemap-visualizations.md)
+   + [완전히 스택된 시각화 만들기](visualizations/create-stacked-visualizations.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
@@ -75,7 +86,7 @@ ht-degree: 90%
    + [주석 만들기](components/create-an-annotation.md)
 + 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
-   + [경영진이 모바일 스코어카드에 액세스할 수 있도록 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [경영진의 모바일 스코어카드 액세스 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 내보내기 {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics용 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -86,6 +97,6 @@ ht-degree: 90%
       + [날짜 필드 지원 사용](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + 블루프린트 {#blueprints}
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
