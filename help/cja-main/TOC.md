@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 69c2686d7f3e66058046a4348f13cb6d61009389
+source-git-commit: 1150ec26cf52df892c432959ebe5a8bf730a8b34
 workflow-type: tm+mt
-source-wordcount: '388'
-ht-degree: 77%
+source-wordcount: '395'
+ht-degree: 76%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 77%
 + 데이터 준비 및 계획 {#data-prep}
    + [데이터 작업](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics 데이터 수집, 매핑 및 변형](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+   + [Adobe Analytics 분류 데이터 수집 및 사용](data-prep/ingest-and-use-analytics-classifications.md)
 + 연결 {#connections}
    + [Experience Platform 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [연결 설정 보기, 문제 해결 및 수정](connections/connections-details-experience-in-cja.md)
@@ -101,4 +102,3 @@ ht-degree: 77%
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
    + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
-
