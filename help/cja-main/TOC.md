@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4a08586cb92a27a768b7879a148232e90a272254
+source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '402'
 ht-degree: 75%
 
 ---
@@ -73,8 +73,8 @@ ht-degree: 75%
       + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 팁과 트릭 {#tips-and-tricks}
       + [동적 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-+ 안내식 분석 {#guided-analysis}
-   + [Adobe Product Analytics 개요](guided-analysis/adobe-product-analytics-overview.md)
++ Adobe Product Analytics {#adobe-product-analytics}
+   + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
