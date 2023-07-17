@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 75%
+source-wordcount: '434'
+ht-degree: 73%
 
 ---
 
@@ -70,11 +70,23 @@ ht-degree: 75%
    + 주석 {#annotations}
       + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
    + 조정 및 공유{#curate-and-share}를 참조하십시오 
-      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 팁과 트릭 {#tips-and-tricks}
       + [동적 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
++ 안내식 분석 {#guided-analysis}
+   + 영향 {#impact}
+      + [릴리스 영향 분석](guided-analysis/impact/release-impact-analysis.md)
+      + [첫 번째 사용 영향 분석](guided-analysis/impact/first-use-impact-analysis.md)
+   + 단계 {#funnel}
+      + [깔때기 마찰 해석](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [단계 전환 트렌드 분석](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + 사용자 성장 {#user-growth}
+      + [활성 사용자 증가 분석](guided-analysis/user-growth/active-user-growth-analysis.md)
+      + [순 사용자 증가 분석](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + 트렌드 {#trends}
+      + [사용 트렌드 분석](guided-analysis/trends/usage-trends-analysis.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
