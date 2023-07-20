@@ -8,10 +8,10 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
-source-git-commit: a2f0e706ddfa3e83bb24de8f783803c48d4760ac
+source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 54%
+ht-degree: 49%
 
 ---
 
@@ -24,10 +24,10 @@ Adobe Product Analytics을 사용하면 제품 팀이 동일한 Customer Journey
 
 팀은 Adobe Product Analytics을 사용하여 다음과 같은 작업을 수행할 수 있습니다.
 
-* 시간 경과에 따른 사용자 참여 패턴 이해
-* 제품 사용자 기반의 성장 및 유지 추적
-* 제품의 마찰 영역 식별
-* 기능 릴리스 및 최초 사용의 &#x200B; 영향 측정
+* [시간 경과에 따른 사용자 참여 패턴 이해](../guided-analysis/trends/usage-trends-analysis.md)
+* [제품 사용자 기반의 성장 및 유지 추적](../guided-analysis/user-growth/active-user-growth-analysis.md)
+* [제품의 마찰 영역 식별](../guided-analysis/funnel/funnel-friction-analysis.md)
+* [기능 릴리스 및 첫 번째 사용의 영향 측정](../guided-analysis/impact/release-impact-analysis.md)
 * 제품을 사용하는 여정 동안 참여하고 육성할 의미 있는 사용자 세그먼트 탐색
 * 분석가와의 심층 분석 및 공동 작업을 위해 Analysis Workspace와 연결
 
