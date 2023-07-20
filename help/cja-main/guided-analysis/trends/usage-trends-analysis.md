@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13676
 thumbnail: 3421666.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # 사용 트렌드 분석
 
-사용 방법 알아보기 **사용 보기** 시간에 따른 제품 또는 사용자 참여의 성능에 대한 중요한 통찰력을 제공하는 Adobe Product Analytics.
+사용 방법 알아보기 **사용 보기** 위치: [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md): 제품 또는 사용자 참여의 시간에 따른 성능에 대한 중요한 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 

@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13677
 thumbnail: 3421667.jpeg
-source-git-commit: a4882de82016fe9d52c735e0e12bc084b725c22a
+source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 8%
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # 활성 사용자 증가 분석
 
-다음 방법을 알아봅니다. **활성 보기** in Adobe Product Analytics은 신규, 반복, 재방문 및 휴면 상태인 사용자별로 분할한 특정 기간 동안의 사용자 증가에 대한 통찰력을 제공합니다.
+다음 방법을 알아봅니다. **활성 보기** 위치: [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) 신규, 반복, 재방문 및 휴면 사용자로 나눈 특정 기간 동안의 사용자 증가에 대한 통찰력을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
