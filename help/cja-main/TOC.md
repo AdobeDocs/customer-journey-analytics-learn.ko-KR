@@ -3,9 +3,9 @@ user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
 source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -53,36 +53,36 @@ ht-degree: 73%
       + [다음 및 이전 항목 패널 구성](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [실험 패널 사용](analysis-workspace/panels/use-the-experimentation-panel.md)
    + 시각화 {#visualizations}
-      + [크로스 채널 시각화 만들기](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-      + [크로스 채널 속성](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+      + [교차 채널 시각화 만들기](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+      + [크로스 채널 기여도](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [지능형 캡션 만들기](analysis-workspace/visualizations/intelligent-captions.md)
       + [영역 시각화 추가](analysis-workspace/visualizations/add-area-visualizations.md)
-      + [바 시각화 추가](analysis-workspace/visualizations/add-bar-visualizations.md)
+      + [막대 시각화 추가](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [글머리 기호 그래프 시각화 추가](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [도넛 시각화 추가](analysis-workspace/visualizations/add-donut-visualizations.md)
-      + [선 시각화 추가](analysis-workspace/visualizations/add-line-visualizations.md)
+      + [라인 시각화 추가](analysis-workspace/visualizations/add-line-visualizations.md)
       + [맵 시각화 사용](analysis-workspace/visualizations/use-map-visualization.md)
       + [요약 시각화 사용](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [텍스트 시각화 추가](analysis-workspace/visualizations/add-text-visualizations.md)
       + [산포도 시각화 사용](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
       + [트리 맵 시각화 추가](analysis-workspace/visualizations/add-treemap-visualizations.md)
-      + [완전히 스택된 시각화 만들기](analysis-workspace/visualizations/create-stacked-visualizations.md)
+      + [완전 누적 시각화 만들기](analysis-workspace/visualizations/create-stacked-visualizations.md)
    + 주석 {#annotations}
       + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
-   + 조정 및 공유{#curate-and-share}를 참조하십시오 
-      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + 팁과 트릭 {#tips-and-tricks}
-      + [동적 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+   + 선별 및 공유 {#curate-and-share}
+      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + 팁 및 요령 {#tips-and-tricks}
+      + [다이내믹 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 안내식 분석 {#guided-analysis}
    + 영향 {#impact}
       + [릴리스 영향 분석](guided-analysis/impact/release-impact-analysis.md)
-      + [첫 번째 사용 영향 분석](guided-analysis/impact/first-use-impact-analysis.md)
+      + [최초 사용 영향 분석](guided-analysis/impact/first-use-impact-analysis.md)
    + 단계 {#funnel}
-      + [깔때기 마찰 해석](guided-analysis/funnel/funnel-friction-analysis.md)
+      + [단계 마찰 분석](guided-analysis/funnel/funnel-friction-analysis.md)
       + [단계 전환 트렌드 분석](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + 사용자 성장 {#user-growth}
+   + 사용자 증가 {#user-growth}
       + [활성 사용자 증가 분석](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [순 사용자 증가 분석](guided-analysis/user-growth/net-user-growth-analysis.md)
    + 트렌드 {#trends}
@@ -91,7 +91,7 @@ ht-degree: 73%
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
       + [빠른 필터 만들기](components/filters/create-a-quick-filter.md)
-      + [크로스 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [교차 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [필터를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 계산된 지표 {#calc-metrics}
@@ -103,7 +103,7 @@ ht-degree: 73%
       + [데이터 사전 사용](components/data-dictionary/use-data-dictionary.md)
 + 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
-   + [경영진의 모바일 스코어카드 액세스 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
+   + [모바일 스코어카드 액세스로 경영진 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 내보내기 {#exporting}
    + Report Builder {#report-builder}
       + [Customer Journey Analytics용 Report Builder](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
