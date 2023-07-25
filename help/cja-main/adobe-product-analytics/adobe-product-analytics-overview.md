@@ -1,6 +1,6 @@
 ---
 title: Adobe Product Analytics 개요
-description: Adobe Product Analytics을 사용하면 제품 팀이 동일한 Customer Journey Analytics 크로스 채널 데이터를 기반으로 구축된 가이드 분석 워크플로우를 통해 제품 경험에 대한 데이터와 통찰력을 자체 제공할 수 있습니다.
+description: Adobe Product Analytics를 사용하면 제품 팀이 Customer Journey Analytics의 동일한 교차 채널 데이터를 기반으로 빌드된 안내식 분석 워크플로를 통해 제품 경험에 대한 데이터와 인사이트를 자체 관리할 수 있습니다.
 feature: Guided Analysis
 role: User
 level: Intermediate
@@ -9,25 +9,25 @@ last-substantial-update: 2023-07-14T00:00:00Z
 jira: KT-13650
 thumbnail: 3421621.jpeg
 source-git-commit: b784a9e5c1adf41d0011140b22c15551cc86813f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 
 # Adobe Product Analytics 개요
 
-Adobe Product Analytics을 사용하면 제품 팀이 동일한 Customer Journey Analytics 크로스 채널 데이터를 기반으로 구축된 가이드 분석 워크플로우를 통해 제품 경험에 대한 데이터와 통찰력을 자체 제공할 수 있습니다.
+Adobe Product Analytics를 사용하면 제품 팀이 Customer Journey Analytics의 동일한 교차 채널 데이터를 기반으로 빌드된 안내식 분석 워크플로를 통해 제품 경험에 대한 데이터와 인사이트를 자체 관리할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
 
-팀은 Adobe Product Analytics을 사용하여 다음과 같은 작업을 수행할 수 있습니다.
+Adobe Product Analytics를 사용하여 팀은 다음과 같은 작업을 수행할 수 있습니다.
 
 * [시간 경과에 따른 사용자 참여 패턴 이해](../guided-analysis/trends/usage-trends-analysis.md)
 * [제품 사용자 기반의 성장 및 유지 추적](../guided-analysis/user-growth/active-user-growth-analysis.md)
 * [제품의 마찰 영역 식별](../guided-analysis/funnel/funnel-friction-analysis.md)
-* [기능 릴리스 및 첫 번째 사용의 영향 측정](../guided-analysis/impact/release-impact-analysis.md)
+* [기능 릴리스 및 최초 사용의 &#x200B; 영향 측정](../guided-analysis/impact/release-impact-analysis.md)
 * 제품을 사용하는 여정 동안 참여하고 육성할 의미 있는 사용자 세그먼트 탐색
 * 분석가와의 심층 분석 및 공동 작업을 위해 Analysis Workspace와 연결
 
