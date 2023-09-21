@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: a056619f99779e7baa92b5e4e57ed81e08844486
-workflow-type: ht
-source-wordcount: '434'
+source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
+workflow-type: tm+mt
+source-wordcount: '440'
 ht-degree: 100%
 
 ---
@@ -112,6 +112,8 @@ ht-degree: 100%
    + 데이터 보기 사용 사례 {#data-views-use-cases}
       + [최초 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [날짜 필드 지원 사용](use-cases/data-views-use-cases/leverage-date-field-support.md)
+   + 복잡한 데이터 {#complex-data}
+      + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
