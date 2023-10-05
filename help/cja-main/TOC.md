@@ -2,7 +2,7 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 30445426a634f0a25672da9e8a2a977df35dc014
+source-git-commit: d06a420753a9a5bece5d075c84a1be5fb0608494
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 100%
@@ -115,6 +115,6 @@ ht-degree: 100%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
