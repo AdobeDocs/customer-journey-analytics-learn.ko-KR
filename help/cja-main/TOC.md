@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d06a420753a9a5bece5d075c84a1be5fb0608494
+source-git-commit: 0a6b0d64409beed4ea18fadb29006ad19c5548ec
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '442'
 ht-degree: 100%
 
 ---
@@ -45,6 +45,7 @@ ht-degree: 100%
    + [데이터 보기의 바인딩 차원](data-views/binding-dimensions-in-data-views.md)
    + [데이터 보기에서 값 없음 옵션 구성](data-views/configure-no-value-options-in-data-views.md)
    + [데이터 보기에서 속성 설정](data-views/attribution-settings-in-data-views.md)
+   + [통화 전환](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
