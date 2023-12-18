@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+source-git-commit: 19e2106259bb4d9b13eaebebdb5ae076406b29cf
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 99%
+source-wordcount: '432'
+ht-degree: 94%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 99%
    + [Experience Platform 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [연결 설정 보기, 문제 해결 및 수정](connections/connections-details-experience-in-cja.md)
    + [연결에 새 데이터 추가](connections/add-past-data-to-an-existing-connection-in-cja.md)
+   + [조회 및 프로필 데이터에 대한 CJA 조회](connections/cja-lookup-data.md)
 + 방문자 식별 {#visitor-id}
    + [CJA에서 ID를 사용하는 방법 이해](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [누락된 개인 ID 구성](visitor-id/configure-missing-person-id.md)
