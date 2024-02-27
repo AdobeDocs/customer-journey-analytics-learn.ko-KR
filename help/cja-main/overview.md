@@ -8,9 +8,9 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: afc741e79f6aee13094ab3c3493885ce91c38284
+source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
 workflow-type: ht
-source-wordcount: '298'
+source-wordcount: '221'
 ht-degree: 100%
 
 ---
@@ -26,20 +26,6 @@ ht-degree: 100%
 
 Customer Journey Analytics를 사용하면 Analysis Workspace에서 임의 일반 고객 ID의 온라인과 오프라인 데이터를 연결하는 방법을 제어할 수 있으며, 이를 통해 전체 고객 데이터 세트에서 최종적으로 속성, 세분화, 흐름, 폴아웃 등을 수행할 수 있습니다.
 
-<div id="whats-new-section">
-
-## 새로운 기능
-
-* Adobe Analytics **[세그먼트](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**를 Customer Journey Analytics로 이동 (비디오)
-  *Customer Journey Analytics의 Adobe Analytics 세그먼트를 다시 만드는 방법의 팁에 대해 알아봅니다.*
-
-* **[계산된 지표를 Adobe Analytics에서 Customer Journey Analytics로 이동 (비디오)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-  *Customer Journey Analytics에서 Adobe Analytics 계산된 지표를 다시 만들기 위한 팁에 대해 알아보기*
-
-* **[크로스 채널 필터 만들기 (비디오)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-  *Customer Journey Analytics에서 두 개 이상의 데이터 소스 및 채널을 활용하는 필터 만들기*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
