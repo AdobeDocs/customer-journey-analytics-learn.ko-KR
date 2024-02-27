@@ -1,6 +1,6 @@
 ---
 title: 조회 및 프로필 데이터에 대한 CJA 조회
-description: 조회 및 프로필 데이터 세트에 조회 데이터를 추가하고 주요 필드를 계획하고 매핑하는 방법을 알아봅니다.
+description: 조회 데이터를 추가하여 데이터 세트를 조회 및 프로파일링하고 주요 필드를 계획 및 매핑하는 방법에 대해 알아봅니다.
 feature: Ingestion
 role: User
 level: Intermediate
@@ -9,13 +9,13 @@ duration: 360
 last-substantial-update: 2023-12-18T00:00:00Z
 jira: KT-14719
 thumbnail: 3426424.jpeg
-source-git-commit: e253ef465c58225cd1e7cb3db67442adbc57ed05
+exl-id: 5db80f7c-c54e-43e2-b629-e1b05b1c0aa9
+source-git-commit: 35e9e2baa41bbcd172342ba2f9a485a281c0daef
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
-
 
 # 조회 및 프로필 데이터에 대한 CJA 조회
 
