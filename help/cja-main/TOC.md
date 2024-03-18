@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9cd00588e7ced90f0840840dbbc87c8912715543
-workflow-type: ht
-source-wordcount: '435'
-ht-degree: 100%
+source-git-commit: 7304fe6e7961a788c01386366c7e2fa738703f86
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 97%
 
 ---
 
@@ -79,17 +79,19 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 안내식 분석 {#guided-analysis}
-   + 영향 {#impact}
-      + [릴리스 영향 분석](guided-analysis/impact/release-impact-analysis.md)
-      + [최초 사용 영향 분석](guided-analysis/impact/first-use-impact-analysis.md)
    + 단계 {#funnel}
       + [단계 마찰 분석](guided-analysis/funnel/funnel-friction-analysis.md)
       + [단계 전환 트렌드 분석](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
+   + 영향 {#impact}
+      + [릴리스 영향 분석](guided-analysis/impact/release-impact-analysis.md)
+      + [최초 사용 영향 분석](guided-analysis/impact/first-use-impact-analysis.md)
+   + 트렌드 {#trends}
+      + [사용 트렌드 분석](guided-analysis/trends/usage-trends-analysis.md)
+   + 사용자 스트림 {#user-stream}
+      + [사용자 스트림 타임라인 분석](guided-analysis/user-stream/user-stream-timeline-analysis.md)
    + 사용자 증가 {#user-growth}
       + [활성 사용자 증가 분석](guided-analysis/user-growth/active-user-growth-analysis.md)
       + [순 사용자 증가 분석](guided-analysis/user-growth/net-user-growth-analysis.md)
-   + 트렌드 {#trends}
-      + [사용 트렌드 분석](guided-analysis/trends/usage-trends-analysis.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
