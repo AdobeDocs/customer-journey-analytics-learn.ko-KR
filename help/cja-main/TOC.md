@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 80d3b48fa942b143668851ac2707db6ff140055e
-workflow-type: ht
-source-wordcount: '449'
-ht-degree: 100%
+source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
+workflow-type: tm+mt
+source-wordcount: '452'
+ht-degree: 99%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
    + [CJA에서 ID를 사용하는 방법 이해](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [누락된 개인 ID 구성](visitor-id/configure-missing-person-id.md)
    + [스티칭 개요](visitor-id/overview-of-stitching.md)
+   + [그래프 기반 결합 개요](visitor-id/graph-based-stitching-overview.md)
 + 데이터 보기 {#data-views}
    + [CJA용 데이터 보기 구성 개요](data-views/overview-of-configuring-data-views-for-cja.md)
    + [데이터 보기에 대한 기본 구성](data-views/basic-configuration-for-data-views.md)
