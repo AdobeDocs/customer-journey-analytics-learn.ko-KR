@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 6fbbe2c319803fb380d884f9fd367fbdf0089a50
-workflow-type: ht
-source-wordcount: '452'
-ht-degree: 100%
+source-git-commit: 3e1d99084a2fe20dae9fad365995d232960429e8
+workflow-type: tm+mt
+source-wordcount: '457'
+ht-degree: 99%
 
 ---
 
@@ -81,6 +81,8 @@ ht-degree: 100%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 안내식 분석 {#guided-analysis}
+   + 기능 지표 {#feature-matrix}
+      + [기능 참여 분석](guided-analysis/feature-matrix/feature-engagement.md)
    + 단계 {#funnel}
       + [단계 마찰 분석](guided-analysis/funnel/funnel-friction-analysis.md)
       + [단계 전환 트렌드 분석](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
