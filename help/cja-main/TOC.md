@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3943a9ac0d9797f18882fadaa43ffbbc01727ab
+source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 96%
+source-wordcount: '486'
+ht-degree: 93%
 
 ---
 
@@ -40,6 +40,8 @@ ht-degree: 96%
    + [데이터 보기에서 구성 요소 설정 구성](data-views/configuring-component-settings-in-data-views.md)
    + [데이터 보기에서 구성 요소 유형 설정](data-views/component-type-settings-in-data-views.md)
    + [파생 필드 만들기](data-views/derived-fields-in-cja.md)
+   + [파생 필드에서 수학 함수 사용](data-views/use-the-math-function-in-derived-fields.md)
+   + [파생 필드에서 Next 또는 Previous 함수 사용](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [데이터 보기에서 지표 서식 지정](data-views/formatting-metrics-in-data-views.md)
    + [하위 문자열 구성 요소 설정 구성](data-views/configure-substring-component-settings.md)
    + [데이터 보기에서 지표 값 포함 또는 제외](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -130,6 +132,6 @@ ht-degree: 96%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ko-KR){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ko-KR){target=_blank}
    + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ko-KR){target=_blank}
