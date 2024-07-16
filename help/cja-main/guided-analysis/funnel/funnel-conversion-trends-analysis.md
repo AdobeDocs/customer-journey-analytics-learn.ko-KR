@@ -1,6 +1,6 @@
 ---
 title: 단계 전환 트렌드 분석
-description: 시간에 따른 단계 전환율의 변화를 추적하는 Adobe Product Analytics에서 전환 트렌드 보기를 사용하는 방법을 알아봅니다.
+description: 시간에 따른 단계 전환율의 변화를 추적하는 Customer Journey Analytics에서 전환 트렌드 보기를 사용하는 방법을 알아봅니다.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13672
 thumbnail: 3421662.jpeg
-source-git-commit: 05e538e23ab828f66e99a6b67fc0731d7baaa1d2
+exl-id: 409980dd-27f3-4d7e-984d-8b0391be7f22
+source-git-commit: d8605d31c7f547c3e55aa2b7dfa8905db973219a
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 10%
+source-wordcount: '58'
+ht-degree: 25%
 
 ---
 
-
 # 단계 전환 트렌드 분석
 
-사용 방법 알아보기 **전환 트렌드 보기** 위치: [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md): 시간 경과에 따른 단계 전환율 변경을 추적합니다.
+시간에 따른 단계 전환율 변경을 추적하는 Customer Journey Analytics에서 **전환 트렌드 보기**&#x200B;를 사용하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
