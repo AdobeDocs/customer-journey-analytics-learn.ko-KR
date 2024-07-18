@@ -1,6 +1,6 @@
 ---
-title: 추가 [!UICONTROL 글머리 기호 그래프] 시각화 대상 [!DNL Analysis Workspace] 프로젝트
-description: 방법 알아보기 [!UICONTROL 글머리 기호 그래프] 사용 및 추가 방법 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics].
+title: ' [!DNL Analysis Workspace] 프로젝트에 [!UICONTROL 글머리 기호 그래프] 시각화 추가'
+description: '[!UICONTROL 글머리 기호 그래프]를 사용하는 방법과  [!DNL Analysis Workspace] 프로젝트 [!DNL Customer Journey Analytics]에 추가하는 방법을 알아보세요.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13403
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 3456b70a-02f6-442b-b38b-458b422d525d
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# 추가 [!UICONTROL 글머리 기호 그래프] 시각화 대상 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace]개 프로젝트에 [!UICONTROL 글머리 기호 그래프] 시각화 추가
 
-방법 알아보기 [!UICONTROL 글머리 기호 그래프] 사용 및 추가 방법 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]. 이 그래프는 관심 값이 목표에 대해 비교되거나 측정되는 방식을 보여 줍니다.
+[!UICONTROL 글머리 기호 그래프]를 사용하는 방법과 [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에 추가하는 방법을 알아보세요. 이 그래프는 관심 값이 목표에 대해 비교되거나 측정되는 방식을 보여 줍니다.
 
 >[!NOTE]
 >
->다음 [!DNL Analysis Workspace] 사용자 인터페이스와 기능은 다음 측면에서 유사합니다 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-에 대한 자세한 내용 [!UICONTROL 글머리 기호 그래프] 시각화, 방문 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+[!UICONTROL 글머리 기호 그래프] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html)를 참조하세요.

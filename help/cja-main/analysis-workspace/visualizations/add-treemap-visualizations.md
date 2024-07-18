@@ -1,6 +1,6 @@
 ---
-title: 추가 [!UICONTROL 트리 맵] 시각화 대상 [!DNL Analysis Workspace] 프로젝트
-description: 추가 및 구성 방법 알아보기 [!UICONTROL 트리 맵] 의 시각화 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics].
+title: ' [!DNL Analysis Workspace] 프로젝트에 [!UICONTROL 트리 맵] 시각화 추가'
+description: ' [!DNL Customer Journey Analytics]의  [!DNL Analysis Workspace] 프로젝트에서 [!UICONTROL 트리 맵] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13432
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 375c6b09-08f3-48a4-9c86-da5044060a83
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# 추가 [!UICONTROL 트리 맵] 시각화 대상 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace]개 프로젝트에 [!UICONTROL 트리 맵] 시각화 추가
 
-추가 및 구성 방법 알아보기 [!UICONTROL 트리 맵] 의 시각화 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]. 이 시각화는 계층형 데이터를 중첩된 직사각형 세트로 생성하며, 이를 통해 다른 방법으로는 찾아내기 어려운 패턴을 쉽게 볼 수 있습니다.
+[!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 [!UICONTROL 트리 맵] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 계층형 데이터를 중첩된 직사각형 세트로 생성하며, 이를 통해 다른 방법으로는 찾아내기 어려운 패턴을 쉽게 볼 수 있습니다.
 
 >[!NOTE]
 >
->다음 [!DNL Analysis Workspace] 사용자 인터페이스와 기능은 다음 측면에서 유사합니다 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-에 대한 자세한 내용 [!UICONTROL 트리 맵] 시각화, 방문 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).
+[!UICONTROL 트리 맵] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html)를 참조하세요.

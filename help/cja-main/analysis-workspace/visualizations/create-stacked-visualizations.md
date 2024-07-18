@@ -1,6 +1,6 @@
 ---
-title: 만들기 [!UICONTROL 완전 스택 막대] 의 시각화 [!DNL Analysis Workspace] 프로젝트
-description: 구성 방법 알아보기 [!UICONTROL 완전 스택 막대] 에서 원시 값 대신 백분율을 사용하여 시각화 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics].
+title: ' [!DNL Analysis Workspace] 프로젝트에서 [!UICONTROL 완전히 스택된 막대] 시각화 만들기'
+description: ' [!DNL Customer Journey Analytics]의  [!DNL Analysis Workspace] 프로젝트에서 원시 값 대신 백분율을 사용하여 [!UICONTROL 완전히 누적된 막대] 시각화를 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13434
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 47c482e4-91b2-4c0d-bd6d-719f20b91204
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 만들기 [!UICONTROL 완전 스택 막대] 의 시각화 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 [!UICONTROL 완전히 스택 막대] 시각화 만들기
 
-구성 방법 알아보기 [!UICONTROL 완전 스택 막대] 에서 원시 값 대신 백분율을 사용하여 시각화 (100%) [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics].
+[!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 원시 값 대신 백분율을 사용하여 [!UICONTROL 완전히 누적된 막대] 시각화(100%)를 구성하는 방법에 대해 알아봅니다.
 
 >[!NOTE]
 >
->다음 [!DNL Analysis Workspace] 사용자 인터페이스와 기능은 다음 측면에서 유사합니다 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-에 대한 자세한 내용 [!UICONTROL 완전히 누적된 변수] 시각화, 방문 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+[!UICONTROL 완전히 스택된 변수] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html)를 참조하세요.

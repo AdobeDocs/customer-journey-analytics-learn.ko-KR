@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-01T00:00:00Z
 jira: KT-14282
 thumbnail: 3425389.jpeg
-source-git-commit: f4a115aac609e7aacf84ea17fad1f13d9fd5a268
+exl-id: 1659b296-3fef-4497-9700-5799e3494737
+source-git-commit: e9a4d44c508329593ce1ef4a5007e031220cda22
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
-
 # Customer Journey Analytics에서 전체 테이블 내보내기
 
-Customer Journey Analytics에서 AEP 데이터 랜딩 영역 및 Snowflake 모두로의 테이블 게재의 기본 설정에 대해 알아봅니다. 자세한 설명서는 다음을 참조하십시오. [클라우드로 Customer Journey Analytics 보고서 내보내기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html).
+Customer Journey Analytics에서 AEP 데이터 랜딩 영역 및 Snowflake 모두로의 테이블 게재의 기본 설정에 대해 알아봅니다. 자세한 설명서는 [클라우드로 Customer Journey Analytics 보고서 내보내기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html)를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

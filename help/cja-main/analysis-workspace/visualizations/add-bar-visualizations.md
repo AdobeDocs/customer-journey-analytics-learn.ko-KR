@@ -1,6 +1,6 @@
 ---
-title: 추가 [!UICONTROL 막대] 시각화 대상 [!DNL Analysis Workspace] 프로젝트
-description: 표준 추가 및 구성 방법 알아보기 [!UICONTROL 막대] 및 [!UICONTROL 누적 막대] 시각화 대상 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics].
+title: ' [!DNL Analysis Workspace] 프로젝트에 [!UICONTROL 표시줄] 시각화 추가'
+description: ' [!DNL Customer Journey Analytics]의  [!DNL Analysis Workspace] 프로젝트에 표준 [!UICONTROL 막대] 및 [!UICONTROL 스택 막대] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -9,21 +9,22 @@ kt: 13402
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+exl-id: 3e4cf780-29ea-4a1b-92af-09e08a91a637
+source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# 추가 [!UICONTROL 막대] 시각화 대상 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]
+# [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace]개 프로젝트에 [!UICONTROL 표시줄] 시각화 추가
 
-표준 추가 및 구성 방법 알아보기 [!UICONTROL 막대] 및 [!UICONTROL 누적 막대] 의 시각화 [!DNL Analysis Workspace] 의 프로젝트 [!DNL Customer Journey Analytics]. 다음 사용 [!UICONTROL 막대] 지표 간 값을 나타내는 형식입니다.
+[!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 표준 [!UICONTROL 막대] 및 [!UICONTROL 스택 막대] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. [!UICONTROL bar] 형식을 사용하여 지표 간 값을 나타냅니다.
 
 >[!NOTE]
 >
->다음 [!DNL Analysis Workspace] 사용자 인터페이스와 기능은 다음 측면에서 유사합니다 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics].
+>[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-에 대한 자세한 내용 [!UICONTROL 막대] 시각화, 방문 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+[!UICONTROL 표시줄] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html)를 참조하세요.
