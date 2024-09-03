@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5e5e972d7313b9ee64ffcfa411d4b7a34f1f9682
+source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -39,6 +39,7 @@ ht-degree: 93%
    + [데이터 보기에 대한 기본 구성](data-views/basic-configuration-for-data-views.md)
    + [데이터 보기에서 구성 요소 설정 구성](data-views/configuring-component-settings-in-data-views.md)
    + [데이터 보기에서 구성 요소 유형 설정](data-views/component-type-settings-in-data-views.md)
+   + [요약 수준 데이터 소스 만들기](data-views/create-summary-level-data-sources.md)
    + [파생 필드 만들기](data-views/derived-fields-in-cja.md)
    + [파생 필드에서 수학 함수 사용](data-views/use-the-math-function-in-derived-fields.md)
    + [파생 필드에서 Next 또는 Previous 함수 사용](data-views/use-the-next-previous-function-in-derived-fields.md)
@@ -67,7 +68,6 @@ ht-degree: 93%
       + [글머리 기호 그래프 시각화 추가](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [도넛 시각화 추가](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [라인 시각화 추가](analysis-workspace/visualizations/add-line-visualizations.md)
-      + [맵 시각화 사용](analysis-workspace/visualizations/use-map-visualization.md)
       + [요약 시각화 사용](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [텍스트 시각화 추가](analysis-workspace/visualizations/add-text-visualizations.md)
       + [산포도 시각화 사용](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
