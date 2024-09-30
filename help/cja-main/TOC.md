@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 9ba828982bf1862607a3ae958e8cd0399d420d5b
+source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '455'
 ht-degree: 92%
 
 ---
@@ -83,24 +83,17 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 안내식 분석 {#guided-analysis}
-   + 기능 지표 {#feature-matrix}
-      + [기능 참여 분석](guided-analysis/feature-matrix/feature-engagement.md)
-   + 단계 {#funnel}
-      + [단계 마찰 분석](guided-analysis/funnel/funnel-friction-analysis.md)
-      + [단계 전환 트렌드 분석](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-   + 영향 {#impact}
-      + [릴리스 영향 분석](guided-analysis/impact/release-impact-analysis.md)
-      + [최초 사용 영향 분석](guided-analysis/impact/first-use-impact-analysis.md)
-   + 유지 {#retention}
-      + [유지율 분석](guided-analysis/retention/retention-rates-analysis.md)
-   + 트렌드 {#trends}
-      + [빈도 트렌드 분석](guided-analysis/trends/frequency-trends-analysis.md)
-      + [사용 트렌드 분석](guided-analysis/trends/usage-trends-analysis.md)
-   + 사용자 스트림 {#user-stream}
-      + [사용자 스트림 타임라인 분석](guided-analysis/user-stream/user-stream-timeline-analysis.md)
-   + 사용자 증가 {#user-growth}
-      + [활성 사용자 증가 분석](guided-analysis/user-growth/active-user-growth-analysis.md)
-      + [순 사용자 증가 분석](guided-analysis/user-growth/net-user-growth-analysis.md)
+   + [능동적인 성장](guided-analysis/active-growth.md)
+   + [전환 추세](guided-analysis/conversion-trends.md)
+   + [참여](guided-analysis/engagement.md)
+   + [첫 번째 사용 영향](guided-analysis/first-use-impact.md)
+   + [빈도](guided-analysis/frequency.md)
+   + [단계](guided-analysis/funnel.md)
+   + [순성장](guided-analysis/net-growth.md)
+   + [릴리스 영향](guided-analysis/release-impact.md)
+   + [유지](guided-analysis/retention.md)
+   + [타임라인](guided-analysis/timeline.md)
+   + [트렌드](guided-analysis/trends.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
       + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
