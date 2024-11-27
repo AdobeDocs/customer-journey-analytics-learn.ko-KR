@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 4d8c7a84ef9a70b0a071a776dc531182bad2462a
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '460'
 ht-degree: 92%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 92%
    + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [새 프로젝트 빌드](analysis-workspace/workspace-projects/build-a-new-project.md)
+      + 여정 분석 {#journey-analysis}
+         + [여정 캔버스 시각화](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 패널 {#panels}
       + [다음 및 이전 항목 패널 구성](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [실험 패널 사용](analysis-workspace/panels/use-the-experimentation-panel.md)
@@ -83,16 +85,16 @@ ht-degree: 92%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 안내식 분석 {#guided-analysis}
-   + [능동적인 성장](guided-analysis/active-growth.md)
-   + [전환 추세](guided-analysis/conversion-trends.md)
+   + [활성 증가](guided-analysis/active-growth.md)
+   + [전환 트렌드](guided-analysis/conversion-trends.md)
    + [참여](guided-analysis/engagement.md)
-   + [첫 번째 사용 영향](guided-analysis/first-use-impact.md)
+   + [최초 사용 영향](guided-analysis/first-use-impact.md)
    + [빈도](guided-analysis/frequency.md)
    + [단계](guided-analysis/funnel.md)
    + [순성장](guided-analysis/net-growth.md)
    + [릴리스 영향](guided-analysis/release-impact.md)
    + [유지](guided-analysis/retention.md)
-   + [타임라인](guided-analysis/timeline.md)
+   + [Timeline](guided-analysis/timeline.md)
    + [트렌드](guided-analysis/trends.md)
 + 구성 요소 {#components}
    + 필터 (세분화) {#filters}
