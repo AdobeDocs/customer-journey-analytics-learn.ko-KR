@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 1b3acda2ed8d15b3c7cff5ac0a2848c41fe2b2a8
+source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '468'
 ht-degree: 91%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 91%
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
 + 안내식 분석 {#guided-analysis}
+   + [Workspace에서 가이드 분석 사용](guided-analysis/guided-analysis-in-workspace.md)
    + [활성 증가](guided-analysis/active-growth.md)
    + [전환 트렌드](guided-analysis/conversion-trends.md)
    + [참여](guided-analysis/engagement.md)
@@ -129,5 +130,5 @@ ht-degree: 91%
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html?lang=ko-KR){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html?lang=ko-KR){target=_blank}
+   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
