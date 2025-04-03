@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c64a6d08fea9782339f939102e0dc3b6ccf56d1c
+source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '474'
 ht-degree: 91%
 
 ---
@@ -112,6 +112,9 @@ ht-degree: 91%
       + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
    + 데이터 사전 {#data-dictionary}
       + [데이터 사전 사용](components/data-dictionary/use-data-dictionary.md)
++ 콘텐츠 분석 {#content-analytics}
+   + [소개](content-analytics/introduction-to-content-analytics.md)
+   + [작동 방식](content-analytics/how-it-works.md)
 + 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
    + [모바일 스코어카드 액세스로 경영진 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
