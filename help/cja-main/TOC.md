@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ccaa4f1291dff7727373f2508ec37adc6b8d8ad2
+source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 91%
+source-wordcount: '473'
+ht-degree: 84%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 91%
    + [데이터 보기에서 속성 설정](data-views/attribution-settings-in-data-views.md)
    + [통화 전환](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + Workspace 프로젝트 {#workspace-projects}
+   + 작업 영역 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [새 프로젝트 빌드](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace 템플릿](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
@@ -80,12 +80,12 @@ ht-degree: 91%
    + 주석 {#annotations}
       + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
    + 선별 및 공유 {#curate-and-share}
-      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + 팁 및 요령 {#tips-and-tricks}
-      + [다이내믹 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
+   + 팁과 트릭 {#tips-and-tricks}
+      + [동적 드롭다운 세그먼트 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
-+ 안내식 분석 {#guided-analysis}
++ 가이드 분석 {#guided-analysis}
    + [Workspace에서 가이드 분석 사용](guided-analysis/guided-analysis-in-workspace.md)
    + [활성 증가](guided-analysis/active-growth.md)
    + [전환 트렌드](guided-analysis/conversion-trends.md)
@@ -99,11 +99,11 @@ ht-degree: 91%
    + [Timeline](guided-analysis/timeline.md)
    + [트렌드](guided-analysis/trends.md)
 + 구성 요소 {#components}
-   + 필터 (세분화) {#filters}
-      + [필터 개요](components/filters/introduction-to-filters-in-cja.md)
-      + [빠른 필터 만들기](components/filters/create-a-quick-filter.md)
-      + [교차 채널 필터 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-      + [필터를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
+   + 세그먼트 {#filters}
+      + [세그먼트 개요](components/filters/introduction-to-filters-in-cja.md)
+      + [빠른 세그먼트 만들기](components/filters/create-a-quick-filter.md)
+      + [크로스 채널 세그먼트 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [세그먼트를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
    + 계산된 지표 {#calc-metrics}
       + [Customer Journey Analytics에서 계산된 지표 소개](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
@@ -112,10 +112,10 @@ ht-degree: 91%
       + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
    + 데이터 사전 {#data-dictionary}
       + [데이터 사전 사용](components/data-dictionary/use-data-dictionary.md)
-+ 콘텐츠 분석 {#content-analytics}
++ Content Analytics {#content-analytics}
    + [소개](content-analytics/introduction-to-content-analytics.md)
    + [작동 방식](content-analytics/how-it-works.md)
-+ 대시보드 (스코어카드) {#dashboards}
++ 대시보드(스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
    + [모바일 스코어카드 액세스로 경영진 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 내보내기 {#exporting}
@@ -133,5 +133,5 @@ ht-degree: 91%
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
    + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
    + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
