@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d726ccc860c8bce96e6ca522a606c096ff43828e
+source-git-commit: a2fd948c72f78995ab979e4256bcf461697c2897
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '478'
 ht-degree: 84%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 84%
    + 패널 {#panels}
       + [다음 및 이전 항목 패널 구성](analysis-workspace/panels/configure-next-previous-item-panel.md)
       + [실험 패널 사용](analysis-workspace/panels/use-the-experimentation-panel.md)
+      + [빠른 인사이트 패널 사용](analysis-workspace/panels/use-the-quick-insights-panel.md)
    + 시각화 {#visualizations}
       + [교차 채널 시각화 만들기](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
       + [크로스 채널 기여도](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -112,7 +113,7 @@ ht-degree: 84%
       + [대상자 게시](components/audiences/audience-publishing-for-cja.md)
    + 데이터 사전 {#data-dictionary}
       + [데이터 사전 사용](components/data-dictionary/use-data-dictionary.md)
-+ Content Analytics {#content-analytics}
++ 콘텐츠 분석 {#content-analytics}
    + [소개](content-analytics/introduction-to-content-analytics.md)
    + [작동 방식](content-analytics/how-it-works.md)
 + 대시보드(스코어카드) {#dashboards}
