@@ -22,4 +22,4 @@ Customer Journey Analytics의 **참여**&#x200B;이(가) 제품 기능의 사용
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement)를 참조하십시오.

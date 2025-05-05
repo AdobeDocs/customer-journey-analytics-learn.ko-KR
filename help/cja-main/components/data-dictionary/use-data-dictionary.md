@@ -22,4 +22,4 @@ Customer Journey Analytics을 위해 Analysis Workspace의 데이터 사전에 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Customer Journey Analytics을 위해 Analysis Workspace의 데이터 사전에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html)를 참조하세요.
+Customer Journey Analytics을 위해 Analysis Workspace의 데이터 사전에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=ko)를 참조하세요.

@@ -21,4 +21,4 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.

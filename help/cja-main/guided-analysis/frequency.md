@@ -22,4 +22,4 @@ Customer Journey Analytics의 **빈도**&#x200B;를 통해 제품에 있는 이�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/guided-analysis/trends/frequency)를 참조하십시오.

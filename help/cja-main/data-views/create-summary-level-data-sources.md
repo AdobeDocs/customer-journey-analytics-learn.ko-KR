@@ -22,4 +22,4 @@ Customer Journey Analytics은 사용자가 캠페인 또는 제품 데이터와 
 
 ## 추가 리소스
 
-* 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)를 참조하십시오.
+* 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/summary-data)를 참조하십시오.

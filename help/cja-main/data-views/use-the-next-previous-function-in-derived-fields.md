@@ -21,4 +21,4 @@ Customer Journey Analytics에서 &#39;다음 또는 이전&#39; 함수를 사용
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430616/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.

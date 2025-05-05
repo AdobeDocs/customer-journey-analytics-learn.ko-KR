@@ -22,4 +22,4 @@ Customer Journey Analytics의 **활성 증가**&#x200B;이(가) 신규, 반복, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=ko)를 참조하십시오.

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 [!DNL Content Analytics]이(가) Customer Journey Analytics 및 Experience Platform에서 작동하는 방식을 알아봅니다.
 
-자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
+자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)

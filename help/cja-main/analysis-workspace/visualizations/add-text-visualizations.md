@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-[!UICONTROL text] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html)를 참조하십시오.
+[!UICONTROL text] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=ko)를 참조하십시오.

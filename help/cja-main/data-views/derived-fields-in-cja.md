@@ -28,4 +28,4 @@ ht-degree: 4%
 * 잘못 수집된 페이지 이름 값을 수정하는 파생 페이지 이름 필드를 구성합니다.
 * URL 매개 변수, 페이지 URL 또는 페이지 이름과 같은 하나 이상의 조건을 기반으로 적절한 마케팅 채널을 결정하는 파생된 마케팅 채널 필드를 구성합니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=ko)를 참조하십시오.

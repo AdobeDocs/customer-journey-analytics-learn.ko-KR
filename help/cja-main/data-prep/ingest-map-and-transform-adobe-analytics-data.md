@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-자세한 내용은 [Adobe Analytics Source Connector 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) 및 [데이터 준비 기능 설명서](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html)를 참조하십시오.
+자세한 내용은 [Adobe Analytics Source Connector 설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=ko) 및 [데이터 준비 기능 설명서](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html?lang=ko)를 참조하십시오.

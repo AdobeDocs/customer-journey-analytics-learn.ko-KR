@@ -22,4 +22,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=ko)를 참조하십시오.

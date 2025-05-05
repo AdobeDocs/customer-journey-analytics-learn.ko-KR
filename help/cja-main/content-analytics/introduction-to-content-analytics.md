@@ -18,7 +18,7 @@ ht-degree: 2%
 
 콘텐츠 성능을 측정하는 것은 어려운 일일 수 있으며 종종 추측 및 비효율성을 초래할 수 있습니다. Content Analytics은 톤, 이미지, 색상 또는 메시징과 같이 컨텐츠를 효과적으로 만드는 요소에 대한 심층적인 통찰력을 제공하여 추측에 부담을 주지 않습니다. 참여를 유도하는 요소 및 콘텐츠를 최적화하는 방법 등 주요 질문에 대한 답을 제공합니다.
 
-자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
+자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
 
 ## 소개
 
