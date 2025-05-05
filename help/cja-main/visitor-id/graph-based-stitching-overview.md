@@ -20,7 +20,7 @@ ht-degree: 4%
 
 그래프 기반 결합은 ID 그래프의 기능을 활용하여 Experience Platform 애플리케이션 간에 ID를 정렬합니다. 이 기능을 사용하면 일반 개인 식별자를 사용하여 더 많은 데이터 세트를 Customer Journey Analytics에 결합할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448723/?learn=on&captions=kor)
 
 ID 그래프를 사용한 그래프 기반 결합을 통해 다음을 통해 고객 여정을 더 잘 볼 수 있습니다.
 

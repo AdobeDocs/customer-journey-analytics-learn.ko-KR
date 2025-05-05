@@ -24,4 +24,4 @@ ht-degree: 20%
 >
 > Customer Journey Analytics 인터페이스에서 &quot;[!UICONTROL 필터]&quot;의 이름이 &quot;[!UICONTROL 세그먼트]&quot;으로 변경되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36127/?quality=12&learn=on&captions=kor)

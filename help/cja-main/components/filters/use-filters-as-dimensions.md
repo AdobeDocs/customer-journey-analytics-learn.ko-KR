@@ -24,4 +24,4 @@ Analysis Workspace 프로젝트에서 차원으로 사용될 때 세그먼트를
 >
 > Customer Journey Analytics 인터페이스에서 &quot;[!UICONTROL 필터]&quot;의 이름이 &quot;[!UICONTROL 세그먼트]&quot;으로 변경되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449069/?learn=on&quality=12&captions=kor)

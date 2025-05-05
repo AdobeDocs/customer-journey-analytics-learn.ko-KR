@@ -20,4 +20,4 @@ ht-degree: 100%
 
 특정 차원 값에 대한 다음 또는 이전 항목을 식별하기 위한 표와 시각화를 빠르게 생성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344430/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411119/?quality=12&learn=on&captions=kor)

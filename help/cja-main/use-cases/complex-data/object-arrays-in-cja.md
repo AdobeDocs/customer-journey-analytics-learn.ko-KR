@@ -20,6 +20,6 @@ ht-degree: 89%
 
 CJA의 프로필 및 조회 데이터 세트에서 오브젝트 배열을 활용하여 연결부터 데이터 보기, 작업 영역까지 B2B 및 B2C 분석을 보완할 수 있는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445271/?learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=ko-KR)를 참조하십시오.

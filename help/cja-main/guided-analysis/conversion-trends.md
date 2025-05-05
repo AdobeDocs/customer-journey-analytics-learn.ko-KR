@@ -20,6 +20,6 @@ ht-degree: 25%
 
 Customer Journey Analytics의 **전환 트렌드**&#x200B;가 시간에 따른 단계 전환율 변화를 추적하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423490/?learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=ko)를 참조하십시오.

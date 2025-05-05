@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오는 Customer Journey Analytics에서 [!UICONTROL 계산된 지표]를 만드는 기본 사항을 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33322/?quality=12&learn=on&captions=kor)
 
 Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 참조하십시오.
