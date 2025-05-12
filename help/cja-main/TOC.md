@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f111928de695435104b175ba10707d851e2819e8
+source-git-commit: c208de47f17e39a023aff40dcb97c95dc64bb958
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 75%
+source-wordcount: '484'
+ht-degree: 83%
 
 ---
 
@@ -134,32 +134,6 @@ ht-degree: 75%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ Adobe Summit {#summit}
-   + 2025 {#2025}
-      + 반바지 {#shorts}
-         + [비디오 요약](./summit/2025/shorts/algorithmic-attribution-a-game-changer-for-marketers.md)
-         + [비디오 요약](./summit/2025/shorts/analytics-easy-mode-simplifying-workspace-for-all-users.md)
-         + [비디오 요약](./summit/2025/shorts/anomaly-detection-in-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/audience-agent-proactive-audience-health-monitoring.md)
-         + [비디오 요약](./summit/2025/shorts/best-practices-for-implementing-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/breaking-data-limits-with-summary-data-sources.md)
-         + [비디오 요약](./summit/2025/shorts/content-analytics-ai-powered-insights-for-creative-assets.md)
-         + [비디오 요약](./summit/2025/shorts/data-as-a-product-planning-your-cja-implementation.md)
-         + [비디오 요약](./summit/2025/shorts/data-insights-agent-empowering-self-service-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/derived-fields-user-state-change-metrics.md)
-         + [비디오 요약](./summit/2025/shorts/gamifying-workspace-unlock-achievements-in-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/graph-based-stitching-for-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/how-ai-assistant-transforms-data-insights-in-adobe-experience-platform.md)
-         + [비디오 요약](./summit/2025/shorts/how-genai-enhances-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/identity-stitching-in-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/implementation-best-practices-for-customer-journey-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/in-line-derived-fields-real-time-data-transformation-in-cja.md)
-         + [비디오 요약](./summit/2025/shorts/introducing-adobe-s-agent-orchestrator-the-next-era-of-genai-innovation.md)
-         + [비디오 요약](./summit/2025/shorts/journey-canvas-visualizing-complex-funnels.md)
-         + [비디오 요약](./summit/2025/shorts/run-and-operate-strategies-for-scaling-adobe-implementations.md)
-         + [비디오 요약](./summit/2025/shorts/the-strategic-imperative-of-customer-analytics.md)
-         + [비디오 요약](./summit/2025/shorts/three-types-of-cja-implementation-projects.md)
-         + [비디오 요약](./summit/2025/shorts/understanding-customer-journey-analytics-as-your-dream-home.md)
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
