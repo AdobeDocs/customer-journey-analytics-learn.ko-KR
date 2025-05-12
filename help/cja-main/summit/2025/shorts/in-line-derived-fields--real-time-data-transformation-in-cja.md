@@ -1,0 +1,23 @@
+---
+title: 인라인 파생 필드 - CJA의 실시간 데이터 변환
+description: 인라인 파생 필드를 통해 사용자가 Customer Journey Analytics에서 직접 데이터를 정리하고 그룹화하여 관리자에 대한 의존성을 줄이고 시간을 절약할 수 있는 방법에 대해 알아보십시오.
+doc-type: Short Video
+duration: 193
+index: false
+hide: true
+hidefromtoc: true
+recommendations: noCatalog, noDisplay
+source-git-commit: 16a9013fa93992cd896e95c3689f722d5970789d
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 0%
+
+---
+
+
+# 인라인 파생 필드: CJA의 실시간 데이터 변환
+
+인라인 파생 필드를 통해 사용자가 Customer Journey Analytics에서 직접 데이터를 정리하고 그룹화하여 관리자에 대한 의존성을 줄이고 시간을 절약할 수 있는 방법에 대해 알아보십시오.
+
+<!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
+>[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
