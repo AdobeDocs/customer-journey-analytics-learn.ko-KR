@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe의 Audience Agent이 어떻게 적극적으로 대상 상태를 모니터링하고, 문제를 식별하고, 시간을 절약하고 참여를 개선할 수 있는 실행 가능한 솔루션을 제안하는지 확인하십시오.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-audience-health-monitoring -->
->[!VIDEO](https://video.tv.adobe.com/v/3458303/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460062/?learn=on&enablevpops=true&captions=kor)

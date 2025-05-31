@@ -20,4 +20,4 @@ ht-degree: 0%
 변화하는 비즈니스 요구 사항을 충족하는 새로운 요구 사항 및 기능을 통해 Customer Journey Analytics(CJA)를 꿈의 고향으로 생각하는 방법에 대해 알아봅니다.
 
 <!-- 62_S113_3442460_95_understanding-customer-journey-analytics-as-your-dream-home -->
->[!VIDEO](https://video.tv.adobe.com/v/3458327/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3462975/?learn=on&enablevpops=true&captions=kor)
