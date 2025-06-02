@@ -20,4 +20,4 @@ ht-degree: 0%
 Adobe의 Agent Orchestrator과 이를 통해 지능형 에이전트를 통해 초개인화된 실시간 고객 경험을 구현하는 방법에 대해 알아봅니다.
 
 <!-- 62_S653_3442539_67_introducing-adobes-agent-orchestrator-the-next-era-of-genai-innovation -->
->[!VIDEO](https://video.tv.adobe.com/v/3458307/?learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3460051/?learn=on&enablevpops=true&captions=kor)
