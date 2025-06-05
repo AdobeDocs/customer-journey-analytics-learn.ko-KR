@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 892162d27f81c7b09b0cf018df2254ef80bb9b0e
+source-git-commit: 30b9c77ed997915fe358cb1e976b5ff10ccdc516
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '493'
 ht-degree: 82%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 82%
    + [데이터 작업](data-prep/working-with-data-in-cja.md)
    + [Adobe Analytics 데이터 수집, 매핑 및 변형](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
    + [Adobe Analytics 분류 데이터 수집 및 사용](data-prep/ingest-and-use-analytics-classifications.md)
++ 액세스 제어 {#access-control}
+   + [권한 설정](permissions/set-up-permissions.md)
 + 연결 {#connections}
    + [Experience Platform 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
    + [연결 설정 보기, 문제 해결 및 수정](connections/connections-details-experience-in-cja.md)
@@ -53,7 +55,7 @@ ht-degree: 82%
    + [데이터 보기에서 속성 설정](data-views/attribution-settings-in-data-views.md)
    + [통화 전환](data-views/currency-conversion.md)
 + Analysis Workspace {#analysis-workspace}
-   + 작업 영역 프로젝트 {#workspace-projects}
+   + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [새 프로젝트 빌드](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace 템플릿](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
@@ -98,7 +100,7 @@ ht-degree: 82%
    + [순성장](guided-analysis/net-growth.md)
    + [릴리스 영향](guided-analysis/release-impact.md)
    + [유지](guided-analysis/retention.md)
-   + [Timeline](guided-analysis/timeline.md)
+   + [타임라인](guided-analysis/timeline.md)
    + [트렌드](guided-analysis/trends.md)
 + 구성 요소 {#components}
    + 세그먼트 {#filters}
@@ -136,6 +138,6 @@ ht-degree: 82%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
