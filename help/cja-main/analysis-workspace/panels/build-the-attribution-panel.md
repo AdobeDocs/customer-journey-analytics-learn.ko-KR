@@ -21,4 +21,4 @@ ht-degree: 12%
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/panels/attribution)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464718/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464729/?learn=on&captions=kor)
