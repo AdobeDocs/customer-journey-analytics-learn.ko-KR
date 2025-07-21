@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 43788fcc098682cd2ad7c2f8cbd19fa6c3c03918
+source-git-commit: 5e70dad9cf7b4ea90209a8070dc8acf17f84f96e
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '513'
 ht-degree: 81%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 81%
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [새 프로젝트 빌드](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace 템플릿](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
+      + [Workspace 주석 달기](analysis-workspace/workspace-projects/workspace-commenting.md)
       + 여정 분석 {#journey-analysis}
          + [여정 캔버스 시각화](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 패널 {#panels}
@@ -145,6 +146,6 @@ ht-degree: 81%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
