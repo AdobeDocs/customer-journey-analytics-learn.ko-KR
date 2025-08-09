@@ -21,4 +21,4 @@ ht-degree: 16%
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/templates/use-templates)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470536/?learn=on&captions=kor)
