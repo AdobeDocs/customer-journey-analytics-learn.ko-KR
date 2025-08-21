@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
+source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 80%
+source-wordcount: '542'
+ht-degree: 79%
 
 ---
 
@@ -42,9 +42,6 @@ ht-degree: 80%
    + [데이터 보기에서 구성 요소 설정 구성](data-views/configuring-component-settings-in-data-views.md)
    + [데이터 보기에서 구성 요소 유형 설정](data-views/component-type-settings-in-data-views.md)
    + [요약 수준 데이터 소스 만들기](data-views/create-summary-level-data-sources.md)
-   + [파생 필드 만들기](data-views/derived-fields-in-cja.md)
-   + [파생 필드에서 수학 함수 사용](data-views/use-the-math-function-in-derived-fields.md)
-   + [파생 필드에서 Next 또는 Previous 함수 사용](data-views/use-the-next-previous-function-in-derived-fields.md)
    + [데이터 보기에서 지표 서식 지정](data-views/formatting-metrics-in-data-views.md)
    + [하위 문자열 구성 요소 설정 구성](data-views/configure-substring-component-settings.md)
    + [데이터 보기에서 지표 값 포함 또는 제외](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -54,6 +51,14 @@ ht-degree: 80%
    + [데이터 보기에서 값 없음 옵션 구성](data-views/configure-no-value-options-in-data-views.md)
    + [데이터 보기에서 속성 설정](data-views/attribution-settings-in-data-views.md)
    + [통화 전환](data-views/currency-conversion.md)
+   + 파생 필드{#derived-fields}
+      + [파생 필드 만들기](data-views/derived-fields/derived-fields-in-cja.md)
+      + [수학 함수 사용](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+      + [다음 또는 이전 함수 사용](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
+      + [이벤트 깊이 사용자 지정](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [타이프 캐스팅 사용](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [날짜 계산을 사용하여 이벤트 간 시간 계산](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+
 + Data Insights 에이전트 {#data-insights-agent}
    + [소개](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [사용 사례](data-insights-agent/data-insights-agent-use-cases.md)
@@ -152,6 +157,6 @@ ht-degree: 80%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
