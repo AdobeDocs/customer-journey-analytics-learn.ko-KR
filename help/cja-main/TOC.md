@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+source-git-commit: 0136260473c8941b3f774b35b57e44eff331ad60
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 79%
+source-wordcount: '545'
+ht-degree: 78%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 79%
    + [Customer Journey Analytics 소개](cja-basics/understanding-customer-journey-analytics.md)
    + [새로운 용어 및 개념](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 랜딩 페이지](cja-basics/customer-journey-analytics-landing-page.md)
+   + [AI Assistant 사용](cja-basics/use-ai-assistant.md)
 + 아키텍처 {#architecture}
    + [아키텍처 및 통합](architecture/architecture-and-integrations-of-cja.md)
 + 데이터 준비 및 계획 {#data-prep}
@@ -58,7 +59,6 @@ ht-degree: 79%
       + [이벤트 깊이 사용자 지정](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
       + [타이프 캐스팅 사용](data-views/derived-fields/use-typecasting-in-derived-fields.md)
       + [날짜 계산을 사용하여 이벤트 간 시간 계산](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
-
 + Data Insights 에이전트 {#data-insights-agent}
    + [소개](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [사용 사례](data-insights-agent/data-insights-agent-use-cases.md)
@@ -157,6 +157,6 @@ ht-degree: 79%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
