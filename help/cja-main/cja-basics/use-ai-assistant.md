@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Customer Journey Analytics의 AI Assistant를 통해 개념 학습, 문제 해결 및 워크플로우 최적화를 수행하는 방법을 살펴봅니다. Experience League 설명서에 대해 교육받은 대화형 AI를 통해 초보자 및 전문가 모두에게 적합한 CJA의 잠재력을 최대한 활용하십시오.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}를 검토하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}를 검토하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
