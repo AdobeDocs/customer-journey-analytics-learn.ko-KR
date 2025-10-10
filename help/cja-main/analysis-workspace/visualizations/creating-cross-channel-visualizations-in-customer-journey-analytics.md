@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오에서 Customer Journey Analytics를 통해 [!UICONTROL 방문자]별 데이터 병합을 포함하여 여러 채널 간에 여러 [!UICONTROL 데이터 세트]의 데이터를 포함하는 [!UICONTROL 시각화]를 만드는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33318/?quality=12&learn=on&captions=kor)
 
 Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 참조하십시오.

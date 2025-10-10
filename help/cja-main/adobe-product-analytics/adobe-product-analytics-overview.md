@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Adobe Product Analytics를 사용하면 제품 팀이 Customer Journey Analytics의 동일한 교차 채널 데이터를 기반으로 빌드된 안내식 분석 워크플로를 통해 제품 경험에 대한 데이터와 인사이트를 자체 관리할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421621/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423513/?learn=on&captions=kor)
 
 Adobe Product Analytics를 사용하여 팀은 다음과 같은 작업을 수행할 수 있습니다.
 

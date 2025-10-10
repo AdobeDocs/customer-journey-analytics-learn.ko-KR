@@ -22,4 +22,4 @@ Customer Journey Analytics에서 사용자 지정 템플릿을 만드는 방법�
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/templates/create-templates)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470929/?learn=on&captions=kor)

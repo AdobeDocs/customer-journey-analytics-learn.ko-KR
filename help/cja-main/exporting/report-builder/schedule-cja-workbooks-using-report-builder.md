@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics에 대해 Report Builder에서 통합 문서를 예약하는 방법을 알아봅니다. 통합 문서를 예약하면 사용자가 Report Builder 통합 문서를 최신 데이터로 새로 고치고 사전 정의된 정기 일정에 따라 관련자들에게 전송하는 프로세스를 자동화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413079/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417507/?quality=12&learn=on&captions=kor)

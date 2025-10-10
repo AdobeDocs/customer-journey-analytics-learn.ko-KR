@@ -20,4 +20,4 @@ ht-degree: 100%
 
 캠페인 시작, 데이터 문제 및 공휴일과 같은 이벤트가 발생할 때 [!DNL Customer Journey Analytics] 프로젝트에서 [!UICONTROL 주석]을 작성하는 방법을 알아봅니다. 이 기능은 사용자들에게 이러한 날짜 또는 날짜 범위의 지표 분산에 대해 알려 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343742/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410238/?quality=12&learn=on&captions=kor)

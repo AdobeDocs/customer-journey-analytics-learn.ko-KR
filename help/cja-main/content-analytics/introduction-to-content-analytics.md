@@ -25,7 +25,7 @@ ht-degree: 34%
 
 Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐츠를 효과적으로 만드는 요소를 표시합니다. 팀은 참여도를 최적화하고 전환율을 높이며 더 스마트하고 데이터 기반의 의사 결정을 내릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457317/?learn=on&enablevpops&captions=kor)
 
 
 ## 작동 방식
@@ -41,7 +41,7 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - 작동 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - 작동 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457434/?format=jpeg&nocache=1742338375674&captions=kor" alt="Content Analytics - 작동 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - 보고" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - 보고"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473044/?format=jpeg&nocache=1742338375674&captions=kor" alt="Content Analytics - 보고"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

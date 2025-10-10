@@ -20,4 +20,4 @@ ht-degree: 23%
 
 Analysis Workspace의 **안내가 있는 분석**&#x200B;을(를) 사용하여 안내가 있는 워크플로우를 통해 고품질 데이터 통찰력을 자체 제공합니다. 이 기능을 사용하면 분석에 쉽게 액세스, 생성, 저장 및 재사용할 수 있으며 사용자 유지 추적 및 funnel 분석과 같은 작업을 간소화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449320/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449504/?learn=on&captions=kor)

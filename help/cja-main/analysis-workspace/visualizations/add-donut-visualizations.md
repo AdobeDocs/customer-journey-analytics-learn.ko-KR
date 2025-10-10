@@ -25,6 +25,6 @@ ht-degree: 0%
 >
 >[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334309/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416626/?quality=12&learn=on&captions=kor)
 
 [!UICONTROL 도넛] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/donut.html?lang=ko)를 참조하세요.

@@ -21,4 +21,4 @@ Customer Journey Analytics 파생 필드의 기본 날짜 계산. Date Math는 �
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471072/?learn=on&captions=kor)

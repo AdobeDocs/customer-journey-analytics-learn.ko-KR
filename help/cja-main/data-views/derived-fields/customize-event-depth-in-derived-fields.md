@@ -22,4 +22,4 @@ Customer Journey Analytics 파생 필드에서 이벤트 깊이를 구성하여 
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471050/?learn=on&captions=kor)

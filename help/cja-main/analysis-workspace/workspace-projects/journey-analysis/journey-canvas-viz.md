@@ -20,6 +20,6 @@ ht-degree: 18%
 
 사용자 및 고객에게 제공하는 여정을 분석하고 이에 대한 심도 있는 통찰력을 얻을 수 있는 여정 캔버스 시각화에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440602/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440633/?learn=on&captions=kor)
 
 사용자는 여러 개의 시작, 경로 또는 끝으로 여정을 만들 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/visualizations/journey-canvas/journey-canvas){target="_blank"}를 참조하십시오.
