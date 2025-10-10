@@ -1,6 +1,6 @@
 ---
 title: 타임라인
-description: 경험 패턴을 찾고, 더 나은 Customer Journey Analytics 스토리를 전달하고, 구현의 유효성을 검사하는 데 도움이 되는 경험의 타임라인에 대해 알아봅니다.
+description: 경험 패턴을 찾고, 더 나은 사용자 스토리를 전달하고, 구현의 유효성을 검사하는 데 도움이 되는 Customer Journey Analytics의 타임라인에 대해 알아봅니다.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 18%
 
 # 타임라인
 
-경험 패턴을 찾고, 더 나은 Customer Journey Analytics 스토리를 전달하고, 구현의 유효성을 검사하는 데 도움이 되는 경험의 **타임라인**&#x200B;에 대해 알아봅니다.
+Customer Journey Analytics의 **타임라인**&#x200B;에 대해 알아보세요. 경험 패턴을 찾고 더 나은 사용자 스토리를 전달하며 구현의 유효성을 검사하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435774/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/guided-analysis/streams/timeline)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline)를 참조하십시오.

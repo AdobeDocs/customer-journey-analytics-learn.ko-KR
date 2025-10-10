@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Customer Journey Analytics에서 데이터 보기는 Adobe Analytics의 가상 보고서 세트와 비슷합니다. 보고 및 분석에 가장 유용할 수 있도록 CJA에 유입되는 데이터를 구성할 수 있습니다. 이 비디오에서는 Customer Journey Analytics용 데이터 보기 구성에 대한 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345559/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
 
 데이터를 유용할 수 있는 특정 기능에 집중하려면 추가 데이터 보기 비디오를 참조하십시오.
 

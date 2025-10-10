@@ -18,6 +18,6 @@ ht-degree: 52%
 
 # 시각화에 예측 추가
 
-Customer Journey Analytics에서 시계열 시각화에 예측 번호를 추가하는 방법을 알아봅니다. 자세한 설명서는 [예측 개요](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}를 참조하십시오.
+Customer Journey Analytics에서 시계열 시각화에 예측 번호를 추가하는 방법을 알아봅니다. 자세한 설명서는 [예측 개요](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443840/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)

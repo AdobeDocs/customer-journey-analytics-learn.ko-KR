@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오를 통해 기술적인 측면이 아니라 Customer Journey Analytics에서 [!UICONTROL ID]가 분석에 미치는 영향([!UICONTROL 방문자] ID 결합을 통해 가능해진 크로스 채널 [!UICONTROL 시각화] 포함)에 대해 실질적으로 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/32934/?learn=on&quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)를 참조하십시오.

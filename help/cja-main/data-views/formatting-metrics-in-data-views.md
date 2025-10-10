@@ -19,4 +19,4 @@ ht-degree: 100%
 
 이 비디오에서 [!UICONTROL 데이터 보기] 구성의 [!UICONTROL 구성 요소] 화면에서 지표 서식 지정 옵션에 대해 알아봅니다. [!UICONTROL 구성 요소]를 최대한 활용하는 데 도움이 되는 몇 가지 팁에 대해서도 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412367/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/332806/?quality=12&learn=on)

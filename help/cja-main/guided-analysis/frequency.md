@@ -1,6 +1,6 @@
 ---
 title: 빈도
-description: Customer Journey Analytics 빈도를 통해 제품 내 이벤트에 대한 사용자 참여를 분석하는 방법을 알아봅니다.
+description: Customer Journey Analytics의 빈도를 통해 제품 내 이벤트에 대한 사용자 참여를 분석하는 방법을 알아봅니다.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -18,8 +18,8 @@ ht-degree: 20%
 
 # 빈도
 
-Customer Journey Analytics의 **빈도**&#x200B;를 통해 제품에 있는 이벤트에 대한 사용자 참여를 분석하는 방법에 대해 알아봅니다.
+Customer Journey Analytics의 **빈도**&#x200B;를 통해 제품 내 이벤트에 대한 사용자 참여를 분석하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3435809/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/guided-analysis/trends/frequency)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/trends/frequency)를 참조하십시오.

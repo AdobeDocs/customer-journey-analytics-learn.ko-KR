@@ -20,6 +20,6 @@ ht-degree: 100%
 
 실험 데이터를 기반으로 몇 가지 시각화를 자동으로 빌드하는 실험 패널을 구성하고 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416824/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html)를 참조하십시오.

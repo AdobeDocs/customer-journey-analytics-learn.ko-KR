@@ -20,4 +20,4 @@ ht-degree: 0%
 사용 사례 우선 순위 지정, 모니터링 및 ROI 측정을 포함하여 대규모 구현을 실행하고 운영하기 위한 Adobe의 내부 전략을 살펴봅니다.
 
 <!-- 62_S655_3442541_95_run-and-operate-strategies-for-scaling-adobe-implementations -->
->[!VIDEO](https://video.tv.adobe.com/v/3461087/?learn=on&enablevpops=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3458338/?learn=on&enablevpops=true)

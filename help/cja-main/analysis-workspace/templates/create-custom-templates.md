@@ -1,6 +1,6 @@
 ---
 title: 사용자 지정 템플릿 만들기
-description: Customer Journey Analytics에서 사용자 지정 템플릿을 만드는 방법을 알아봅니다.
+description: Customer Journey Analytics에서 사용자 정의 템플릿을 만드는 방법에 대해 알아봅니다.
 feature: Administration
 role: Admin
 level: Intermediate
@@ -8,10 +8,11 @@ doc-type: feature video
 thumbnail: 3470921.jpg
 kt: 18119
 last-substantial-update: 2025-08-19T00:00:00Z
-source-git-commit: b532468bae9fef1793e44d55203d1d52e9356d6e
+exl-id: 701ef648-d9d0-4075-bbfe-f99af94017c3
+source-git-commit: 7ecedc85dfce6a504d4879abecbd5bb1e5c3e710
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 15%
+ht-degree: 27%
 
 ---
 
@@ -21,4 +22,4 @@ Customer Journey Analytics에서 사용자 지정 템플릿을 만드는 방법�
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/templates/create-templates)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470929/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3470921/?learn=on)

@@ -20,4 +20,4 @@ ht-degree: 0%
 개념 증명, 임시 솔루션 및 전체 구현 전략을 포함하여 Customer Journey Analytics을 구현하기 위한 모범 사례를 살펴보십시오.
 
 <!-- 62_S113_3442460_211_best-practices-for-implementing-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460073/?learn=on&enablevpops=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3458311/?learn=on&enablevpops=true)

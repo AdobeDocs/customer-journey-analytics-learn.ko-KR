@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Customer Journey Analytics의 이벤트 깊이
 
-Customer Journey Analytics의 이벤트 깊이 는 세션 내의 사용자 상호 작용을 정밀하게 순차적으로 추적할 수 있는 표준 차원 구성 요소로서 디지털 및 오프라인 플랫폼 전반에서 고객 행동 패턴에 대한 중요한 통찰력을 제공합니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}를 참조하세요.
+Customer Journey Analytics의 이벤트 깊이 는 세션 내의 사용자 상호 작용을 정밀하게 순차적으로 추적할 수 있는 표준 차원 구성 요소로서 디지털 및 오프라인 플랫폼 전반에서 고객 행동 패턴에 대한 중요한 통찰력을 제공합니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464858/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)

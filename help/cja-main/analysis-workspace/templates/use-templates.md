@@ -8,7 +8,8 @@ doc-type: feature video
 thumbnail: 3470517.jpg
 kt: 18118
 last-substantial-update: 2025-08-06T00:00:00Z
-source-git-commit: f4bc73965db5cebde137b2ecda51a3cf1866fb32
+exl-id: f64e5cd9-dbc6-4b94-9e05-ccd1c727132b
+source-git-commit: 912282bbe1ba100fc7325aec6517272b60bd6a30
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 16%
@@ -21,4 +22,4 @@ ht-degree: 16%
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/templates/use-templates)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470536/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3470517/?learn=on)

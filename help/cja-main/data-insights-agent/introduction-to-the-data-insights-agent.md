@@ -1,5 +1,5 @@
 ---
-title: Data Insights Agent 소개
+title: Data Insights 에이전트 소개
 description: Customer Journey Analytics에서 Data Insights 에이전트에 대해 알아봅니다. 이 AI 기반 솔루션은 마케터에게 즉각적이고 투명한 인사이트를 제공하여 기업의 병목 현상을 해소합니다.
 feature: AI Tools
 role: Leader, User
@@ -11,7 +11,7 @@ exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
 source-git-commit: ba8abb197b3bb2ba3d725c9575cba400bbe1bb76
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 27%
+ht-degree: 30%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe의 Experience Platform Agent Orchestrator을 기반으로 하는 [!DNL Dat
 
 Customer Journey Analytics의 [!DNL Data Insights Agent]에 대해 알아봅니다. 이 AI 기반 솔루션은 마케터와 비즈니스 이해 관계자에게 즉각적이고 투명한 통찰력을 제공하여 지연과 광범위한 교육을 없애는 동시에 전략적인 작업에 대한 분석가를 자유롭게 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463904/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
 
 
 ## Data Insights Agent 활용 사례
@@ -41,7 +41,7 @@ Customer Journey Analytics의 [!DNL Data Insights Agent]에 대해 알아봅니�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights Agent 활용 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463915/?format=jpeg&nocache=1742338375674&captions=kor" alt="Data Insights Agent 활용 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent 활용 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +75,7 @@ Customer Journey Analytics의 [!DNL Data Insights Agent]에 대해 알아봅니�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Data Insights Agent 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463926/?format=jpeg&nocache=1742338375674&captions=kor" alt="Data Insights Agent 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Data Insights Agent 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

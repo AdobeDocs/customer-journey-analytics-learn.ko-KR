@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서 다른 지표의 하위 집합인 새 지표를 만들고 구성하는 방법과 데이터 보기에서 이를 매우 강력한 분석 도구로 만들 수 있는 사용 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412950/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/333120/?quality=12&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics의 데이터 보기에서 구성 요소를 구성할 때 필드가 지표인지 아니면 차원인지를 선택할 수 있습니다. 대부분의 경우 문자열은 차원이고 숫자는 지표여야 합니다. 그러나 일부 사용 사례로 이를 전환할 수 있습니다. 다음 항목을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412938/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/333112/?quality=12&learn=on)

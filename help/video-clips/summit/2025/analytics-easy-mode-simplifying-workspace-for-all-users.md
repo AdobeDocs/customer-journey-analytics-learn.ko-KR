@@ -20,4 +20,4 @@ ht-degree: 0%
 Analytics Easy Mode가 Analysis Workspace의 숨겨진 기능을 표시하여 사용자가 강력한 도구에 쉽게 액세스하고 워크플로를 간소화하는 방법을 살펴봅니다.
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
->[!VIDEO](https://video.tv.adobe.com/v/3459722/?learn=on&enablevpops=true&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)

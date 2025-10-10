@@ -19,6 +19,6 @@ ht-degree: 100%
 
 문자열 조작 방법을 사용하여 Customer Journey Analytics 보고서에서 원하는 치수 값 부분을 얻는 방법을 배우십시오. 일단 적용되면 데이터 변환은 소급하여 즉시 발생합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411151/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html)를 참조하십시오.

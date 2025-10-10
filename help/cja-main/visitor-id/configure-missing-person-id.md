@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Customer Journey Analytics 연결에서 구성할 수 있는 개인 ID가 없는 데이터 세트는 어떻게 처리합니까? 이 비디오를 통해 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422075/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3417726/?quality=12&learn=on)

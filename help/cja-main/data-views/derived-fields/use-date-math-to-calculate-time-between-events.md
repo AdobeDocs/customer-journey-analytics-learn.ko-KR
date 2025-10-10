@@ -7,7 +7,8 @@ doc-type: Feature Video
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18792
 thumbnail: 3471043.jpeg
-source-git-commit: 4170c3a3e09b497fd03e50a5141d0e8e0865e4bb
+exl-id: f124f6ef-220d-498c-9cfa-a08a7983f300
+source-git-commit: aa5c836356364534d19030292870a214cc29f55d
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 10%
@@ -20,4 +21,4 @@ Customer Journey Analytics 파생 필드의 기본 날짜 계산. Date Math는 �
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-dataviews/derived-fields)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471072/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)

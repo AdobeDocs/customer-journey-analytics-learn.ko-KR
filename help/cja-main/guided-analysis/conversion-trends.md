@@ -1,6 +1,6 @@
 ---
-title: 전환 추세
-description: Customer Journey Analytics의 전환 트렌드가 시간 경과에 따라 유입 경로 전환율의 변화를 추적하는 방법에 대해 알아봅니다.
+title: 전환 트렌드
+description: Customer Journey Analytics의 전환 트렌드가 시간 경과에 따른 funnel 전환율 변화를 추적하는 방법에 대해 알아봅니다.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -16,10 +16,10 @@ ht-degree: 25%
 
 ---
 
-# 전환 추세
+# 전환 트렌드
 
-Customer Journey Analytics의 **전환 트렌드**&#x200B;가 시간에 따른 단계 전환율 변화를 추적하는 방법에 대해 알아봅니다.
+Customer Journey Analytics의 **전환 트렌드**&#x200B;가 시간에 따른 funnel 전환율 변화를 추적하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423490/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html)를 참조하십시오.

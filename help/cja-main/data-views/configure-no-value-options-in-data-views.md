@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics에서 데이터 보기를 구성하는 동안 값 없음- 옵션의 보고서 표시 여부 및 방법을 선택할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412944/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)

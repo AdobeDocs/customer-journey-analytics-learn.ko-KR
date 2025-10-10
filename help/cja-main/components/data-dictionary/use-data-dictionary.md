@@ -1,6 +1,6 @@
 ---
 title: 데이터 사전 사용
-description: Customer Journey Analytics을 위해 Analysis Workspace의 데이터 사전에 대해 알아봅니다. 이 기능은 사용자와 관리자가 프로젝트에서 사용되는 구성 요소를 추적하고 이해하는 데 도움이 됩니다. 
+description: Analysis Workspace for Customer Journey Analytics의 데이터 사전에 대해 알아봅니다. 이 기능은 사용자와 관리자가 프로젝트에서 사용되는 구성 요소를 추적하고 이해하는 데 도움이 됩니다. 
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # 데이터 사전 사용
 
-Customer Journey Analytics을 위해 Analysis Workspace의 데이터 사전에 대해 알아봅니다. 이 기능은 사용자와 관리자가 프로젝트에서 사용되는 구성 요소를 추적하고 이해하는 데 도움이 됩니다. 
+Analysis Workspace for Customer Journey Analytics의 데이터 사전에 대해 알아봅니다. 이 기능은 사용자와 관리자가 프로젝트에서 사용되는 구성 요소를 추적하고 이해하는 데 도움이 됩니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422284/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-Customer Journey Analytics을 위해 Analysis Workspace의 데이터 사전에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html?lang=ko)를 참조하세요.
+Analysis Workspace for Customer Journey Analytics의 데이터 사전에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html)를 참조하세요.

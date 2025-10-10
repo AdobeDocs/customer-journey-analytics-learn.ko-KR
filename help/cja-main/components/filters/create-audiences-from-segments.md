@@ -8,10 +8,11 @@ doc-type: Feature Video
 duration: 336
 last-substantial-update: 2025-08-25T00:00:00Z
 jira: KT-17503
-source-git-commit: bdce32ca64fd14aeb760113b8df6ca96988069ce
+exl-id: d8d2eaf8-1928-49d9-8b94-bc0a2621f649
+source-git-commit: 64dfabb4b66c19b1b2c66de971e247071d151e2f
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 1%
+ht-degree: 25%
 
 ---
 
@@ -21,4 +22,4 @@ Customer Journey Analytics에서 Real-Time Customer Data Platform으로 대상�
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/audiences/publish){target="_blank"}를 검토하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471280/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3471273/?learn=on)

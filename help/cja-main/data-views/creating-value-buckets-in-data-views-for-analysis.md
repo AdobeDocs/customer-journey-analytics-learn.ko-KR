@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Customer Journey Analytics에서 [!UICONTROL 데이터 보기]를 구성할 때 정의된 버킷에 함께 묶어지도록 수치 차원을 설정하는 경우 테이블에 사용할 수 있는 항목 수를 숫자 범위로 제한할 수 있습니다(매우 강력함). 이 비디오는 이 기능의 구성을 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412361/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/332864/?quality=12&learn=on)

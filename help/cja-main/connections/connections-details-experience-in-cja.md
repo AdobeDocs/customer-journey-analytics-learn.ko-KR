@@ -20,4 +20,4 @@ ht-degree: 100%
 
 연결 관리자를 통해 연결의 데이터 세트 수집 상태를 확인할 수 있습니다. 또한 이 인터페이스는 작업 영역에서 분석을 시작하기 위해 데이터를 사용할 수 있는 시기를 알려 줍니다. 잘못된 구성으로 인한 데이터 불일치를 식별하고, 데이터 가져오기 날짜를 관리하고, 연결에서 데이터 세트를 제거하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345574/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342097/?quality=12&learn=on)

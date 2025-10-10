@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Analysis Workspace] 프로젝트에 [!UICONTROL 줄] 시각화 추가'
-description: ' [!DNL Customer Journey Analytics]의  [!DNL Analysis Workspace] 프로젝트에 [!UICONTROL 줄] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에 ]줄 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 ]프로젝트에  [!DNL Analysis Workspace] 줄 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 1%
 
 ---
 
-# [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace]개 프로젝트에 [!UICONTROL 줄] 시각화 추가
+# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]줄[!DNL Customer Journey Analytics] 시각화 추가
 
-[!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 [!UICONTROL 줄] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 시간을 따라 값이 어떻게 변하는지를 보여 주기 위해 라인을 사용하여 지표를 나타냅니다.
+[!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]줄[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 시간을 따라 값이 어떻게 변하는지를 보여 주기 위해 라인을 사용하여 지표를 나타냅니다.
 
 >[!NOTE]
 >
@@ -27,4 +27,4 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-[!UICONTROL 줄] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html?lang=ko)를 참조하세요.
+[!UICONTROL 줄] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html)를 참조하세요.
