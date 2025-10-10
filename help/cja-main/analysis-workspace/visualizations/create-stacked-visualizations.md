@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에서 ]완전히 스택된 막대 [!DNL Analysis Workspace]  시각화 만들기'
-description: '[!UICONTROL 의 ]프로젝트에서 원시 값 대신 백분율을 사용하여  [!DNL Analysis Workspace] 완전히 누적된 막대 [!DNL Customer Journey Analytics] 시각화를 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에서 &#x200B;]완전히 스택된 막대 [!DNL Analysis Workspace]  시각화 만들기'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에서 원시 값 대신 백분율을 사용하여  [!DNL Analysis Workspace] 완전히 누적된 막대 [!DNL Customer Journey Analytics] 시각화를 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]완전히 스택 막대[!DNL Customer Journey Analytics] 시각화 만들기
+# [!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]완전히 스택 막대[!DNL Customer Journey Analytics] 시각화 만들기
 
-[!UICONTROL 의 ] 프로젝트에서 원시 값 대신 백분율을 사용하여 [!DNL Analysis Workspace]완전히 누적된 막대[!DNL Customer Journey Analytics] 시각화(100%)를 구성하는 방법에 대해 알아봅니다.
+[!UICONTROL 의 &#x200B;] 프로젝트에서 원시 값 대신 백분율을 사용하여 [!DNL Analysis Workspace]완전히 누적된 막대[!DNL Customer Journey Analytics] 시각화(100%)를 구성하는 방법에 대해 알아봅니다.
 
 >[!NOTE]
 >
