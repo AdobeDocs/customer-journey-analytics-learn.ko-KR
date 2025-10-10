@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Customer Journey Analytics에서 전체 테이블 내보내기
 
-Customer Journey Analytics에서 AEP 데이터 랜딩 영역 및 Snowflake 모두로의 테이블 전달의 기본 설정에 대해 알아봅니다. 자세한 설명서는 [클라우드로 Customer Journey Analytics 보고서 내보내기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html)를 참조하십시오.
+Customer Journey Analytics에서 AEP 데이터 랜딩 영역 및 Snowflake 모두로의 테이블 전달의 기본 설정에 대해 알아봅니다. 자세한 설명서는 [클라우드로 Customer Journey Analytics 보고서 내보내기](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html?lang=ko)를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

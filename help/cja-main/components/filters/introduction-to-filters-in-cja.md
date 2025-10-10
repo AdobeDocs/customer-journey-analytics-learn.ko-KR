@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # 세그먼트 개요
 
-세그먼트는 웹 사이트 방문자 또는 콜 센터 참여와 같은 속성 및 이벤트를 기반으로 방문자 또는 고객 하위 집합을 식별합니다. Customer Journey Analytics에서 세그먼트 빌더의 주요 구성 요소에 대해 알아봅니다. Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)를 참조하십시오.
+세그먼트는 웹 사이트 방문자 또는 콜 센터 참여와 같은 속성 및 이벤트를 기반으로 방문자 또는 고객 하위 집합을 식별합니다. Customer Journey Analytics에서 세그먼트 빌더의 주요 구성 요소에 대해 알아봅니다. Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/filters-overview)를 참조하십시오.
 
 >[!NOTE]
 >

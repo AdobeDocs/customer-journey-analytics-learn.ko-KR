@@ -22,4 +22,4 @@ Customer Journey Analytics의 **전환 트렌드**&#x200B;가 시간에 따른 f
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/funnel/conversion-trends.html?lang=ko)를 참조하십시오.

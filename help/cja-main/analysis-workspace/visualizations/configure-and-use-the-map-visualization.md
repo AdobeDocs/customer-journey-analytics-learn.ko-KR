@@ -18,6 +18,6 @@ ht-degree: 31%
 
 # 맵 시각화 구성 및 사용
 
-맵 시각화를 통해 위치 데이터를 실감나게 표현합니다. 지역 클러스터를 식별하고 선택 도구를 사용하여 즉석으로 세그먼트를 만듭니다. 몇 가지 간단한 구성 단계만 거치면 바로 사용할 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}를 참조하십시오.
+맵 시각화를 통해 위치 데이터를 실감나게 표현합니다. 지역 클러스터를 식별하고 선택 도구를 사용하여 즉석으로 세그먼트를 만듭니다. 몇 가지 간단한 구성 단계만 거치면 바로 사용할 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470819/?learn=on&enablevpops)

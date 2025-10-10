@@ -23,4 +23,4 @@ ht-degree: 100%
 
 ## 추가 리소스
 
-* [Customer Journey Analytics - 데이터 보기 설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - 데이터 보기 설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ko)
