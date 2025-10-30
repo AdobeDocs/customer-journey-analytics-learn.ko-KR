@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에 &#x200B;]텍스트 [!DNL Analysis Workspace]  시각화 추가'
-description: '[!UICONTROL 의 &#x200B;]프로젝트에서  [!DNL Analysis Workspace] text [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에 ]텍스트 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 ]프로젝트에서  [!DNL Analysis Workspace] text [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -10,21 +10,21 @@ role: User
 level: Beginner
 last-substantial-update: 2023-06-07T00:00:00Z
 exl-id: f4ddd3fb-af0b-4594-9cde-81829885b611
-source-git-commit: 1a23bfa0e22a8201c4e39131fafe09573c829ce7
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]text[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]text[!DNL Customer Journey Analytics] 시각화 추가
 
-[!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]text[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 지표에 대한 우려를 전달하거나 프로젝트의 다른 데이터에 컨텍스트를 추가하려는 경우에 유용합니다.
+[!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]text[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 지표에 대한 우려를 전달하거나 프로젝트의 다른 데이터에 컨텍스트를 추가하려는 경우에 유용합니다.
 
 >[!NOTE]
 >
 >[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30898/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-[!UICONTROL text] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=ko)를 참조하십시오.
+[!UICONTROL text] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}를 참조하십시오.

@@ -8,16 +8,16 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 929fc1cc499262a35ad76d3b4109c2ed175debe0
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '271'
 ht-degree: 34%
 
 ---
 
 # Content Analytics 소개
 
-콘텐츠 성능을 측정하는 것은 어려운 일일 수 있으며 종종 추측 및 비효율성을 초래할 수 있습니다. Content Analytics은 톤, 이미지, 색상 또는 메시징과 같이 컨텐츠를 효과적으로 만드는 요소에 대한 심층적인 통찰력을 제공하여 추측에 부담을 주지 않습니다. 참여를 유도하는 요소 및 콘텐츠를 최적화하는 방법 등 주요 질문에 대한 답을 제공합니다.
+콘텐츠 성능을 측정하는 것은 어려운 일일 수 있으며 종종 추측 및 비효율성을 초래할 수 있습니다. Content Analytics은 톤, 이미지, 색상 또는 메시징과 같이 콘텐츠를 효과적으로 만드는 요소에 대한 심층적인 통찰력을 제공하여 추측에 부담을 주지 않습니다. 참여를 유도하는 요소 및 콘텐츠를 최적화하는 방법 등 주요 질문에 대한 답을 제공합니다.
 
 자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
 
@@ -25,7 +25,7 @@ ht-degree: 34%
 
 Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐츠를 효과적으로 만드는 요소를 표시합니다. 팀은 참여도를 최적화하고 전환율을 높이며 더 스마트하고 데이터 기반의 의사 결정을 내릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457317/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3457310/?learn=on&enablevpops)
 
 
 ## 작동 방식
@@ -41,7 +41,7 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="how-it-works.md" title="Content Analytics - 작동 방식" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457434/?format=jpeg&nocache=1742338375674&captions=kor" alt="Content Analytics - 작동 방식"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - 작동 방식"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,7 +134,7 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="reporting.md" title="Content Analytics - 보고" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473044/?format=jpeg&nocache=1742338375674&captions=kor" alt="Content Analytics - 보고"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - 보고"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

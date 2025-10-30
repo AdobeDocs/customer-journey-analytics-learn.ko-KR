@@ -9,7 +9,7 @@ last-substantial-update: 2023-07-17T00:00:00Z
 jira: KT-13675
 thumbnail: 3421665.jpeg
 exl-id: 45ed4bf8-091e-4a08-a245-cc1ef226cbb9
-source-git-commit: c3457bc3197fef37890e32ac8831fb426e3b575d
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 19%
@@ -20,6 +20,6 @@ ht-degree: 19%
 
 Customer Journey Analytics의 **릴리스 영향**&#x200B;이(가) 지정된 날짜 전후에 수행된 주요 지표의 비교를 표시하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423452/?learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html){target="_blank"}를 참조하십시오.

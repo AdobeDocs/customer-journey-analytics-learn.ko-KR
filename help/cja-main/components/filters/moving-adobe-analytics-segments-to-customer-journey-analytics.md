@@ -12,7 +12,7 @@ topic: Migration
 role: User
 level: Beginner
 exl-id: b359a509-f920-40d2-978f-983f1b555e86
-source-git-commit: 89b2c6366c3b4224173d24845110adecf5d0b7db
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 이 비디오를 통해 Customer Journey Analytics에서 Adobe Analytics [!UICONTROL 세그먼트]를 다시 “[!UICONTROL 필터]”로 다시 만들기 위한 팁에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36111/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 참조하십시오.
+Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}를 참조하십시오.

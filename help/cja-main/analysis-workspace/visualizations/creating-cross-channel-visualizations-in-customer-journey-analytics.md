@@ -11,7 +11,7 @@ kt: 3961
 role: User
 level: Beginner
 exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
-source-git-commit: a2a920c7762bdb93b54fbff1dc5f36bcc10e9400
+source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오에서 Customer Journey Analytics를 통해 [!UICONTROL 방문자]별 데이터 병합을 포함하여 여러 채널 간에 여러 [!UICONTROL 데이터 세트]의 데이터를 포함하는 [!UICONTROL 시각화]를 만드는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33318/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
 
-Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 참조하십시오.
+Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}를 참조하십시오.
