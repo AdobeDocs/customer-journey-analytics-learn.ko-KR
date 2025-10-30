@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오에서 [!UICONTROL 시각화]를 사용하여 Adobe Customer Journey Analytics의 채널에서 [!UICONTROL 속성]을 표시(크레딧 제공)하는 방법을 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33319/?captions=kor&quality=12&learn=on)
 
 Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko){target="_blank"}를 참조하십시오.

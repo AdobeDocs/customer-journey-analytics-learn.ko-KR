@@ -20,4 +20,4 @@ ht-degree: 1%
 
 데이터 보기의 설정을 통해 고객 여정 분석에서 통화 변환을 수행합니다. 이 기능을 사용하여 여러 통화로 표시할 여러 지표를 만들 수 있습니다. 자세한 설명서는 [구성 요소 설정 서식](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=ko-KR#currency){target="_blank"}을 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447531/?captions=kor&learn=on)

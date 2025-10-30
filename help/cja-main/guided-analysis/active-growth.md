@@ -20,6 +20,6 @@ ht-degree: 16%
 
 Customer Journey Analytics의 **활성 증가**&#x200B;이(가) 신규, 반복, 재방문 및 휴면 사용자로 나눈 특정 기간 동안의 사용자 증가에 대한 통찰력을 제공하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423397/?captions=kor&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html?lang=ko){target="_blank"}를 참조하십시오.

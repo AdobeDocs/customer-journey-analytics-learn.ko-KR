@@ -23,6 +23,6 @@ ht-degree: 100%
 
 이 비디오를 통해 Customer Journey Analytics에서 Adobe Analytics [!UICONTROL 계산된 지표]를 다시 만들기 위한 팁을 찾으십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33326/?captions=kor&quality=12&learn=on)
 
 Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko){target="_blank"}를 참조하십시오.

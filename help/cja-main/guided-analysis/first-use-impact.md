@@ -20,6 +20,6 @@ ht-degree: 17%
 
 Customer Journey Analytics의 **첫 번째 사용 영향**&#x200B;이(가) 사용자가 제품 기능을 처음 사용하기 전과 후에 수행되는 주요 지표의 비교를 보여 주는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423499/?captions=kor&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=ko){target="_blank"}를 참조하십시오.

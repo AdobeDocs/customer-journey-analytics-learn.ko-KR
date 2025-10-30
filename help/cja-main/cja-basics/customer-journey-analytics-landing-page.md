@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Customer Journey Analytics 랜딩 페이지는 프로젝트 및 모바일 스코어카드 기본 보기와 학습 섹션을 통해 더욱 효과적으로 시작할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409309/?captions=kor&quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=ko){target="_blank"}를 참조하십시오.

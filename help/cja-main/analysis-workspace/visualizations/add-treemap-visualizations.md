@@ -25,6 +25,6 @@ ht-degree: 0%
 >
 >[!DNL Analysis Workspace] 사용자 인터페이스와 기능은 [!DNL Adobe Analytics] 및 [!DNL Customer Journey Analytics]에서 유사합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416857/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 트리 맵] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=ko){target="_blank"}를 참조하세요.

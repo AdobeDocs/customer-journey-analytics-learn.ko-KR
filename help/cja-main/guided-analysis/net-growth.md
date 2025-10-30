@@ -20,6 +20,6 @@ ht-degree: 18%
 
 Customer Journey Analytics의 **순 증가**&#x200B;이(가) 특정 기간 동안 사용자를 얻거나 잃는 속도에 대한 통찰력을 제공하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423464/?captions=kor&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html?lang=ko){target="_blank"}를 참조하십시오.

@@ -19,6 +19,6 @@ ht-degree: 18%
 
 Customer Journey Analytics의 **타임라인**&#x200B;에 대해 알아보세요. 경험 패턴을 찾고 더 나은 사용자 스토리를 전달하며 구현의 유효성을 검사하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435774/?captions=kor&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}를 참조하십시오.

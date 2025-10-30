@@ -26,4 +26,4 @@ Adobe Customer Journey Analytics에서 둘 이상의 데이터 소스 및 채널
 >
 > Customer Journey Analytics 인터페이스에서 &quot;[!UICONTROL 필터]&quot;의 이름이 &quot;[!UICONTROL 세그먼트]&quot;으로 변경되었습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36112/?captions=kor&quality=12&learn=on)
