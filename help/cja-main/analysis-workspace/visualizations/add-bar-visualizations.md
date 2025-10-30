@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에 ]표시줄 [!DNL Analysis Workspace]  시각화 추가'
-description: '[!UICONTROL 의 ]프로젝트에 표준 [!UICONTROL 막대] 및  [!DNL Analysis Workspace] 스택 막대 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에 &#x200B;]표시줄 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에 표준 [!UICONTROL 막대] 및  [!DNL Analysis Workspace] 스택 막대 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]표시줄[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]표시줄[!DNL Customer Journey Analytics] 시각화 추가
 
-[!UICONTROL 의 ] 프로젝트에서 표준 [!UICONTROL 막대] 및 [!DNL Analysis Workspace]스택 막대[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. [!UICONTROL bar] 형식을 사용하여 지표 간 값을 나타냅니다.
+[!UICONTROL 의 &#x200B;] 프로젝트에서 표준 [!UICONTROL 막대] 및 [!DNL Analysis Workspace]스택 막대[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. [!UICONTROL bar] 형식을 사용하여 지표 간 값을 나타냅니다.
 
 >[!NOTE]
 >

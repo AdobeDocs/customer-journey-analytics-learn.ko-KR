@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에서 ]요약 [!DNL Analysis Workspace]  시각화 사용'
-description: '[!UICONTROL 의 ]프로젝트에서  [!DNL Analysis Workspace] 요약 [!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에서 &#x200B;]요약 [!DNL Analysis Workspace]  시각화 사용'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에서  [!DNL Analysis Workspace] 요약 [!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화 사용
+# [!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화 사용
 
-[!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다. 이러한 시각화는 프로젝트에서 중요한 큰 숫자를 강조 표시하려는 경우 사용하기에 적합합니다.
+[!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다. 이러한 시각화는 프로젝트에서 중요한 큰 숫자를 강조 표시하려는 경우 사용하기에 적합합니다.
 
 >[!NOTE]
 >

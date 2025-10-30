@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에 ]트리 맵 [!DNL Analysis Workspace]  시각화 추가'
-description: '[!UICONTROL 의 ]프로젝트에서  [!DNL Analysis Workspace] 트리 맵 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에 &#x200B;]트리 맵 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에서  [!DNL Analysis Workspace] 트리 맵 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 doc-type: technical video
 team: Technical Marketing
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]트리 맵[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]트리 맵[!DNL Customer Journey Analytics] 시각화 추가
 
-[!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]트리 맵[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 계층형 데이터를 중첩된 직사각형 세트로 생성하며, 이를 통해 다른 방법으로는 찾아내기 어려운 패턴을 쉽게 볼 수 있습니다.
+[!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]트리 맵[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 계층형 데이터를 중첩된 직사각형 세트로 생성하며, 이를 통해 다른 방법으로는 찾아내기 어려운 패턴을 쉽게 볼 수 있습니다.
 
 >[!NOTE]
 >
