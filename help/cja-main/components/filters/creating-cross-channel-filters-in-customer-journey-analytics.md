@@ -20,7 +20,7 @@ ht-degree: 7%
 
 # Customer Journey Analytics에서 크로스 채널 [!UICONTROL 세그먼트] 만들기
 
-Adobe Customer Journey Analytics에서 둘 이상의 데이터 소스 및 채널을 사용하는 [!UICONTROL 세그먼트]를 만드는 방법에 대해 알아봅니다. 또한 [!UICONTROL 시각화]에서 [!UICONTROL 세그먼트]를 결합하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}를 참조하십시오.
+Adobe Customer Journey Analytics에서 둘 이상의 데이터 소스 및 채널을 사용하는 [!UICONTROL 세그먼트]를 만드는 방법에 대해 알아봅니다. 또한 [!UICONTROL 시각화]에서 [!UICONTROL 세그먼트]를 결합하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}를 참조하십시오.
 
 >[!NOTE]
 >

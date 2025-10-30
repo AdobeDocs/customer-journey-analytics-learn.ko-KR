@@ -20,6 +20,6 @@ ht-degree: 75%
 
 자유 형식 패널을 사용하여 유연한 드래그 앤 드롭 인터페이스를 통해 고객 경험 데이터를 탐색하고 비교하며 상관관계를 분석합니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # [!DNL segments]을(를) Analysis Workspace 프로젝트의 차원으로 사용
 
-Analysis Workspace 프로젝트에서 차원으로 사용될 때 세그먼트를 비교하고 시각화하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}를 참조하십시오.
+Analysis Workspace 프로젝트에서 차원으로 사용될 때 세그먼트를 비교하고 시각화하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}를 참조하십시오.
 
 >[!NOTE]
 >

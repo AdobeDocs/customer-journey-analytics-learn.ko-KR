@@ -18,7 +18,7 @@ ht-degree: 14%
 
 # 빠른 세그먼트 만들기
 
-[!UICONTROL &#x200B; 프로젝트에서 직접 &#x200B;]빠른 세그먼트[!DNL Customer Journey Analytics]를 만들고 전체 [!UICONTROL 세그먼트 빌더]의 복잡성을 피할 수 있습니다. 이 기능을 사용하면 간단한 기준에 따라 구성 요소 데이터를 세그먼트화하고 결과를 즉시 확인할 수 있는 편리한 방법을 사용할 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}를 참조하십시오.
+[!UICONTROL &#x200B; 프로젝트에서 직접 &#x200B;]빠른 세그먼트[!DNL Customer Journey Analytics]를 만들고 전체 [!UICONTROL 세그먼트 빌더]의 복잡성을 피할 수 있습니다. 이 기능을 사용하면 간단한 기준에 따라 구성 요소 데이터를 세그먼트화하고 결과를 즉시 확인할 수 있는 편리한 방법을 사용할 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}를 참조하십시오.
 
 >[!NOTE]
 >

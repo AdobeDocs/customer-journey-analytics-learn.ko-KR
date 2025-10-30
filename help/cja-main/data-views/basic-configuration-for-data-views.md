@@ -23,5 +23,5 @@ Customer Journey Analytics에서 Adobe Experience Platform의 데이터 세트�
 
 ## 추가 리소스
 
-* [Customer Journey Analytics - 데이터 보기 설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}.
+* [Customer Journey Analytics - 데이터 보기 설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ko){target="_blank"}.
 

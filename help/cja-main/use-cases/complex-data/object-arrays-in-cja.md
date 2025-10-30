@@ -22,4 +22,4 @@ CJA의 프로필 및 조회 데이터 세트에서 오브젝트 배열을 활용
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html?lang=ko){target="_blank"}를 참조하십시오.

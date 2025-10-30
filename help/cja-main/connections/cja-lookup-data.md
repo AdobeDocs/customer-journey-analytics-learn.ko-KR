@@ -21,6 +21,6 @@ ht-degree: 27%
 
 조회 및 프로필 데이터에 대한 CJA 조회를 통해 사용자는 B2B 사용 사례에서 계정할 사용자와 같은 데이터 요소 간에 더 깊은 관계를 활용할 수 있습니다.  이 비디오에서는 조회 및 프로필 데이터 세트에 조회 데이터를 추가하는 방법과 주요 필드를 계획하고 매핑하는 방법을 다룹니다.  키와 조회 값 사이에 일대다 관계가 있는 경우 가장 최근 값이 사용됩니다.
 
-자세한 설명서를 보려면 [데이터 집합 형식](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en#dataset-types){target="_blank"} 및 [계정 수준 데이터를 조회 데이터 집합으로 추가](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=en){target="_blank"}를 참조하세요.
+자세한 설명서를 보려면 [데이터 집합 형식](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=ko#dataset-types){target="_blank"} 및 [계정 수준 데이터를 조회 데이터 집합으로 추가](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=ko){target="_blank"}를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)

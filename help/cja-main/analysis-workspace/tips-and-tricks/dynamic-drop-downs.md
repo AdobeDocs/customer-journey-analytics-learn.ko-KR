@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Analysis Workspace에서 동적 드롭다운 세그먼트 만들기
 
-전체 차원을 기반으로 드롭다운 세그먼트를 만드는 방법을 알아봅니다. Dimension 항목은 보고서 패널에 사용되는 날짜 범위를 기반으로 동적으로 업데이트됩니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}를 참조하십시오.
+전체 차원을 기반으로 드롭다운 세그먼트를 만드는 방법을 알아봅니다. Dimension 항목은 보고서 패널에 사용되는 날짜 범위를 기반으로 동적으로 업데이트됩니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}를 참조하십시오.
 
 >[!NOTE]
 >
