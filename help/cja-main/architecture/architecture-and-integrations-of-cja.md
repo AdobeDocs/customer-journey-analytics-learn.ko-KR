@@ -23,6 +23,6 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Experience Platform과의 연결 및 통합 방법 등 Customer Journey Analytics의 아키텍처에 대해 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330415/?captions=kor&learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
 
-Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko){target="_blank"}를 참조하십시오.
+Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}를 참조하십시오.
