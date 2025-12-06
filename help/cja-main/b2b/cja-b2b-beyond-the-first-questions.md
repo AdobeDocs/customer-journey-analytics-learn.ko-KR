@@ -20,4 +20,4 @@ ht-degree: 0%
 
 고급 질문을 공식화하고 Adobe Customer Journey Analytics(CJA)의 기본 지표를 넘어 B2B 분석을 향상시키는 방법을 알아봅니다. 전략적 기회와 실행 가능한 통찰력을 발견합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477514/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477521/?captions=kor&learn=on)

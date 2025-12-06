@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Customer Journey Analytics과 Marketo을 통합하면 B2B 데이터 분석이 어떻게 향상되는지 알아보십시오. 직함별로 마케팅 채널 기여도, 매출 영향 및 캠페인 효과에 중점을 둡니다. 이 통합은 고급 속성 모델 및 대상 타기팅 전략을 사용하여 마케팅 노력이 특히 C-suite 경영진의 기회를 유도하는 방법을 이해하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477502/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3477509/?captions=kor&learn=on)
