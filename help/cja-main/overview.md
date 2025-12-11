@@ -5,10 +5,10 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
-source-git-commit: c26bc63942e9d140eefbb530c441de9eb45d5743
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Customer Journey Analytics 튜토리얼
 
-[!DNL Customer Journey Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko-KR)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면:
+[!DNL Customer Journey Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko-KR)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 인사이트를 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면:
 
 * 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
 * **직원 추천**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.

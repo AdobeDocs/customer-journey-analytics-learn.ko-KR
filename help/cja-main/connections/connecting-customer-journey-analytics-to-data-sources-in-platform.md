@@ -4,12 +4,12 @@ description: Customer Journey Analytics는 Adobe Experience Platform에 수집�
 feature: Connections
 activity: setup
 doc-type: feature video
-role: Data Engineer, Data Architect
+role: Developer
 level: Intermediate
 thumbnail: 30140.jpg
 kt: 3954
 exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
-source-git-commit: ea4f1ebf6ccff886dc6b2f5cac29cb890620739e
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Customer Journey Analytics는 Adobe Experience Platform에 수집된 데이터 세트를 활용합니다. 작업 영역에서 데이터 분석을 시작하기 전에 연결을 만들어야 합니다. Customer Journey Analytics 아키텍처, 사용 사례, 계획 수립, 필요한 권한 및 연결 생성 단계에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/32946/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/30140/?quality=12&learn=on)

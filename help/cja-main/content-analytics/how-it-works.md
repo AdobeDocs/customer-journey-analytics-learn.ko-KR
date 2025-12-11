@@ -2,14 +2,14 @@
 title: Content Analytics - 작동 방식
 description: Content Analytics이 Customer Journey Analytics 및 Experience Platform과 작동하는 방식을 알아봅니다.
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 337
 last-substantial-update: 2025-04-03T00:00:00Z
 jira: KT-17555
 exl-id: f2244ca9-0392-493c-a0e0-bf73baf8e874
-source-git-commit: e9e016deb629f014f61dfe51f6003305796d20c0
+source-git-commit: 423e9f4f0ad9c07a584fdb48758676c81b9eb588
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 2%
@@ -22,4 +22,4 @@ ht-degree: 2%
 
 자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457434/?learn=on&enablevpops&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3457423/?learn=on&enablevpops)
