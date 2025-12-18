@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: afff13a5436d054e664fc8f41d08a2ebbfa6e532
+source-git-commit: 8d706b04feb7b869569a41d7c0a682b81c67e199
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '577'
 ht-degree: 75%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 75%
    + [CJA에서 ID를 사용하는 방법 이해](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [누락된 개인 ID 구성](visitor-id/configure-missing-person-id.md)
    + [스티칭 개요](visitor-id/overview-of-stitching.md)
-   + [그래프 기반 스티칭 개요](visitor-id/graph-based-stitching-overview.md)
+   + [스티칭 지원 및 유효성 검사](visitor-id/stitching-enablement-and-validation.md)
 + 데이터 보기 {#data-views}
    + [CJA용 데이터 보기 구성 개요](data-views/overview-of-configuring-data-views-for-cja.md)
    + [데이터 보기에 대한 기본 구성](data-views/basic-configuration-for-data-views.md)
@@ -163,6 +163,6 @@ ht-degree: 75%
    + 복잡한 데이터 {#complex-data}
       + [오브젝트 배열 사용](use-cases/complex-data/object-arrays-in-cja.md)
 + 블루프린트 {#blueprints}
-   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
+   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
    + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
-   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
