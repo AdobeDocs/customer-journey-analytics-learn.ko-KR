@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이 비디오에서는 모든 이벤트 데이터 세트에서 결합을 활성화하는 방법을 소개합니다. 또한 데이터 세트에서 결합이 활성화되면 데이터 세트가 작동하고 가치를 확인하는 데 사용할 수 있는 다양한 지표와 차원을 표시하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478120/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478127/?captions=kor&learn=on&enablevpops)
