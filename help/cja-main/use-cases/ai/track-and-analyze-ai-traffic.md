@@ -22,4 +22,4 @@ ht-degree: 0%
 
 자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/derived-fields/ai-traffic){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478575/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478582/?captions=kor&learn=on&enablevpops)
