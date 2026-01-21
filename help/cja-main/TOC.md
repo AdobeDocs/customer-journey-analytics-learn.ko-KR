@@ -5,7 +5,7 @@ type: Tutorial
 source-git-commit: ba07ecf441be809b3d7f92db7f7d61a2bcb7f1cb
 workflow-type: tm+mt
 source-wordcount: '584'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 74%
    + [Customer Journey Analytics 소개](cja-basics/understanding-customer-journey-analytics.md)
    + [새로운 용어 및 개념](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 랜딩 페이지](cja-basics/customer-journey-analytics-landing-page.md)
-   + [AI Assistant 사용](cja-basics/use-ai-assistant.md)
+   + [AI 어시스턴트 사용](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
-   + [Customer Journey Analytics 소개 - B2B edition](b2b/cja-b2b-overview.md)
-   + [CJA B2B edition - 첫 번째 질문 이외](b2b/cja-b2b-beyond-the-first-questions.md)
-   + [B2B 통찰력을 위해 CJA과 Marketo 통합](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
+   + [Customer Journey Analytics 소개 - B2B Edition](b2b/cja-b2b-overview.md)
+   + [CJA B2B edition - 첫 번째 질문 그 이상](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [B2B 인사이트를 위해 CJA과 Marketo 통합](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + 아키텍처 {#architecture}
    + [아키텍처 및 통합](architecture/architecture-and-integrations-of-cja.md)
 + 데이터 준비 및 계획 {#data-prep}
@@ -39,8 +39,8 @@ ht-degree: 74%
 + 방문자 식별 {#visitor-id}
    + [CJA에서 ID를 사용하는 방법 이해](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
    + [누락된 개인 ID 구성](visitor-id/configure-missing-person-id.md)
-   + [스티칭 개요](visitor-id/overview-of-stitching.md)
-   + [스티칭 지원 및 유효성 검사](visitor-id/stitching-enablement-and-validation.md)
+   + [결합 개요](visitor-id/overview-of-stitching.md)
+   + [결합 활성화 및 유효성 검사](visitor-id/stitching-enablement-and-validation.md)
 + 데이터 보기 {#data-views}
    + [CJA용 데이터 보기 구성 개요](data-views/overview-of-configuring-data-views-for-cja.md)
    + [데이터 보기에 대한 기본 구성](data-views/basic-configuration-for-data-views.md)
@@ -60,19 +60,19 @@ ht-degree: 74%
       + [파생 필드 만들기](data-views/derived-fields/derived-fields-in-cja.md)
       + [수학 함수 사용](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
       + [다음 또는 이전 함수 사용](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
-      + [이벤트 깊이 사용자 지정](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
-      + [타이프 캐스팅 사용](data-views/derived-fields/use-typecasting-in-derived-fields.md)
-      + [날짜 계산을 사용하여 이벤트 간 시간 계산](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+      + [이벤트 심도 사용자 정의](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+      + [유형 캐스팅 사용](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+      + [날짜 계산을 사용하여 이벤트 사이의 시간 계산](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
 + Data Insights 에이전트 {#data-insights-agent}
    + [소개](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [사용 사례](data-insights-agent/data-insights-agent-use-cases.md)
-   + [Data Insights Agent 사용](data-insights-agent/use-the-data-insights-agent.md)
+   + [Data Insights 에이전트 사용](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
       + [새 프로젝트 빌드](analysis-workspace/workspace-projects/build-a-new-project.md)
       + [Analysis Workspace 템플릿](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
-      + [Workspace 주석 달기](analysis-workspace/workspace-projects/workspace-commenting.md)
+      + [작업 영역 댓글 달기](analysis-workspace/workspace-projects/workspace-commenting.md)
       + 여정 분석 {#journey-analysis}
          + [여정 캔버스 시각화](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
    + 패널 {#panels}
@@ -104,7 +104,7 @@ ht-degree: 74%
       + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
    + 선별 및 공유 {#curate-and-share}
       + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-   + 팁과 트릭 {#tips-and-tricks}
+   + 팁 및 요령 {#tips-and-tricks}
       + [동적 드롭다운 세그먼트 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
    + [Adobe Product Analytics 개요](adobe-product-analytics/adobe-product-analytics-overview.md)
@@ -125,7 +125,7 @@ ht-degree: 74%
    + 세그먼트 {#filters}
       + [세그먼트 개요](components/filters/introduction-to-filters-in-cja.md)
       + [빠른 세그먼트 만들기](components/filters/create-a-quick-filter.md)
-      + [크로스 채널 세그먼트 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+      + [교차 채널 세그먼트 만들기](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
       + [세그먼트를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
       + [세그먼트에서 대상자 만들기](components/filters/create-audiences-from-segments.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
@@ -144,7 +144,7 @@ ht-degree: 74%
    + [구성 만들기](content-analytics/create-configuration.md)
    + [구성 편집](content-analytics/edit-configuration.md)
    + [보고](content-analytics/reporting.md)
-+ 대시보드(스코어카드) {#dashboards}
++ 대시보드 (스코어카드) {#dashboards}
    + [모바일 스코어카드 만들기](dashboards/create-a-mobile-scorecard.md)
    + [모바일 스코어카드 액세스로 경영진 지원](dashboards/assist-executives-to-access-mobile-scorecards.md)
 + 내보내기 {#exporting}
@@ -155,9 +155,9 @@ ht-degree: 74%
 + 보고 활동 관리자 {#reporting-activity-manager}
    + [보고 활동 관리자 사용](reporting-activity-manager/use-the-reporting-activity-manager.md)
 + Experience Platform 통합 {#experience-platform-integration}
-   + [Adobe Journey Optimizer에 대한 보고 기능 향상](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
+   + [향상된 Adobe Journey Optimizer의 보고 기능](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + 사용 사례 {#use-cases}
-   + 인공 지능 {#ai}
+   + AI {#ai}
       + [AI 트래픽 추적 및 분석](use-cases/ai/track-and-analyze-ai-traffic.md)
    + 데이터 보기 사용 사례 {#data-views-use-cases}
       + [최초 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
