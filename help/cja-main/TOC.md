@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ba07ecf441be809b3d7f92db7f7d61a2bcb7f1cb
-workflow-type: ht
-source-wordcount: '584'
-ht-degree: 100%
+source-git-commit: 6e704c5eed318c044e3871e3821a35e4552a5b86
+workflow-type: tm+mt
+source-wordcount: '589'
+ht-degree: 99%
 
 ---
 
@@ -103,6 +103,7 @@ ht-degree: 100%
    + 주석 {#annotations}
       + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
    + 선별 및 공유 {#curate-and-share}
+      + [Data Storytelling: 슬라이드 프레젠테이션 생성](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
       + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
    + 팁 및 요령 {#tips-and-tricks}
       + [동적 드롭다운 세그먼트 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
