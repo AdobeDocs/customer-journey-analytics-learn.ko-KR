@@ -22,4 +22,4 @@ Adobe Experience Platform을 기반으로 구축된 Adobe Customer Journey Analy
 
 자세한 내용은 CJA으로 마이그레이션하기 전에 [주요 고려 사항](https://experienceleague.adobe.com/ko/perspectives/cja-readiness-three-key-considerations-before-migrating-to-cja#){target="_blank"}을 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479326/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479333/?captions=kor&learn=on&enablevpops)

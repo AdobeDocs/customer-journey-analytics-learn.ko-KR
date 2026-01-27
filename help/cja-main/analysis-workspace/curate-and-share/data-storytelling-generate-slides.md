@@ -22,4 +22,4 @@ Analysis Workspace 프로젝트를 전문 PowerPoint 프레젠테이션으로 �
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/curate-share/generate-slides){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479119/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479126/?captions=kor&learn=on&enablevpops)
