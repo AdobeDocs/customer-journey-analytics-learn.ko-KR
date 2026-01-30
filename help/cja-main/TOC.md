@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 4c46adc0d3191f380d75b70234d4756832168b46
+source-git-commit: 4477043c45cb75706e77168f1e7744d6b3f4d2a2
 workflow-type: tm+mt
-source-wordcount: '598'
-ht-degree: 98%
+source-wordcount: '604'
+ht-degree: 99%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 + [Customer Journey Analytics 개요](overview.md)
 + Customer Journey Analytics 기본 사항 {#cja-basics}
    + [Customer Journey Analytics란?](cja-basics/what-is-customer-journey-analytics.md)
-   + [왜 CJA? CJA과 Adobe Analytics의 전략적 검토](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [CJA를 사용해야 하는 이유 CJA와 Adobe Analytics의 전략적 비교 검토](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics 소개](cja-basics/understanding-customer-journey-analytics.md)
    + [새로운 용어 및 개념](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 랜딩 페이지](cja-basics/customer-journey-analytics-landing-page.md)
@@ -93,6 +93,7 @@ ht-degree: 98%
       + [막대 시각화 추가](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [글머리 기호 그래프 시각화 추가](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
       + [도넛 시각화 추가](analysis-workspace/visualizations/add-donut-visualizations.md)
+      + [자유 형식 테이블의 여러 차원 열](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [라인 시각화 추가](analysis-workspace/visualizations/line-visualization.md)
       + [맵 시각화 구성 및 사용](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [요약 시각화 사용](analysis-workspace/visualizations/use-summary-visualizations.md)
