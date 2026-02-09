@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]text[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]text[!DNL Customer Journey Analytics] 시각화 추가
 
 Customer Journey Analytics의 Analysis Workspace 프로젝트에서 텍스트 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 지표에 대한 우려를 전달하거나 프로젝트의 다른 데이터에 컨텍스트를 추가하려는 경우에 유용합니다.
 
