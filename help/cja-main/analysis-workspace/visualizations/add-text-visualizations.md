@@ -22,4 +22,4 @@ Customer Journey Analytics의 Analysis Workspace 프로젝트에서 텍스트 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479695/?quality=12&learn=on)
 
-[!UICONTROL text] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}를 참조하십시오.
+[!UICONTROL text] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html?lang=ko){target="_blank"}를 참조하십시오.
