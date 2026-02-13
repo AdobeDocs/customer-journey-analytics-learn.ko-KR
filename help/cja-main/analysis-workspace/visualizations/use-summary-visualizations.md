@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에 ]요약 [!DNL Analysis Workspace]  시각화 추가'
-description: '[!UICONTROL 의 ]프로젝트에서  [!DNL Analysis Workspace] 요약 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에 &#x200B;]요약 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에서  [!DNL Analysis Workspace] 요약 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 kt: 13425
 role: User
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화 추가
 
-[!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이러한 시각화는 프로젝트에서 중요한 큰 숫자를 강조 표시하려는 경우 사용하기에 적합합니다.
+[!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이러한 시각화는 프로젝트에서 중요한 큰 숫자를 강조 표시하려는 경우 사용하기에 적합합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
 

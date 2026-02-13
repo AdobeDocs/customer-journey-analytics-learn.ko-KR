@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에 ]도넛 [!DNL Analysis Workspace]  시각화 추가'
-description: '[!UICONTROL 의 ]프로젝트에  [!DNL Analysis Workspace] 도넛 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에 &#x200B;]도넛 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에  [!DNL Analysis Workspace] 도넛 [!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 kt: 13405
 role: User
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]도넛[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]도넛[!DNL Customer Journey Analytics] 시각화 추가
 
-[!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]도넛[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 몇 개 항목에 대한 합계의 백분율을 비교할 때 사용하기에 이상적입니다.
+[!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]도넛[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 몇 개 항목에 대한 합계의 백분율을 비교할 때 사용하기에 이상적입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479878/?quality=12&learn=on)
 
