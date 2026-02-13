@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]요약[!DNL Customer Journey Analytics] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이러한 시각화는 프로젝트에서 중요한 큰 숫자를 강조 표시하려는 경우 사용하기에 적합합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479879/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479897/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 요약] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/summary-number-change.html?lang=ko){target="_blank"}를 참조하세요.
