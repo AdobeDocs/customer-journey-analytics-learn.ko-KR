@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Customer Journey Analytics의 Analysis Workspace 프로젝트에서 원시 값 대신 백분율을 사용하여 완전히 누적된 시각화를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479696/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479704/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 완전히 스택된 변수] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ko){target="_blank"}를 참조하세요.

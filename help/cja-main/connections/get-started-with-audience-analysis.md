@@ -22,4 +22,4 @@ Audience Analysis를 통해 마케터가 Experience Platform에서 대상 세그
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-connections/audience-analysis/audience-analysis-overview){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479804/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479811/?captions=kor&learn=on&enablevpops)
