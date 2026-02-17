@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 0572e7c2b67e3b17617a85d04a339c6970744de0
+source-git-commit: 0985d4e9f64d79575ebde79e97eadbe89145ce38
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '611'
 ht-degree: 97%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 97%
       + [세그먼트를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
       + [세그먼트에서 대상자 만들기](components/filters/create-audiences-from-segments.md)
       + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+   + [실시간 보고](components/real-time-reporting.md)
    + 차원 {#dimensions}
       + [이벤트 심도](components/dimensions/event-depth-in-cja.md)
    + 계산된 지표 {#calc-metrics}
