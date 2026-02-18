@@ -1,6 +1,6 @@
 ---
-title: '[!UICONTROL 프로젝트에서 ]분산 [!DNL Analysis Workspace]  시각화 추가'
-description: '[!UICONTROL 의 ]프로젝트에서  [!DNL Analysis Workspace] 분산 [!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다.'
+title: '[!UICONTROL 프로젝트에서 &#x200B;]분산 [!DNL Analysis Workspace]  시각화 추가'
+description: '[!UICONTROL 의 &#x200B;]프로젝트에서  [!DNL Analysis Workspace] 분산 [!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다.'
 feature: Visualizations
 kt: 13428
 role: User
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]분산[!DNL Customer Journey Analytics] 시각화 사용
+# [!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]분산[!DNL Customer Journey Analytics] 시각화 사용
 
-[!UICONTROL 의 ] 프로젝트에서 [!DNL Analysis Workspace]분산[!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다. 이 시각화는 차원 항목과 최대 3개의 지표 간의 관계를 보여 줍니다.
+[!UICONTROL 의 &#x200B;] 프로젝트에서 [!DNL Analysis Workspace]분산[!DNL Customer Journey Analytics] 시각화를 사용하는 방법에 대해 알아봅니다. 이 시각화는 차원 항목과 최대 3개의 지표 간의 관계를 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479958/?quality=12&learn=on)
 

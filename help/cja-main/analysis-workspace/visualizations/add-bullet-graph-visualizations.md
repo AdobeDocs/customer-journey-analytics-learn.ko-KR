@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL 프로젝트에 ]글머리 기호 [!DNL Analysis Workspace]  시각화 추가'
+title: '[!UICONTROL 프로젝트에 &#x200B;]글머리 기호 [!DNL Analysis Workspace]  시각화 추가'
 description: '[!UICONTROL 글머리 기호 그래프]를 사용하는 방법과  [!DNL Analysis Workspace] 프로젝트 [!DNL Customer Journey Analytics]에 추가하는 방법을 알아보세요.'
 feature: Visualizations
 kt: 13403
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# [!UICONTROL 의 ]개 프로젝트에 [!DNL Analysis Workspace]글머리 기호 그래프[!DNL Customer Journey Analytics] 시각화 추가
+# [!UICONTROL 의 &#x200B;]개 프로젝트에 [!DNL Analysis Workspace]글머리 기호 그래프[!DNL Customer Journey Analytics] 시각화 추가
 
 [!UICONTROL 글머리 기호 그래프]를 사용하는 방법과 [!DNL Analysis Workspace]의 [!DNL Customer Journey Analytics] 프로젝트에 추가하는 방법을 알아보세요. 이 그래프는 관심 값이 목표에 대해 비교되거나 측정되는 방식을 보여 줍니다.
 
