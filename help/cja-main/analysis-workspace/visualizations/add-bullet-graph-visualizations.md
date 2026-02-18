@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!UICONTROL 글머리 기호 그래프]를 사용하는 방법과 [!DNL Analysis Workspace]의 [!DNL Customer Journey Analytics] 프로젝트에 추가하는 방법을 알아보세요. 이 그래프는 관심 값이 목표에 대해 비교되거나 측정되는 방식을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479965/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 글머리 기호 그래프] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html?lang=ko){target="_blank"}를 참조하세요.
