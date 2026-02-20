@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics의 실시간 보고가 Analysis Workspace에서
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479943/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479951/?captions=kor&learn=on&enablevpops)
