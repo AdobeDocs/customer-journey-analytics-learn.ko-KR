@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: ad38d3670dfb90852baea4ce2f0e6813f8fe70c7
+source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 95%
+source-wordcount: '656'
+ht-degree: 92%
 
 ---
 
@@ -96,7 +96,7 @@ ht-degree: 95%
       + [도넛 시각화 추가](analysis-workspace/visualizations/add-donut-visualizations.md)
       + [자유 형식 테이블의 여러 차원 열](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
       + [라인 시각화 추가](analysis-workspace/visualizations/line-visualization.md)
-      + [맵 시각화 구성 및 사용](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
+      + [맵 시각화 추가 및 구성](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
       + [요약 시각화 추가](analysis-workspace/visualizations/use-summary-visualizations.md)
       + [텍스트 시각화 추가](analysis-workspace/visualizations/add-text-visualizations.md)
       + [분산형 시각화 추가](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
