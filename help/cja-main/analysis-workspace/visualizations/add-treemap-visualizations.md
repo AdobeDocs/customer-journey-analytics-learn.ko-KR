@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 [!UICONTROL 트리 맵] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 계층형 데이터를 중첩된 직사각형 세트로 생성하며, 이를 통해 다른 방법으로는 찾아내기 어려운 패턴을 쉽게 볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480243/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480263/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 트리 맵] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html?lang=ko){target="_blank"}를 참조하세요.
