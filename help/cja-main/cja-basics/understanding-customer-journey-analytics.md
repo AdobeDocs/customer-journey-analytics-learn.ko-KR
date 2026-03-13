@@ -22,4 +22,4 @@ Adobe Customer Journey Analytics(CJA)는 Adobe Experience Platform에 구축된 
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/kr/docs/analytics-platform/using/cja-landing){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36241/?captions=kor&quality=12&learn=on)
