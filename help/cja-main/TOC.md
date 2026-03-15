@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 67936ea5477091530774f8f203a9424c99c36416
+source-git-commit: ecd7a9b9945766f6d98bf8cf84e08da3c5de48e5
 workflow-type: tm+mt
-source-wordcount: '656'
-ht-degree: 92%
+source-wordcount: '661'
+ht-degree: 89%
 
 ---
 
@@ -15,14 +15,14 @@ ht-degree: 92%
 + [Customer Journey Analytics 개요](overview.md)
 + Customer Journey Analytics 기본 사항 {#cja-basics}
    + [Customer Journey Analytics란?](cja-basics/what-is-customer-journey-analytics.md)
-   + [CJA를 사용해야 하는 이유 CJA와 Adobe Analytics의 전략적 비교 검토](cja-basics/why-cja-modernize-customer-analytics.md)
+   + [CJA를 사용해야 하는 이유 CJA 및 Adobe Analytics에 대한 전략적 검토](cja-basics/why-cja-modernize-customer-analytics.md)
    + [Customer Journey Analytics 소개](cja-basics/understanding-customer-journey-analytics.md)
-   + [새로운 용어 및 개념](cja-basics/new-terms-and-concepts-in-cja.md)
+   + [Analytics에서 CJA으로: 새로운 용어 및 매핑 방법](cja-basics/new-terms-and-concepts-in-cja.md)
    + [Customer Journey Analytics 랜딩 페이지](cja-basics/customer-journey-analytics-landing-page.md)
    + [AI 어시스턴트 사용](cja-basics/use-ai-assistant.md)
 + Customer Journey Analytics B2B Edition {#b2b}
    + [Customer Journey Analytics 소개 - B2B Edition](b2b/cja-b2b-overview.md)
-   + [CJA B2B edition - 첫 번째 질문 그 이상](b2b/cja-b2b-beyond-the-first-questions.md)
+   + [CJA B2B edition - 첫 번째 질문 너머](b2b/cja-b2b-beyond-the-first-questions.md)
    + [B2B 인사이트를 위해 CJA과 Marketo 통합](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + 아키텍처 {#architecture}
    + [아키텍처 및 통합](architecture/architecture-and-integrations-of-cja.md)
