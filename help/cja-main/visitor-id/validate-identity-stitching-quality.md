@@ -21,6 +21,6 @@ ht-degree: 5%
 
 수집 전에 신뢰할 수 있는 크로스 디바이스 및 크로스 채널 보고를 위해 데이터 세트 적합성을 평가하여 가치 실현 시간을 획기적으로 단축하고 실시간 통찰력을 통해 ID 전략 의사 결정의 위험을 제거합니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/stitching/validate){target="_blank"}를 검토하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/stitching/validate){target="_blank"}를 검토하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481892/?learn=on&enablevpops)
