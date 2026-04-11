@@ -25,7 +25,7 @@ Adobe의 Experience Platform Agent Orchestrator을 기반으로 하는 [!DNL Dat
 
 Customer Journey Analytics에서 [!DNL Data Insights Agent]에 대해 알아보십시오. 이 AI 기반 솔루션은 마케터와 비즈니스 이해 당사자에게 즉각적이고 투명한 인사이트를 제공하여 지연과 광범위한 교육을 없애는 동시에 분석가가 전략적 작업에 집중할 수 있도록 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463904/?captions=kor&learn=on&enablevpops)
 
 
 ## Data Insights 에이전트 사용 사례
@@ -42,7 +42,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="data-insights-agent-use-cases.md" title="Data Insights 에이전트 사용 사례" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463896/?format=jpeg&nocache=1742338375674" alt="Data Insights 에이전트 사용 사례"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463915/?captions=kor&format=jpeg&nocache=1742338375674" alt="Data Insights 에이전트 사용 사례"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -77,7 +77,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="use-the-data-insights-agent.md" title="Data Insights 에이전트 사용" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463897/?format=jpeg&nocache=1742338375674" alt="Data Insights 에이전트 사용"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463926/?captions=kor&format=jpeg&nocache=1742338375674" alt="Data Insights 에이전트 사용"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
