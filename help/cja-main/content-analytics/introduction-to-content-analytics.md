@@ -1,6 +1,6 @@
 ---
 title: Content Analytics 소개
-description: 콘텐츠 성능을 측정하는 것은 어려운 일일 수 있으며 종종 추측 및 비효율성을 초래할 수 있습니다. Content Analytics은 콘텐츠를 효과적으로 만드는 요소에 대한 심층적인 통찰력을 제공하여 추측에 부담을 주지 않습니다.
+description: 콘텐츠 성과를 측정하는 것은 어려울 수 있으며 종종 모호함과 비효율성을 초래합니다. Content Analytics는 콘텐츠를 효과적으로 만드는 요소에 대한 깊은 인사이트를 제공하여 모호함을 없애 줍니다.
 feature: Use Cases
 role: Leader, User
 level: Beginner
@@ -8,29 +8,30 @@ duration: 650
 last-substantial-update: 2025-05-13T00:00:00Z
 jira: KT-17556
 exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 34%
+source-wordcount: '283'
+ht-degree: 98%
 
 ---
 
 # Content Analytics 소개
 
-콘텐츠 성능을 측정하는 것은 어려운 일일 수 있으며 종종 추측 및 비효율성을 초래할 수 있습니다. Content Analytics은 톤, 이미지, 색상 또는 메시징과 같이 콘텐츠를 효과적으로 만드는 요소에 대한 심층적인 통찰력을 제공하여 추측에 부담을 주지 않습니다. 참여를 유도하는 요소 및 콘텐츠를 최적화하는 방법 등 주요 질문에 대한 답을 제공합니다.
+콘텐츠 성과를 측정하는 것은 어려울 수 있으며 종종 모호함과 비효율성을 초래합니다. Content Analytics는 어조, 이미지, 색상 또는 메시징 등 콘텐츠를 효과적으로 만드는 요소에 대한 깊은 인사이트를 제공하여 모호함을 없애 줍니다. 참여를 유도하는 요소와 콘텐츠 최적화 방법과 같은 주요 질문에 대한 답을 제시합니다.
 
-자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 검토하십시오.
+자세한 내용은 Content Analytics [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}를 참조하십시오.
 
 ## 소개
 
-Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐츠를 효과적으로 만드는 요소를 표시합니다. 팀은 참여도를 최적화하고 전환율을 높이며 더 스마트하고 데이터 기반의 의사 결정을 내릴 수 있습니다.
+Content Analytics가 AI 및 Experience Platform 인프라를 사용하여 콘텐츠를 효과적으로 만드는 요소를 밝혀냅니다. 팀은 참여도를 최적화하고 전환율을 높이며 더 스마트하고 데이터 기반의 의사 결정을 내릴 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457317/?captions=kor&learn=on&enablevpops)
 
 
 ## 작동 방식
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * how-it-works.md
 -->
@@ -51,7 +52,7 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="how-it-works.md" target="_blank" rel="referrer" title="Content Analytics - 작동 방식">Content Analytics - 작동 방식</a>
                     </p>
-                    <p class="is-size-6">Content Analytics이 Customer Journey Analytics 및 Experience Platform과 작동하는 방식을 알아봅니다.</p>
+                    <p class="is-size-6">Content Analytics가 Customer Journey Analytics 및 Experience Platform과 작동하는 방식에 대해 알아봅니다.</p>
                 </div>
                 <a href="how-it-works.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
@@ -64,7 +65,8 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
 
 ## 설정
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * create-configuration.md
 * edit-configuration.md
@@ -123,7 +125,8 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
 
 ## 보고
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * reporting.md
 -->
@@ -144,7 +147,7 @@ Content Analytics은 AI 및 Experience Platform 인프라를 사용하여 콘텐
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="reporting.md" target="_blank" rel="referrer" title="Content Analytics - 보고">Content Analytics - 보고</a>
                     </p>
-                    <p class="is-size-6">Content Analytics에서 웹 사이트 콘텐츠 성능에 대한 자세한 보고서를 제공하는 방법을 살펴보십시오.</p>
+                    <p class="is-size-6">Content Analytics가 웹 사이트 콘텐츠 성과에 대한 상세 보고서를 제공하는 방법에 대해 알아봅니다.</p>
                 </div>
                 <a href="reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">시청</span>
