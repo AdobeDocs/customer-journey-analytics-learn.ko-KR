@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: c4adc96faebf26fd3e0e58fe38b2a0a7f3c2d5c4
+source-git-commit: 3324740cfa93ad26145ee16052e5bf3694720678
 workflow-type: tm+mt
-source-wordcount: '668'
-ht-degree: 88%
+source-wordcount: '676'
+ht-degree: 87%
 
 ---
 
@@ -166,6 +166,7 @@ ht-degree: 88%
 + 사용 사례 {#use-cases}
    + AI {#ai}
       + [AI 트래픽 추적 및 분석](use-cases/ai/track-and-analyze-ai-traffic.md)
+      + [Data Engineering Agent을 사용하여 데이터 세트 품질 유효성 검사](use-cases/ai/validate-dataset-quality-data-engineering-agent.md)
    + 데이터 보기 사용 사례 {#data-views-use-cases}
       + [최초 및 재방문 세션 보고](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
       + [날짜 필드 지원 사용](use-cases/data-views-use-cases/leverage-date-field-support.md)
