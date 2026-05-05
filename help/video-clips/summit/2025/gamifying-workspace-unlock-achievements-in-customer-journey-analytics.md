@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 84f9a1fb-2af9-473b-8ec4-b71085bd1f3e
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 Workspace 게임화 기능을 통해 사용자가 성과를 통해 Customer Journey Analytics을 탐색하고 숙지하여 기술을 구축하고 공동 작업을 수행하는 방법에 대해 알아봅니다.
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
->[!VIDEO](https://video.tv.adobe.com/v/3460205/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458360/?learn=on&enablevpops=true)

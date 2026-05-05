@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: b817cb37-5a7d-4529-a54e-ce3ab979b3ff
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 Customer Journey Analytics에서 요약 데이터 소스 를 사용하여 마케팅 비용에 대해 보고하고, 광고 투자 수익률을 계산하고, 회사 목표를 추적하는 방법에 대해 알아봅니다.
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
->[!VIDEO](https://video.tv.adobe.com/v/3460089/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)

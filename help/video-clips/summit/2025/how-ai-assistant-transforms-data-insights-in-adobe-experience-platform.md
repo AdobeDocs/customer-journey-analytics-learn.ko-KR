@@ -7,7 +7,7 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: ca7aa207-47fe-4b49-a273-579d5d17c2d9
-source-git-commit: 7c738dddf2dbea4e40c9620ad86296c7f444ea94
+source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 Adobe의 AI Assistant가 자연어 쿼리와 실행 가능한 결과를 통해 워크플로우를 전환하면서 즉각적인 데이터 통찰력을 제공하는 방법을 알아봅니다.
 
 <!-- 72_S653_3442539_81_how-ai-assistant-transforms-data-insights-in-adobe-experience-platform -->
->[!VIDEO](https://video.tv.adobe.com/v/3459919/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458305/?learn=on&enablevpops=true)
