@@ -22,4 +22,4 @@ ht-degree: 8%
 
 자세한 내용은 Content Analytics [설명서](https://developer.adobe.com/analytics-mcp/docs/cja/){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486313/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486321/?captions=kor&learn=on&enablevpops)

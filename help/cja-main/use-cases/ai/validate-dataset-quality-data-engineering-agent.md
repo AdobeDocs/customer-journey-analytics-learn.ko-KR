@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Data Engineering Agent의 데이터 유효성 검사 스킬을 사용하여 Adobe Customer Journey Analytics 데이터 세트를 빠르게 프로필링하고 유효성을 검사하는 방법을 알아봅니다. Customer Journey Analytics에서 보고서 및 여정을 작성하기 전에 잘못된 값을 감지하고 필드 수준 패턴을 이해하고 AI 기반 인사이트를 활용하여 데이터 품질을 개선하는 방법을 살펴볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3486277/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3486284/?captions=kor&learn=on&enablevpops)
