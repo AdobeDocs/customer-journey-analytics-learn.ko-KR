@@ -7,9 +7,11 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 71e395d2-b67a-485c-87b0-dab34dc2ac03
-source-git-commit: c6c3de3847a8017c833d52d82fa92bd83f27b1ed
+TQID: https://experienceleague.adobe.com/5vobiSFMw41-WzrFb-I8BiJRgEX2SVwzBvhThHTj5Rg
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+source-git-commit: 7819767ad88011dfada67e61cd0e3ce7f72b3ee5
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: 54
 ht-degree: 0%
 
 ---
@@ -19,4 +21,4 @@ ht-degree: 0%
 Adobe의 Audience Agent이 어떻게 적극적으로 대상 상태를 모니터링하고, 문제를 식별하고, 시간을 절약하고 참여를 개선할 수 있는 실행 가능한 솔루션을 제안하는지 확인하십시오.
 
 <!-- 62_S653_3442539_203_audience-agent-proactive-audience-health-monitoring -->
->[!VIDEO](https://video.tv.adobe.com/v/3460062/?captions=kor&learn=on&enablevpops=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3458303/?learn=on&enablevpops=true)

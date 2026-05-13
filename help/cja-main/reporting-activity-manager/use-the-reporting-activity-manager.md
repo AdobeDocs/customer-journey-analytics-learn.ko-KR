@@ -7,12 +7,19 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 3470314.jpg
 kt: 17502
-last-substantial-update: 2025-07-30T00:00:00Z
+last-substantial-update: 2025-07-30T00:00:00.000Z
 exl-id: bf2102a9-d536-4e68-9fa2-2ca1012f9858
-source-git-commit: 1a4ecef0d27d46164a1275906aaf36730468f0ae
+TQID: https://experienceleague.adobe.com/FuIFgVN1T7L1s5BCRGbfcnh-Q5WpSWLKW8njng4BucM
+product_v2: id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: c73c4213-d623-4126-81f4-80b42e5e2656id: d76b9e53-27fb-4597-933f-419cc0dd46db
+subfeature_v2: id: b1f5d324-a668-4e51-a59b-6fc0862d7310id: c38ed341-fab2-46df-9d72-88d8166edebb
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c1579802-ddd4-4214-8a91-97b2066abe11id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 10%
+source-wordcount: 76
+ht-degree: 22%
 
 ---
 
@@ -20,6 +27,6 @@ ht-degree: 10%
 
 조직 연결 전반에 걸쳐 보고 용량을 모니터링하고 관리하려면 [!DNL Customer Journey Analytics]의 보고 활동 관리자를 사용하십시오. 이 비디오에서는 주요 지표에 액세스하고, 성능 문제를 해결하며, 시스템 효율성을 최적화하는 방법을 다룹니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470321/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)
