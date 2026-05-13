@@ -46,7 +46,7 @@ ht-degree: 100%
 
 [!DNL Customer Journey Analytics]에서 [!DNL Analytics] 분류 데이터를 수집하고 사용하는 방법에 대해 알아봅니다. [!DNL Experience Platform]에서 분류 데이터를 사용할 수 있게 되면 [!DNL Analysis Workspace]에서 사용할 새 분류 필드를 포함하도록 [!UICONTROL 연결] 및 [!UICONTROL 데이터 보기]를 업데이트합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423686/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 분류] 데이터용 [!DNL Adobe Analytics] 소스 커넥터에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=ko){target="_blank"}를 참조하십시오.
 

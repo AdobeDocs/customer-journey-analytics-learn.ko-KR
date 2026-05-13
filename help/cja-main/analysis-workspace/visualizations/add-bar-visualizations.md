@@ -36,6 +36,6 @@ ht-degree: 0%
 
 [!DNL Customer Journey Analytics]의 [!DNL Analysis Workspace] 프로젝트에서 표준 [!UICONTROL 막대] 및 [!UICONTROL 스택 막대] 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. [!UICONTROL bar] 형식을 사용하여 지표 간 값을 나타냅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479603/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479610/?captions=kor&quality=12&learn=on)
 
 [!UICONTROL 표시줄] 시각화에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html?lang=ko){target="_blank"}를 참조하세요.

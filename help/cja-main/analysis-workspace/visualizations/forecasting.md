@@ -27,4 +27,4 @@ ht-degree: 68%
 
 Customer Journey Analytics의 시계열 시각화에 예측 수치를 추가하는 방법에 대해 알아봅니다. 자세한 설명서는 [예측 개요](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/forecasting/forecasting#){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428021/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443840/?captions=kor&learn=on)

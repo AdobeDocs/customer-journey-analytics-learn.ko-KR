@@ -40,4 +40,4 @@ ht-degree: 11%
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/technotes/access-control){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463383/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463392/?captions=kor&learn=on)

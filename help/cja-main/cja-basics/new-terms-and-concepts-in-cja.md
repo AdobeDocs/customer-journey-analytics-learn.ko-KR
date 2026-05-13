@@ -41,4 +41,4 @@ ht-degree: 53%
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36130/?captions=kor&quality=12&learn=on)

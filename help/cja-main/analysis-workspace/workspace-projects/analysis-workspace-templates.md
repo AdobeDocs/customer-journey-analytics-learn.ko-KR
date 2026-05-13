@@ -37,4 +37,4 @@ ht-degree: 40%
 
 처음부터 시작하고 싶지 않으세요? Workspace 템플릿을 사용하여 Workspace에서 분석을 시작하는 방법에 대해 알아봅니다. 선별된 Adobe 템플릿에서 선택하거나 맞춤형 조직 템플릿을 직접 만들 수 있습니다. 기본 설정에 따라 카드 보기 또는 열 보기에서 올바른 템플릿을 찾아봅니다! 자세한 설명서는 [템플릿 만들기 및 관리](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/templates/create-templates?lang=en){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443169/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443177/?captions=kor&learn=on&enablevpops)

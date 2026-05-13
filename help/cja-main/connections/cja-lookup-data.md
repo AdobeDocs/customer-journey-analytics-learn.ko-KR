@@ -38,4 +38,4 @@ ht-degree: 100%
 
 설명서 상세 내용은 [데이터 세트 유형](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=ko#dataset-types){target="_blank"} 및 [계정 수준 데이터를 조회 데이터 세트로 추가](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/b2b/b2b.html?lang=ko){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426424/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449877/?captions=kor&learn=on)
