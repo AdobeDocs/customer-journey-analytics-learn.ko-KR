@@ -39,6 +39,6 @@ ht-degree: 53%
 
 핵심 지표, 보고서 세트, 변수 등과 같은 익숙한 개념을 CJA 개념에 매핑하여 기존 Adobe Analytics 지식을 Customer Journey Analytics으로 전환하는 방법을 알아봅니다. 이 고급 비디오에서는 Experience Platform과의 CJA 관계를 설명하고 인터페이스에서 이러한 매핑된 용어를 찾을 수 있는 위치를 보여 줍니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-overview/cja-b2c-overview/cja-overview){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32113/?quality=12&learn=on)

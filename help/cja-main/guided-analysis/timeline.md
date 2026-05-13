@@ -32,4 +32,4 @@ Customer Journey Analytics의 **타임라인**&#x200B;에 대해 알아보세요
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}를 참조하십시오.

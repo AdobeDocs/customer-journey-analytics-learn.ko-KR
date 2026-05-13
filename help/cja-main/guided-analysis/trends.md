@@ -36,4 +36,4 @@ Customer Journey Analytics의 **트렌드**&#x200B;에 대해 알아보세요. �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/trends/usage.html?lang=ko){target="_blank"}를 참조하십시오.

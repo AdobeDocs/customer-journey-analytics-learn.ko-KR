@@ -48,6 +48,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-[!UICONTROL 분류] 데이터용 [!DNL Adobe Analytics] 소스 커넥터에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html){target="_blank"}를 참조하십시오.
+[!UICONTROL 분류] 데이터용 [!DNL Adobe Analytics] 소스 커넥터에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html?lang=ko){target="_blank"}를 참조하십시오.
 
-Customer Journey Analytics의 파생 필드 기능이 이 비디오에서 참조됩니다. 이 기능에 대해 자세히 알아보려면 [비디오](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html){target="_blank"}를 시청하거나 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"}를 참조하십시오.
+Customer Journey Analytics의 파생 필드 기능이 이 비디오에서 참조됩니다. 이 기능에 대해 자세히 알아보려면 [비디오](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html?lang=ko){target="_blank"}를 시청하거나 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html?lang=ko){target="_blank"}를 참조하십시오.
