@@ -34,4 +34,4 @@ ht-degree: 0%
 
 이 비디오를 통해 지원되는 다른 [마케팅 워크플로](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}와 [시작](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}(필수 구성 요소, 데이터 액세스 및 권한 포함)에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491181/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491201/?captions=kor&learn=on&enablevpops)
