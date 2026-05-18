@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 7b3a767ec4acd2b1e12de3acc11247645c9c023f
+source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 85%
+source-wordcount: '697'
+ht-degree: 84%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 85%
    + [소개](data-insights-agent/introduction-to-the-data-insights-agent.md)
    + [사용 사례](data-insights-agent/data-insights-agent-use-cases.md)
    + [Data Insights 에이전트 사용](data-insights-agent/use-the-data-insights-agent.md)
+   + [Microsoft 365 Copilot과의 통합](data-insights-agent/data-insights-with-marketing-agent-365copilot.md)
 + Analysis Workspace {#analysis-workspace}
    + Workspace 프로젝트 {#workspace-projects}
       + [Analysis Workspace 개요](analysis-workspace/workspace-projects/analysis-workspace-overview.md)
