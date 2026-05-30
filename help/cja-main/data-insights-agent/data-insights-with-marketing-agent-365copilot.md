@@ -32,6 +32,6 @@ ht-degree: 0%
 
 마케터가 분석 데이터에 대해 자연어 질문을 하고 Customer Journey Analytics에서 시각화 및 데이터를 다시 가져올 때 [!DNL Microsoft Teams]에서 [!DNL Adobe Marketing Agent]의 데모를 시청하십시오.
 
-이 비디오를 통해 지원되는 다른 [마케팅 워크플로](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}와 [시작](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}(필수 구성 요소, 데이터 액세스 및 권한 포함)에 대해 알아보십시오.
+이 비디오를 통해 지원되는 다른 [마케팅 워크플로](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-workflows){target="_blank"}와 [시작](https://experienceleague.adobe.com/ko/docs/platform-learn/tutorials/ai-assistant/adobe-marketing-agent/adobe-marketing-agent-get-started){target="_blank"}(필수 구성 요소, 데이터 액세스 및 권한 포함)에 대해 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491201/?captions=kor&learn=on&enablevpops)
