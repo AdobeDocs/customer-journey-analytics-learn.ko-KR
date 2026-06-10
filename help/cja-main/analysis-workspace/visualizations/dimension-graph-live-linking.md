@@ -26,4 +26,4 @@ ht-degree: 8%
 
 차원 값에서 시각화를 추가하거나 생성할 때 서로 다른 차원 값을 선택하고 그래프를 동적으로 변경하거나 시각화를 잠궈 한 차원 또는 위치에 유지할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3492126/?captions=kor&learn=on&enablevpops)
