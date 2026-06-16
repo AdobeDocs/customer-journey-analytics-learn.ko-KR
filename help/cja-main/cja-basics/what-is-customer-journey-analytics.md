@@ -40,4 +40,4 @@ ht-degree: 16%
 
 Customer Journey Analytics(CJA)에 대해 알아보고 Adobe Experience Platform 및 Analysis Workspace의 데이터를 사용하여 채널 전반에서 고객 여정을 분석하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439455/?captions=kor&quality=12&learn=on)
