@@ -3,16 +3,17 @@ user-guide-title: Customer Journey Analytics 비디오 클립
 breadcrumb-title: Customer Journey Analytics 비디오 클립
 user-guide-description: 고객 여정 분석 비디오 클립
 auto-video-transcripts: true
-source-git-commit: 101a5e07b246360189134119e188450d701cf12f
+source-git-commit: 7169246b493cc08c4f29471e97137ab04cbf7308
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 1%
+source-wordcount: '70'
+ht-degree: 2%
 
 ---
 
 
 # Customer Journey Analytics 비디오 클립 {#video-clips}
 
++ [개요](summit/2025/video-clip-overview.md)
 + Adobe Summit {#summit}
    + 2025 {#2025}
       + {hide-from-toc}[짧은 동영상](./summit/2025/algorithmic-attribution-a-game-changer-for-marketers.md)
