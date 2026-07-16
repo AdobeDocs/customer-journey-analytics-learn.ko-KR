@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: aefec8ff3b126154171f873cc6d386f36b8c1173
+source-git-commit: f58a7f83835ca1c821d873d2d06e1cb126af52bd
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '719'
 ht-degree: 83%
 
 ---
@@ -98,6 +98,7 @@ ht-degree: 83%
       + [크로스 채널 기여도](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
       + [Dimension-그래프 라이브 연결](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [지능형 캡션 만들기](analysis-workspace/visualizations/intelligent-captions.md)
+      + [테이블 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/cja-configure-table-and-visualization-data-source-settings.md)
       + [영역 시각화 추가](analysis-workspace/visualizations/add-area-visualizations.md)
       + [막대 시각화 추가](analysis-workspace/visualizations/add-bar-visualizations.md)
       + [글머리 기호 그래프 시각화 추가](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
