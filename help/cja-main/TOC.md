@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: f58a7f83835ca1c821d873d2d06e1cb126af52bd
+source-git-commit: 5132dba4cd27d25bfc433cf4fd8c169a35d598c5
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '723'
 ht-degree: 83%
 
 ---
@@ -112,6 +112,7 @@ ht-degree: 83%
       + [트리 맵 시각화 추가](analysis-workspace/visualizations/add-treemap-visualizations.md)
       + [100% 누적 시각화 만들기](analysis-workspace/visualizations/create-stacked-visualizations.md)
       + [시각화 범례 맞춤화](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
+      + [시각화를 위한 세부기간 설정](analysis-workspace/visualizations/cja-set-granularity-for-visualizations.md)
       + [시각화에 예측 추가](analysis-workspace/visualizations/forecasting.md)
    + 주석 {#annotations}
       + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
