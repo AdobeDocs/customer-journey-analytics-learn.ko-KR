@@ -20,4 +20,4 @@ ht-degree: 0%
 
 시각화 설정에서 트렌드 라인을 라인 시리즈에 추가하도록 선택하여 데이터에 더 명확한 패턴을 표시할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496122/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496136/?captions=kor&learn=on&enablevpops)
