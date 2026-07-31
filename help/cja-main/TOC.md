@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: d3821dc564d27928dc86587fcb2dd21b27b4ae1f
+source-git-commit: b6de0132276592b35e0034fa34c2870fb871645c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '749'
 ht-degree: 81%
 
 ---
@@ -91,6 +91,8 @@ ht-degree: 81%
   + 템플릿 {#templates}
     + [템플릿 사용](analysis-workspace/templates/use-templates.md)
     + [사용자 지정 템플릿 만들기](analysis-workspace/templates/create-custom-templates.md)
+  + 자유 형식 테이블 {#freeform-tables}
+    + [인라인 분류 사용](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
   + 시각화 {#visualizations}
     + [데이터 시각화](analysis-workspace/visualizations/getting-data-into-visualizations.md)
     + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -110,6 +112,7 @@ ht-degree: 81%
     + [맵 시각화 추가 및 구성](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
     + [요약 시각화 추가](analysis-workspace/visualizations/use-summary-visualizations.md)
     + [텍스트 시각화 추가](analysis-workspace/visualizations/add-text-visualizations.md)
+    + [프로젝트 내부 또는 외부 링크](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
     + [분산형 시각화 추가](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
     + [트리 맵 시각화 추가](analysis-workspace/visualizations/add-treemap-visualizations.md)
     + [100% 누적 시각화 만들기](analysis-workspace/visualizations/create-stacked-visualizations.md)
