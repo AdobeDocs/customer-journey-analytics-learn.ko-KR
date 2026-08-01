@@ -26,4 +26,4 @@ ht-degree: 35%
 
 Analysis Workspace 프로젝트에서 내부 또는 외부 링크를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496551/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496566/?captions=kor&learn=on&enablevpops)

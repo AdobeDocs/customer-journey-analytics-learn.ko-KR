@@ -26,4 +26,4 @@ ht-degree: 0%
 
 CJA용 인라인 분류를 사용하면 테이블의 값을 업데이트하거나 여러 값을 함께 그룹화하여 Analysis Workspace 내에서 바로 편집할 수 있습니다. 파생된 필드 기능의 작지만 강력한 조각을 Workspace 경험에 직접 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496552/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496557/?captions=kor&learn=on&enablevpops)
