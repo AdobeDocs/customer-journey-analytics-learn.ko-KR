@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Analysis Workspace에서 시각화를 위한 달력 및 날짜 사용에 대한 개요를 살펴보십시오
 
->[!VIDEO](https://video.tv.adobe.com/v/3496835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496840/?captions=kor&learn=on&enablevpops)
