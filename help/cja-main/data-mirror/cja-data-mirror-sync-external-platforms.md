@@ -8,8 +8,9 @@ level: Intermediate
 doc-type: Feature Video
 duration: 266
 last-substantial-update: 2026-08-11T00:00:00Z
+nudge-edit: 2026-08-11T00:00:00Z
 jira: KT-22296
-source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
+source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 4%
@@ -22,6 +23,6 @@ ht-degree: 4%
 
 Data Mirror은 Snowflake, BigQuery 및 Databricks와 같이 지원되는 클라우드 데이터 웨어하우스의 변경 사항을 CJA에 자동으로 반영하여 이 프로세스를 간소화합니다. 수작업 부담을 줄이고 시스템을 정렬하여 관리함으로써 분석에 사용되는 데이터가 최신 상태를 유지할 수 있습니다. 이 비디오에서는 Data Mirror의 작동 방식을 보여 주고 Adobe Experience Platform에서 이를 구성하는 단계를 안내합니다.
 
-추가 정보는 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}를 참조하십시오.
+추가 정보는 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
