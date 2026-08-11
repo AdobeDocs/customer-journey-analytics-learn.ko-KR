@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '772'
+ht-degree: 79%
 
 ---
 
@@ -151,6 +151,7 @@ ht-degree: 81%
     + [세그먼트를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
     + [세그먼트에서 대상자 만들기](components/filters/create-audiences-from-segments.md)
     + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [하위 이벤트를 사용한 개체 수준 세분화](components/filters/object-level-segmentation-using-sub-events.md)
   + [실시간 보고](components/real-time-reporting.md)
   + 차원 {#dimensions}
     + [이벤트 심도](components/dimensions/event-depth-in-cja.md)
@@ -193,3 +194,4 @@ ht-degree: 81%
   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ [Customer Journey Analytics용 Data Mirror](data-mirror/cja-data-mirror-sync-external-platforms.md)
