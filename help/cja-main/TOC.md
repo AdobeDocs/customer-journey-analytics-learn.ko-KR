@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: b4920cf1447f5152f24741315880e9c54b7abeb5
+source-git-commit: 48ec9badaf4fcf79721803d30098472cd345e147
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '773'
 ht-degree: 79%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 79%
   + [데이터 작업](data-prep/working-with-data-in-cja.md)
   + [Adobe Analytics 데이터 수집, 매핑 및 변형](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Adobe Analytics 분류 데이터 수집 및 사용](data-prep/ingest-and-use-analytics-classifications.md)
++ Data Mirror {#data-mirror}
+  + [외부 데이터 웨어하우스와 동기화](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + 액세스 제어 {#access-control}
   + [권한 설정](permissions/set-up-permissions.md)
 + 연결 {#connections}
@@ -194,4 +196,3 @@ ht-degree: 79%
   + [Customer Journey Analytics 블루프린트](https://experienceleague.adobe.com/ko/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
   + [디지털 동작 데이터 통합 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
   + [통화 전환 여정 분석 시나리오](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ [Customer Journey Analytics용 Data Mirror](data-mirror/cja-data-mirror-sync-external-platforms.md)
