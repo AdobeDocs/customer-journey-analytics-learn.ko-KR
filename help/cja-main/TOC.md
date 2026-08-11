@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: e3784070b30bf065b2bb5f960f2c426305e870f9
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 81%
+source-wordcount: '771'
+ht-degree: 79%
 
 ---
 
@@ -37,6 +37,7 @@ ht-degree: 81%
   + [권한 설정](permissions/set-up-permissions.md)
 + 연결 {#connections}
   + [Experience Platform 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [외부 데이터 웨어하우스와 동기화](connections/cja-data-mirror-sync-external-platforms.md)
   + [연결 설정 보기, 문제 해결 및 수정](connections/connections-details-experience-in-cja.md)
   + [연결에 새 데이터 추가](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [조회 및 프로필 데이터에 대한 CJA 조회](connections/cja-lookup-data.md)
@@ -151,6 +152,7 @@ ht-degree: 81%
     + [세그먼트를 차원으로 사용](components/filters/use-filters-as-dimensions.md)
     + [세그먼트에서 대상자 만들기](components/filters/create-audiences-from-segments.md)
     + [Adobe Analytics 세그먼트를 Customer Journey Analytics로 이동](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [하위 이벤트를 사용한 개체 수준 세분화](components/filters/object-level-segmentation-using-sub-events.md)
   + [실시간 보고](components/real-time-reporting.md)
   + 차원 {#dimensions}
     + [이벤트 심도](components/dimensions/event-depth-in-cja.md)

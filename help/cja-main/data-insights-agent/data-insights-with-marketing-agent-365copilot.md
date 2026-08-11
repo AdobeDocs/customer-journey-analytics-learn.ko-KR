@@ -21,14 +21,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: 19f938ab38373fe13067802478d11a0c92e10f45
+source-git-commit: a406797e1f9dff253927bf19feb85e34db3cac97
 workflow-type: tm+mt
-source-wordcount: 118
-ht-degree: 0%
+source-wordcount: 117
+ht-degree: 28%
 
 ---
 
-# [!DNL Microsoft 365 Copilot]에 대한 [!DNL Adobe Marketing Agent]&#x200B;(으)로 데이터 인사이트(초)
+# [!DNL Microsoft 365 Copilot]에 대해 [!DNL Adobe Marketing Agent]을(를) 사용한 빠른 데이터 인사이트
 
 마케터가 분석 데이터에 대해 자연어 질문을 하고 Customer Journey Analytics에서 시각화 및 데이터를 다시 가져올 때 [!DNL Microsoft Teams]에서 [!DNL Adobe Marketing Agent]의 데모를 시청하십시오.
 
