@@ -2,9 +2,9 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 5064599b3c112221363afbd1c9e205a484f32df6
+source-git-commit: 40e587c922ab0685d10f5d23a9f5d21d6f4ef7f4
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '771'
 ht-degree: 79%
 
 ---
@@ -33,12 +33,11 @@ ht-degree: 79%
   + [데이터 작업](data-prep/working-with-data-in-cja.md)
   + [Adobe Analytics 데이터 수집, 매핑 및 변형](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
   + [Adobe Analytics 분류 데이터 수집 및 사용](data-prep/ingest-and-use-analytics-classifications.md)
-+ Data Mirror {#data-mirror}
-  + [외부 데이터 웨어하우스와 동기화](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + 액세스 제어 {#access-control}
   + [권한 설정](permissions/set-up-permissions.md)
 + 연결 {#connections}
   + [Experience Platform 데이터 소스에 연결](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [외부 데이터 웨어하우스와 동기화](connections/cja-data-mirror-sync-external-platforms.md)
   + [연결 설정 보기, 문제 해결 및 수정](connections/connections-details-experience-in-cja.md)
   + [연결에 새 데이터 추가](connections/add-past-data-to-an-existing-connection-in-cja.md)
   + [조회 및 프로필 데이터에 대한 CJA 조회](connections/cja-lookup-data.md)
