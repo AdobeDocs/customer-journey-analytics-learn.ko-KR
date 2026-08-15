@@ -22,4 +22,4 @@ ht-degree: 7%
 
 추가 정보는 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/segments/sub-event){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497080?captions=kor&learn=on)

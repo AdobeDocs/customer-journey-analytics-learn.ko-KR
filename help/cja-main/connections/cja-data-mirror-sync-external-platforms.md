@@ -24,5 +24,5 @@ Data Mirror은 Snowflake, BigQuery 및 Databricks와 같이 지원되는 클라�
 
 추가 정보는 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497067/?captions=kor&learn=on)
 

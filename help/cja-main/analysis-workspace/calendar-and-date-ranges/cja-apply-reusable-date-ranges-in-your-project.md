@@ -29,4 +29,4 @@ ht-degree: 0%
 
 제품에서 사용자 정의 날짜 및 날짜 범위를 사용하면 데이터 스토리를 제공하는 정보에만 집중할 수 있습니다. 이 비디오에서는 Analysis Workspace 프로젝트에서 날짜 범위를 사용할 수 있는 몇 가지 위치를 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497171/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497178/?captions=kor&learn=on&enablevpops)
