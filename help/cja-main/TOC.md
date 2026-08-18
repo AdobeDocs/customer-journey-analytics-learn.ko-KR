@@ -2,10 +2,10 @@
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 type: Tutorial
-source-git-commit: 414e52d4db7057992525e7d68e5b79d3091f9875
+source-git-commit: e098f3b353ef0f5f6f897eb175857f7a6606876e
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 79%
+source-wordcount: '783'
+ht-degree: 78%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 79%
 + Customer Journey Analytics B2B Edition {#b2b}
   + [Customer Journey Analytics 소개 - B2B Edition](b2b/cja-b2b-overview.md)
   + [CJA B2B edition - 첫 번째 질문 너머](b2b/cja-b2b-beyond-the-first-questions.md)
-  + [B2B 인사이트를 위해 CJA과 Marketo 통합](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
+  + [B2B 인사이트를 위해 CJA와 Marketo 통합](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
 + 원격 MCP 서버 {#remote-mcp-server}
   + [CJA용 원격 MCP 서버 개요](remote-mcp-server/remote-mcp-server-for-cja-overview.md)
   + [CJA용 원격 MCP 서버 작동 중](remote-mcp-server/remote-mcp-server-for-cja-in-action.md)
@@ -61,7 +61,7 @@ ht-degree: 79%
   + [데이터 보기에서 차원 값 포함 또는 제외](data-views/include-or-exclude-dimension-values-in-data-views.md)
   + [데이터 보기의 바인딩 차원](data-views/binding-dimensions-in-data-views.md)
   + [데이터 보기에서 값 없음 옵션 구성](data-views/configure-no-value-options-in-data-views.md)
-  + [데이터 보기에서 속성 설정](data-views/attribution-settings-in-data-views.md)
+  + [데이터 보기에서 기여도 설정](data-views/attribution-settings-in-data-views.md)
   + [통화 전환](data-views/currency-conversion.md)
   + 파생 필드{#derived-fields}
     + [파생 필드 만들기](data-views/derived-fields/derived-fields-in-cja.md)
@@ -85,7 +85,7 @@ ht-degree: 79%
       + [여정 캔버스 시각화](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
   + 패널 {#panels}
     + [자유 형식 패널에 구성 요소 추가](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
-    + [속성 패널 빌드](analysis-workspace/panels/build-the-attribution-panel.md)
+    + [기여도 패널 빌드](analysis-workspace/panels/build-the-attribution-panel.md)
     + [다음 및 이전 항목 패널 구성](analysis-workspace/panels/configure-next-previous-item-panel.md)
     + [실험 패널 사용](analysis-workspace/panels/use-the-experimentation-panel.md)
     + [빠른 인사이트 패널 사용](analysis-workspace/panels/use-the-quick-insights-panel.md)
@@ -123,6 +123,7 @@ ht-degree: 79%
   + 캘린더 및 날짜 범위 {#calendar-and-date-ranges}
     + [Analysis Workspace에서 캘린더 및 날짜 사용](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
     + [프로젝트에서 재사용 가능한 날짜 범위 적용](analysis-workspace/calendar-and-date-ranges/cja-apply-reusable-date-ranges-in-your-project.md)
+    + [날짜 범위 및 비교 사용](analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons.md)
   + 주석 {#annotations}
     + [주석 만들기](analysis-workspace/annotations/create-an-annotation.md)
   + 선별 및 공유 {#curate-and-share}
