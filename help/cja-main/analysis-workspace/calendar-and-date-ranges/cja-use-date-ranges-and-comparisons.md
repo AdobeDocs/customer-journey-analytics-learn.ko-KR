@@ -19,4 +19,4 @@ ht-degree: 0%
 
 프로젝트의 날짜 범위 비교를 사용하여 성과 분석
 
->[!VIDEO](https://video.tv.adobe.com/v/3497504/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3497520/?captions=kor&learn=on&enablevpops)
