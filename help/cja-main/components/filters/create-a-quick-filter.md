@@ -7,7 +7,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343743.jpg
 kt: 10452
-last-substantial-update: 2022-06-10T00:00:00.000Z
+last-substantial-update: 2026-09-04
 exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
 TQID: https://experienceleague.adobe.com/Tw55r-TS2A2pYAeyIi5-V2j9rO31jrJj-M-8AdDznwo
 product_v2:
@@ -23,19 +23,15 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 52f237d741c93529404cbdbc474a345bd3552581
 workflow-type: tm+mt
-source-wordcount: 116
-ht-degree: 12%
+source-wordcount: 107
+ht-degree: 14%
 
 ---
 
 # 빠른 세그먼트 만들기
 
-[!DNL Customer Journey Analytics] 프로젝트에서 직접 [!UICONTROL 빠른 세그먼트]를 만들고 전체 [!UICONTROL 세그먼트 빌더]의 복잡성을 피할 수 있습니다. 이 기능을 사용하면 간단한 기준에 따라 구성 요소 데이터를 세그먼트화하고 결과를 즉시 확인할 수 있는 편리한 방법을 사용할 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/quick-filters){target="_blank"}를 참조하십시오.
-
->[!NOTE]
->
-> Customer Journey Analytics 인터페이스에서 &quot;[!UICONTROL 필터]&quot;의 이름이 &quot;[!UICONTROL 세그먼트]&quot;으로 변경되었습니다.
+Customer Journey Analytics 프로젝트에서 직접 [!UICONTROL 빠른 세그먼트]를 만들어 전체 [!UICONTROL 세그먼트 빌더]의 복잡성을 피할 수 있습니다. 이 기능을 사용하면 간단한 기준에 따라 구성 요소 데이터를 세그먼트화하고 결과를 즉시 확인할 수 있는 편리한 방법을 사용할 수 있습니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/segments/seg-quick){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410245/?captions=kor&quality=12&learn=on)
