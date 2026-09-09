@@ -26,19 +26,15 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: fb8bcbdd846b74e46321c69b4ccee3752cbea5d4
+source-git-commit: 86fe0ba98a4aaaab0874b0db2c163bf493f4d3f7
 workflow-type: tm+mt
-source-wordcount: 75
-ht-degree: 8%
+source-wordcount: 63
+ht-degree: 9%
 
 ---
 
 # [!DNL segments]을(를) Analysis Workspace 프로젝트의 차원으로 사용
 
-Analysis Workspace 프로젝트에서 차원으로 사용될 때 세그먼트를 비교하고 시각화하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}를 참조하십시오.
-
->[!NOTE]
->
-> Customer Journey Analytics 인터페이스에서 &quot;[!UICONTROL 필터]&quot;의 이름이 &quot;[!UICONTROL 세그먼트]&quot;으로 변경되었습니다.
+Analysis Workspace 프로젝트에서 차원으로 사용될 때 세그먼트를 비교하고 시각화하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3449069/?captions=kor&learn=on&quality=12)
