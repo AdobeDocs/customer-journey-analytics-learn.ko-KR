@@ -37,4 +37,4 @@ ht-degree: 9%
 
 Analysis Workspace 프로젝트에서 차원으로 사용될 때 세그먼트를 비교하고 시각화하는 방법에 대해 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-components/segments/seg-create){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419024/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3449069/?captions=kor&learn=on&quality=12)
