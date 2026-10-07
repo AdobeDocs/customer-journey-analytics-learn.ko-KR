@@ -47,4 +47,4 @@ Adobe Experience Platform을 기반으로 Adobe Customer Journey Analytics을 �
 
 Customer Journey Analytics에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/kr/docs/analytics-platform/using/cja-landing){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/32483/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330415/?captions=kor&learn=on&quality=12)

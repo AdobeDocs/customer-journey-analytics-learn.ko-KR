@@ -37,4 +37,4 @@ ht-degree: 53%
 
 라인 시각화가 시간이 지남에 따라 지표에 대한 이해를 높이는 방법을 알아봅니다. X/Y 축을 맞춤화하고, 최소/최대 레이블을 표시하고, 트렌드 라인을 추가하여 Customer Journey Analytics을 통한 데이터 인사이트를 개선합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478979/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478986/?captions=kor&learn=on&enablevpops)

@@ -43,4 +43,4 @@ ht-degree: 100%
 
 Customer Journey Analytics에서 데이터 보기를 구성하는 동안 보고서에 -값 없음- 옵션을 표시할지 여부와 표시 방법을 선택할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333113/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412944/?captions=kor&quality=12&learn=on)

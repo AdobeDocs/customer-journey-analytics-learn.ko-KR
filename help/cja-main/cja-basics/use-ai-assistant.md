@@ -40,4 +40,4 @@ Customer Journey Analytics의 AI 어시스턴트가 개념을 배우고, 문제�
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-overview/cja-b2c-overview/ai-assistant){target="_blank"}를 검토하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471136/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471159/?captions=kor&learn=on)
