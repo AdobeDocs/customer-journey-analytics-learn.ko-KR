@@ -36,4 +36,4 @@ Customer Journey Analytics의 **첫 번째 사용 영향**&#x200B;이(가) 사�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/first-use.html?lang=ko){target="_blank"}를 참조하십시오.

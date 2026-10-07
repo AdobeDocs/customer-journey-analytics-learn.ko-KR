@@ -31,7 +31,7 @@ ht-degree: 75%
 
 # 데이터 시각화
 
-Analysis Workspace에서 시각화를 추가할 때는 시각화 유형에 따라 데이터를 추가하는 몇 가지 방법이 있습니다. 이 비디오에서는 이러한 방식을 보여 줍니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}를 참조하십시오.
+Analysis Workspace에서 시각화를 추가할 때는 시각화 유형에 따라 데이터를 추가하는 몇 가지 방법이 있습니다. 이 비디오에서는 이러한 방식을 보여 줍니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
 
