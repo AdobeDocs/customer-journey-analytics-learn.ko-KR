@@ -1,24 +1,37 @@
 ---
 title: Customer Journey Analytics에서 데이터 시각화
-description: Analysis Workspace의 시각화를 추가하면 몇 가지 다양한 방식으로 시각화 유형에 따라 데이터를 시각화에 추가할 수 있습니다. 이 비디오에서는 이러한 방식을 보여 줍니다.
+description: Analysis Workspace에서 시각화를 추가할 때는 시각화 유형에 따라 데이터를 추가하는 몇 가지 방법이 있습니다. 이 비디오에서는 이러한 방식을 보여 줍니다.
 feature: Visualizations
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 18960
-last-substantial-update: 2026-06-04T00:00:00Z
+last-substantial-update: 2026-06-04T00:00:00.000Z
 jira: KT-21501
-source-git-commit: 888c4ac95e57f36ec36090e7db3b5d5c10238ba1
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 03362cfb3b955cbdc57bc0ed4d96c12431a341cc
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 75%
-
 ---
-
 
 # 데이터 시각화
 
-Analysis Workspace의 시각화를 추가하면 몇 가지 다양한 방식으로 시각화 유형에 따라 데이터를 시각화에 추가할 수 있습니다. 이 비디오에서는 이러한 방식을 보여 줍니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}를 참조하십시오.
+Analysis Workspace에서 시각화를 추가할 때는 시각화 유형에 따라 데이터를 추가하는 몇 가지 방법이 있습니다. 이 비디오에서는 이러한 방식을 보여 줍니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491937/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
 
