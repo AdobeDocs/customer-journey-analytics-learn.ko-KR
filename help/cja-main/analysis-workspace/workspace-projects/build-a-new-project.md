@@ -50,4 +50,4 @@ Customer Journey Analytics용 Analysis Workspace에서 기본 프로젝트를 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418396/?learn=on&quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html?lang=ko){target="_blank"}를 참조하십시오.
