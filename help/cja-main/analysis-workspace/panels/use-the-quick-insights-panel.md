@@ -55,4 +55,4 @@ Customer Journey Analytics의 빠른 인사이트 패널을 사용하여 비즈�
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505753/?captions=kor&learn=on)
